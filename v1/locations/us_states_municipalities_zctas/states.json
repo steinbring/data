@@ -1,0 +1,320 @@
+{
+  "source": {
+    "name": "U.S. Census Bureau - 2020 ZCTA5 to 2020 Place relationship file",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/tab20_zcta520_place20_natl.txt"
+  },
+  "generated_local_date": "2026-01-21",
+  "notes": [
+    "This uses Census ZCTAs (ZIP Code Tabulation Areas), which are approximations of USPS ZIP Code service areas. They are not identical to USPS ZIPs (e.g., some PO Box ZIPs may be missing).",
+    "Municipalities here are Census 'Places' (incorporated places + census-designated places), as used in TIGER/MAF/TIGER reference products.",
+    "A ZCTA can overlap multiple places; therefore the same ZCTA may appear under multiple municipalities. land_part_m2 indicates the land overlap area between the ZCTA and the place for that row."
+  ],
+  "states": [
+    {
+      "name": "Alabama",
+      "code": "AL",
+      "fips": "01",
+      "file": "AL.json"
+    },
+    {
+      "name": "Alaska",
+      "code": "AK",
+      "fips": "02",
+      "file": "AK.json"
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ",
+      "fips": "04",
+      "file": "AZ.json"
+    },
+    {
+      "name": "Arkansas",
+      "code": "AR",
+      "fips": "05",
+      "file": "AR.json"
+    },
+    {
+      "name": "California",
+      "code": "CA",
+      "fips": "06",
+      "file": "CA.json"
+    },
+    {
+      "name": "Colorado",
+      "code": "CO",
+      "fips": "08",
+      "file": "CO.json"
+    },
+    {
+      "name": "Connecticut",
+      "code": "CT",
+      "fips": "09",
+      "file": "CT.json"
+    },
+    {
+      "name": "Delaware",
+      "code": "DE",
+      "fips": "10",
+      "file": "DE.json"
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "fips": "11",
+      "file": "DC.json"
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "fips": "12",
+      "file": "FL.json"
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "fips": "13",
+      "file": "GA.json"
+    },
+    {
+      "name": "Hawaii",
+      "code": "HI",
+      "fips": "15",
+      "file": "HI.json"
+    },
+    {
+      "name": "Idaho",
+      "code": "ID",
+      "fips": "16",
+      "file": "ID.json"
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "fips": "17",
+      "file": "IL.json"
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "fips": "18",
+      "file": "IN.json"
+    },
+    {
+      "name": "Iowa",
+      "code": "IA",
+      "fips": "19",
+      "file": "IA.json"
+    },
+    {
+      "name": "Kansas",
+      "code": "KS",
+      "fips": "20",
+      "file": "KS.json"
+    },
+    {
+      "name": "Kentucky",
+      "code": "KY",
+      "fips": "21",
+      "file": "KY.json"
+    },
+    {
+      "name": "Louisiana",
+      "code": "LA",
+      "fips": "22",
+      "file": "LA.json"
+    },
+    {
+      "name": "Maine",
+      "code": "ME",
+      "fips": "23",
+      "file": "ME.json"
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "fips": "24",
+      "file": "MD.json"
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "fips": "25",
+      "file": "MA.json"
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "fips": "26",
+      "file": "MI.json"
+    },
+    {
+      "name": "Minnesota",
+      "code": "MN",
+      "fips": "27",
+      "file": "MN.json"
+    },
+    {
+      "name": "Mississippi",
+      "code": "MS",
+      "fips": "28",
+      "file": "MS.json"
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "fips": "29",
+      "file": "MO.json"
+    },
+    {
+      "name": "Montana",
+      "code": "MT",
+      "fips": "30",
+      "file": "MT.json"
+    },
+    {
+      "name": "Nebraska",
+      "code": "NE",
+      "fips": "31",
+      "file": "NE.json"
+    },
+    {
+      "name": "Nevada",
+      "code": "NV",
+      "fips": "32",
+      "file": "NV.json"
+    },
+    {
+      "name": "New Hampshire",
+      "code": "NH",
+      "fips": "33",
+      "file": "NH.json"
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "fips": "34",
+      "file": "NJ.json"
+    },
+    {
+      "name": "New Mexico",
+      "code": "NM",
+      "fips": "35",
+      "file": "NM.json"
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "fips": "36",
+      "file": "NY.json"
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "fips": "37",
+      "file": "NC.json"
+    },
+    {
+      "name": "North Dakota",
+      "code": "ND",
+      "fips": "38",
+      "file": "ND.json"
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "fips": "39",
+      "file": "OH.json"
+    },
+    {
+      "name": "Oklahoma",
+      "code": "OK",
+      "fips": "40",
+      "file": "OK.json"
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
+      "fips": "41",
+      "file": "OR.json"
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "fips": "42",
+      "file": "PA.json"
+    },
+    {
+      "name": "Rhode Island",
+      "code": "RI",
+      "fips": "44",
+      "file": "RI.json"
+    },
+    {
+      "name": "South Carolina",
+      "code": "SC",
+      "fips": "45",
+      "file": "SC.json"
+    },
+    {
+      "name": "South Dakota",
+      "code": "SD",
+      "fips": "46",
+      "file": "SD.json"
+    },
+    {
+      "name": "Tennessee",
+      "code": "TN",
+      "fips": "47",
+      "file": "TN.json"
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "fips": "48",
+      "file": "TX.json"
+    },
+    {
+      "name": "Utah",
+      "code": "UT",
+      "fips": "49",
+      "file": "UT.json"
+    },
+    {
+      "name": "Vermont",
+      "code": "VT",
+      "fips": "50",
+      "file": "VT.json"
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "fips": "51",
+      "file": "VA.json"
+    },
+    {
+      "name": "Washington",
+      "code": "WA",
+      "fips": "53",
+      "file": "WA.json"
+    },
+    {
+      "name": "West Virginia",
+      "code": "WV",
+      "fips": "54",
+      "file": "WV.json"
+    },
+    {
+      "name": "Wisconsin",
+      "code": "WI",
+      "fips": "55",
+      "file": "WI.json"
+    },
+    {
+      "name": "Wyoming",
+      "code": "WY",
+      "fips": "56",
+      "file": "WY.json"
+    }
+  ]
+}

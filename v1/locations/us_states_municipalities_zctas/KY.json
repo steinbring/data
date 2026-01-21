@@ -1,0 +1,7914 @@
+{
+  "state": {
+    "name": "Kentucky",
+    "code": "KY",
+    "fips": "21"
+  },
+  "source": {
+    "name": "U.S. Census Bureau - 2020 ZCTA5 to 2020 Place relationship file",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/tab20_zcta520_place20_natl.txt"
+  },
+  "generated_local_date": "2026-01-21",
+  "notes": [
+    "This file contains Census 'Places' (municipalities) and Census ZCTAs that intersect each place.",
+    "A ZCTA can overlap multiple places; the same ZCTA may appear in multiple municipalities.",
+    "land_part_m2 is the land overlap area between the place and ZCTA for that row."
+  ],
+  "municipalities": [
+    {
+      "name": "Adairville city",
+      "geoid": "2100298",
+      "zctas": [
+        {
+          "zcta": "42202",
+          "name": "ZCTA5 42202",
+          "land_part_m2": 3044163
+        }
+      ]
+    },
+    {
+      "name": "Ages CDP",
+      "geoid": "2100514",
+      "zctas": [
+        {
+          "zcta": "40828",
+          "name": "ZCTA5 40828",
+          "land_part_m2": 1403156
+        },
+        {
+          "zcta": "40831",
+          "name": "ZCTA5 40831",
+          "land_part_m2": 38894
+        }
+      ]
+    },
+    {
+      "name": "Albany city",
+      "geoid": "2100694",
+      "zctas": [
+        {
+          "zcta": "42602",
+          "name": "ZCTA5 42602",
+          "land_part_m2": 5889788
+        }
+      ]
+    },
+    {
+      "name": "Alexandria city",
+      "geoid": "2100802",
+      "zctas": [
+        {
+          "zcta": "41001",
+          "name": "ZCTA5 41001",
+          "land_part_m2": 17862411
+        },
+        {
+          "zcta": "41076",
+          "name": "ZCTA5 41076",
+          "land_part_m2": 76587
+        }
+      ]
+    },
+    {
+      "name": "Allen city",
+      "geoid": "2100946",
+      "zctas": [
+        {
+          "zcta": "41601",
+          "name": "ZCTA5 41601",
+          "land_part_m2": 462711
+        }
+      ]
+    },
+    {
+      "name": "Allensville CDP",
+      "geoid": "2101000",
+      "zctas": [
+        {
+          "zcta": "42204",
+          "name": "ZCTA5 42204",
+          "land_part_m2": 2960982
+        }
+      ]
+    },
+    {
+      "name": "Anchorage city",
+      "geoid": "2101504",
+      "zctas": [
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 7663521
+        }
+      ]
+    },
+    {
+      "name": "Annville CDP",
+      "geoid": "2101648",
+      "zctas": [
+        {
+          "zcta": "40402",
+          "name": "ZCTA5 40402",
+          "land_part_m2": 17392139
+        },
+        {
+          "zcta": "40447",
+          "name": "ZCTA5 40447",
+          "land_part_m2": 838346
+        },
+        {
+          "zcta": "40486",
+          "name": "ZCTA5 40486",
+          "land_part_m2": 2503589
+        }
+      ]
+    },
+    {
+      "name": "Anthoston CDP",
+      "geoid": "2101720",
+      "zctas": [
+        {
+          "zcta": "42420",
+          "name": "ZCTA5 42420",
+          "land_part_m2": 1669924
+        }
+      ]
+    },
+    {
+      "name": "Arjay CDP",
+      "geoid": "2101972",
+      "zctas": [
+        {
+          "zcta": "40902",
+          "name": "ZCTA5 40902",
+          "land_part_m2": 1605666
+        }
+      ]
+    },
+    {
+      "name": "Arlington city",
+      "geoid": "2102044",
+      "zctas": [
+        {
+          "zcta": "42021",
+          "name": "ZCTA5 42021",
+          "land_part_m2": 974413
+        }
+      ]
+    },
+    {
+      "name": "Artemus CDP",
+      "geoid": "2102188",
+      "zctas": [
+        {
+          "zcta": "40903",
+          "name": "ZCTA5 40903",
+          "land_part_m2": 2288749
+        },
+        {
+          "zcta": "40906",
+          "name": "ZCTA5 40906",
+          "land_part_m2": 1208055
+        }
+      ]
+    },
+    {
+      "name": "Ashland city",
+      "geoid": "2102368",
+      "zctas": [
+        {
+          "zcta": "41101",
+          "name": "ZCTA5 41101",
+          "land_part_m2": 18169023
+        },
+        {
+          "zcta": "41102",
+          "name": "ZCTA5 41102",
+          "land_part_m2": 9576730
+        },
+        {
+          "zcta": "41129",
+          "name": "ZCTA5 41129",
+          "land_part_m2": 58611
+        }
+      ]
+    },
+    {
+      "name": "Auburn city",
+      "geoid": "2102638",
+      "zctas": [
+        {
+          "zcta": "42206",
+          "name": "ZCTA5 42206",
+          "land_part_m2": 4744566
+        }
+      ]
+    },
+    {
+      "name": "Audubon Park city",
+      "geoid": "2102656",
+      "zctas": [
+        {
+          "zcta": "40213",
+          "name": "ZCTA5 40213",
+          "land_part_m2": 838671
+        }
+      ]
+    },
+    {
+      "name": "Augusta city",
+      "geoid": "2102674",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41002",
+          "name": "ZCTA5 41002",
+          "land_part_m2": 3082910
+        }
+      ]
+    },
+    {
+      "name": "Auxier CDP",
+      "geoid": "2102764",
+      "zctas": [
+        {
+          "zcta": "41602",
+          "name": "ZCTA5 41602",
+          "land_part_m2": 2389154
+        }
+      ]
+    },
+    {
+      "name": "Bancroft city",
+      "geoid": "2103376",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 194368
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 198818
+        }
+      ]
+    },
+    {
+      "name": "Bandana CDP",
+      "geoid": "2103412",
+      "zctas": [
+        {
+          "zcta": "42022",
+          "name": "ZCTA5 42022",
+          "land_part_m2": 1273220
+        },
+        {
+          "zcta": "42053",
+          "name": "ZCTA5 42053",
+          "land_part_m2": 2399577
+        },
+        {
+          "zcta": "42056",
+          "name": "ZCTA5 42056",
+          "land_part_m2": 1214839
+        }
+      ]
+    },
+    {
+      "name": "Barbourmeade city",
+      "geoid": "2103556",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 764225
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 259202
+        }
+      ]
+    },
+    {
+      "name": "Barbourville city",
+      "geoid": "2103574",
+      "zctas": [
+        {
+          "zcta": "40906",
+          "name": "ZCTA5 40906",
+          "land_part_m2": 6816149
+        },
+        {
+          "zcta": "40915",
+          "name": "ZCTA5 40915",
+          "land_part_m2": 11249
+        },
+        {
+          "zcta": "40949",
+          "name": "ZCTA5 40949",
+          "land_part_m2": 44803
+        }
+      ]
+    },
+    {
+      "name": "Bardstown city",
+      "geoid": "2103628",
+      "zctas": [
+        {
+          "zcta": "40004",
+          "name": "ZCTA5 40004",
+          "land_part_m2": 31347523
+        }
+      ]
+    },
+    {
+      "name": "Bardwell city",
+      "geoid": "2103664",
+      "zctas": [
+        {
+          "zcta": "42023",
+          "name": "ZCTA5 42023",
+          "land_part_m2": 2238876
+        }
+      ]
+    },
+    {
+      "name": "Barlow city",
+      "geoid": "2103718",
+      "zctas": [
+        {
+          "zcta": "42024",
+          "name": "ZCTA5 42024",
+          "land_part_m2": 1426356
+        }
+      ]
+    },
+    {
+      "name": "Beattyville city",
+      "geoid": "2104546",
+      "zctas": [
+        {
+          "zcta": "41311",
+          "name": "ZCTA5 41311",
+          "land_part_m2": 5944986
+        }
+      ]
+    },
+    {
+      "name": "Beaver Dam city",
+      "geoid": "2104654",
+      "zctas": [
+        {
+          "zcta": "42320",
+          "name": "ZCTA5 42320",
+          "land_part_m2": 7869198
+        }
+      ]
+    },
+    {
+      "name": "Bedford city",
+      "geoid": "2104816",
+      "zctas": [
+        {
+          "zcta": "40006",
+          "name": "ZCTA5 40006",
+          "land_part_m2": 704949
+        }
+      ]
+    },
+    {
+      "name": "Beech Grove CDP",
+      "geoid": "2104978",
+      "zctas": [
+        {
+          "zcta": "42322",
+          "name": "ZCTA5 42322",
+          "land_part_m2": 1494114
+        },
+        {
+          "zcta": "42327",
+          "name": "ZCTA5 42327",
+          "land_part_m2": 3284258
+        }
+      ]
+    },
+    {
+      "name": "Beechmont CDP",
+      "geoid": "2105014",
+      "zctas": [
+        {
+          "zcta": "42321",
+          "name": "ZCTA5 42321",
+          "land_part_m2": 1294506
+        },
+        {
+          "zcta": "42323",
+          "name": "ZCTA5 42323",
+          "land_part_m2": 3416436
+        }
+      ]
+    },
+    {
+      "name": "Beechwood Village city",
+      "geoid": "2105068",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 715149
+        },
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 5418
+        }
+      ]
+    },
+    {
+      "name": "Belfry CDP",
+      "geoid": "2105266",
+      "zctas": [
+        {
+          "zcta": "41514",
+          "name": "ZCTA5 41514",
+          "land_part_m2": 1867795
+        }
+      ]
+    },
+    {
+      "name": "Bellefonte city",
+      "geoid": "2105374",
+      "zctas": [
+        {
+          "zcta": "41101",
+          "name": "ZCTA5 41101",
+          "land_part_m2": 2280903
+        }
+      ]
+    },
+    {
+      "name": "Bellemeade city",
+      "geoid": "2105392",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 449927
+        },
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 306525
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 2763
+        }
+      ]
+    },
+    {
+      "name": "Belleview CDP",
+      "geoid": "2105428",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41005",
+          "name": "ZCTA5 41005",
+          "land_part_m2": 3523296
+        }
+      ]
+    },
+    {
+      "name": "Bellevue city",
+      "geoid": "2105446",
+      "zctas": [
+        {
+          "zcta": "41073",
+          "name": "ZCTA5 41073",
+          "land_part_m2": 2344918
+        }
+      ]
+    },
+    {
+      "name": "Bellewood city",
+      "geoid": "2105464",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 209782
+        }
+      ]
+    },
+    {
+      "name": "Benham city",
+      "geoid": "2105662",
+      "zctas": [
+        {
+          "zcta": "40807",
+          "name": "ZCTA5 40807",
+          "land_part_m2": 410139
+        },
+        {
+          "zcta": "40823",
+          "name": "ZCTA5 40823",
+          "land_part_m2": 124661
+        },
+        {
+          "zcta": "40855",
+          "name": "ZCTA5 40855",
+          "land_part_m2": 71884
+        }
+      ]
+    },
+    {
+      "name": "Benton city",
+      "geoid": "2105824",
+      "zctas": [
+        {
+          "zcta": "42025",
+          "name": "ZCTA5 42025",
+          "land_part_m2": 12840233
+        }
+      ]
+    },
+    {
+      "name": "Berea city",
+      "geoid": "2105842",
+      "zctas": [
+        {
+          "zcta": "40403",
+          "name": "ZCTA5 40403",
+          "land_part_m2": 41988718
+        },
+        {
+          "zcta": "40404",
+          "name": "ZCTA5 40404",
+          "land_part_m2": 511721
+        },
+        {
+          "zcta": "40461",
+          "name": "ZCTA5 40461",
+          "land_part_m2": 260441
+        }
+      ]
+    },
+    {
+      "name": "Berry city",
+      "geoid": "2105968",
+      "zctas": [
+        {
+          "zcta": "41003",
+          "name": "ZCTA5 41003",
+          "land_part_m2": 659276
+        }
+      ]
+    },
+    {
+      "name": "Betsy Layne CDP",
+      "geoid": "2106220",
+      "zctas": [
+        {
+          "zcta": "41605",
+          "name": "ZCTA5 41605",
+          "land_part_m2": 3542032
+        },
+        {
+          "zcta": "41635",
+          "name": "ZCTA5 41635",
+          "land_part_m2": 1141777
+        }
+      ]
+    },
+    {
+      "name": "Big Clifty CDP",
+      "geoid": "2106508",
+      "zctas": [
+        {
+          "zcta": "42712",
+          "name": "ZCTA5 42712",
+          "land_part_m2": 3728421
+        }
+      ]
+    },
+    {
+      "name": "Blackey city",
+      "geoid": "2107012",
+      "zctas": [
+        {
+          "zcta": "41804",
+          "name": "ZCTA5 41804",
+          "land_part_m2": 1132237
+        }
+      ]
+    },
+    {
+      "name": "Blaine city",
+      "geoid": "2107264",
+      "zctas": [
+        {
+          "zcta": "41124",
+          "name": "ZCTA5 41124",
+          "land_part_m2": 733348
+        }
+      ]
+    },
+    {
+      "name": "Blandville city",
+      "geoid": "2107390",
+      "zctas": [
+        {
+          "zcta": "42087",
+          "name": "ZCTA5 42087",
+          "land_part_m2": 540938
+        }
+      ]
+    },
+    {
+      "name": "Bloomfield city",
+      "geoid": "2107516",
+      "zctas": [
+        {
+          "zcta": "40008",
+          "name": "ZCTA5 40008",
+          "land_part_m2": 3732714
+        }
+      ]
+    },
+    {
+      "name": "Blue Ridge Manor city",
+      "geoid": "2107858",
+      "zctas": [
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 480526
+        }
+      ]
+    },
+    {
+      "name": "Bonnieville city",
+      "geoid": "2108488",
+      "zctas": [
+        {
+          "zcta": "42713",
+          "name": "ZCTA5 42713",
+          "land_part_m2": 1488444
+        }
+      ]
+    },
+    {
+      "name": "Booneville city",
+      "geoid": "2108614",
+      "zctas": [
+        {
+          "zcta": "41314",
+          "name": "ZCTA5 41314",
+          "land_part_m2": 3748173
+        }
+      ]
+    },
+    {
+      "name": "Boston CDP",
+      "geoid": "2108722",
+      "zctas": [
+        {
+          "zcta": "40107",
+          "name": "ZCTA5 40107",
+          "land_part_m2": 5084530
+        }
+      ]
+    },
+    {
+      "name": "Bowling Green city",
+      "geoid": "2108902",
+      "zctas": [
+        {
+          "zcta": "42101",
+          "name": "ZCTA5 42101",
+          "land_part_m2": 54089928
+        },
+        {
+          "zcta": "42103",
+          "name": "ZCTA5 42103",
+          "land_part_m2": 25206126
+        },
+        {
+          "zcta": "42104",
+          "name": "ZCTA5 42104",
+          "land_part_m2": 25181347
+        },
+        {
+          "zcta": "42122",
+          "name": "ZCTA5 42122",
+          "land_part_m2": 102533
+        }
+      ]
+    },
+    {
+      "name": "Bradfordsville city",
+      "geoid": "2109100",
+      "zctas": [
+        {
+          "zcta": "40009",
+          "name": "ZCTA5 40009",
+          "land_part_m2": 694094
+        },
+        {
+          "zcta": "40033",
+          "name": "ZCTA5 40033",
+          "land_part_m2": 4841
+        }
+      ]
+    },
+    {
+      "name": "Brandenburg city",
+      "geoid": "2109226",
+      "zctas": [
+        {
+          "zcta": "40108",
+          "name": "ZCTA5 40108",
+          "land_part_m2": 10606911
+        }
+      ]
+    },
+    {
+      "name": "Breckinridge Center CDP",
+      "geoid": "2109379",
+      "zctas": [
+        {
+          "zcta": "42437",
+          "name": "ZCTA5 42437",
+          "land_part_m2": 6797027
+        }
+      ]
+    },
+    {
+      "name": "Bremen city",
+      "geoid": "2109406",
+      "zctas": [
+        {
+          "zcta": "42325",
+          "name": "ZCTA5 42325",
+          "land_part_m2": 535760
+        }
+      ]
+    },
+    {
+      "name": "Briarwood city",
+      "geoid": "2109532",
+      "zctas": [
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 246704
+        }
+      ]
+    },
+    {
+      "name": "Brodhead city",
+      "geoid": "2109838",
+      "zctas": [
+        {
+          "zcta": "40409",
+          "name": "ZCTA5 40409",
+          "land_part_m2": 4520249
+        }
+      ]
+    },
+    {
+      "name": "Broeck Pointe city",
+      "geoid": "2109847",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 185047
+        }
+      ]
+    },
+    {
+      "name": "Bromley city",
+      "geoid": "2109856",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41016",
+          "name": "ZCTA5 41016",
+          "land_part_m2": 661914
+        },
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 308701
+        }
+      ]
+    },
+    {
+      "name": "Brooks CDP",
+      "geoid": "2109964",
+      "zctas": [
+        {
+          "zcta": "40109",
+          "name": "ZCTA5 40109",
+          "land_part_m2": 8262927
+        },
+        {
+          "zcta": "40165",
+          "name": "ZCTA5 40165",
+          "land_part_m2": 617778
+        },
+        {
+          "zcta": "40229",
+          "name": "ZCTA5 40229",
+          "land_part_m2": 659233
+        }
+      ]
+    },
+    {
+      "name": "Brooksville city",
+      "geoid": "2110000",
+      "zctas": [
+        {
+          "zcta": "41004",
+          "name": "ZCTA5 41004",
+          "land_part_m2": 1221565
+        }
+      ]
+    },
+    {
+      "name": "Brownsboro Farm city",
+      "geoid": "2110162",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 588839
+        }
+      ]
+    },
+    {
+      "name": "Brownsboro Village city",
+      "geoid": "2110198",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 194018
+        }
+      ]
+    },
+    {
+      "name": "Brownsville city",
+      "geoid": "2110324",
+      "zctas": [
+        {
+          "zcta": "42210",
+          "name": "ZCTA5 42210",
+          "land_part_m2": 6765662
+        }
+      ]
+    },
+    {
+      "name": "Buckhorn city",
+      "geoid": "2110612",
+      "zctas": [
+        {
+          "zcta": "41721",
+          "name": "ZCTA5 41721",
+          "land_part_m2": 832552
+        },
+        {
+          "zcta": "41745",
+          "name": "ZCTA5 41745",
+          "land_part_m2": 40807
+        }
+      ]
+    },
+    {
+      "name": "Buckner CDP",
+      "geoid": "2110648",
+      "zctas": [
+        {
+          "zcta": "40010",
+          "name": "ZCTA5 40010",
+          "land_part_m2": 3916525
+        },
+        {
+          "zcta": "40014",
+          "name": "ZCTA5 40014",
+          "land_part_m2": 2927610
+        },
+        {
+          "zcta": "40031",
+          "name": "ZCTA5 40031",
+          "land_part_m2": 15527460
+        }
+      ]
+    },
+    {
+      "name": "Buffalo CDP",
+      "geoid": "2110774",
+      "zctas": [
+        {
+          "zcta": "42716",
+          "name": "ZCTA5 42716",
+          "land_part_m2": 2849757
+        },
+        {
+          "zcta": "42748",
+          "name": "ZCTA5 42748",
+          "land_part_m2": 209921
+        }
+      ]
+    },
+    {
+      "name": "Burgin city",
+      "geoid": "2111044",
+      "zctas": [
+        {
+          "zcta": "40310",
+          "name": "ZCTA5 40310",
+          "land_part_m2": 1472851
+        },
+        {
+          "zcta": "40330",
+          "name": "ZCTA5 40330",
+          "land_part_m2": 1780331
+        }
+      ]
+    },
+    {
+      "name": "Burkesville city",
+      "geoid": "2111098",
+      "zctas": [
+        {
+          "zcta": "42717",
+          "name": "ZCTA5 42717",
+          "land_part_m2": 6667027
+        }
+      ]
+    },
+    {
+      "name": "Burlington CDP",
+      "geoid": "2111170",
+      "zctas": [
+        {
+          "zcta": "41005",
+          "name": "ZCTA5 41005",
+          "land_part_m2": 22444396
+        },
+        {
+          "zcta": "41042",
+          "name": "ZCTA5 41042",
+          "land_part_m2": 382188
+        }
+      ]
+    },
+    {
+      "name": "Burna CDP",
+      "geoid": "2111188",
+      "zctas": [
+        {
+          "zcta": "42028",
+          "name": "ZCTA5 42028",
+          "land_part_m2": 3480922
+        }
+      ]
+    },
+    {
+      "name": "Burnside city",
+      "geoid": "2111278",
+      "zctas": [
+        {
+          "zcta": "42501",
+          "name": "ZCTA5 42501",
+          "land_part_m2": 968261
+        },
+        {
+          "zcta": "42503",
+          "name": "ZCTA5 42503",
+          "land_part_m2": 3315846
+        },
+        {
+          "zcta": "42518",
+          "name": "ZCTA5 42518",
+          "land_part_m2": 491304
+        },
+        {
+          "zcta": "42519",
+          "name": "ZCTA5 42519",
+          "land_part_m2": 3605017
+        },
+        {
+          "zcta": "42544",
+          "name": "ZCTA5 42544",
+          "land_part_m2": 1437016
+        }
+      ]
+    },
+    {
+      "name": "Butler city",
+      "geoid": "2111530",
+      "zctas": [
+        {
+          "zcta": "41006",
+          "name": "ZCTA5 41006",
+          "land_part_m2": 491753
+        }
+      ]
+    },
+    {
+      "name": "Cadiz city",
+      "geoid": "2111692",
+      "zctas": [
+        {
+          "zcta": "42211",
+          "name": "ZCTA5 42211",
+          "land_part_m2": 7766928
+        }
+      ]
+    },
+    {
+      "name": "Calhoun city",
+      "geoid": "2111854",
+      "zctas": [
+        {
+          "zcta": "42327",
+          "name": "ZCTA5 42327",
+          "land_part_m2": 1693955
+        }
+      ]
+    },
+    {
+      "name": "California city",
+      "geoid": "2111872",
+      "zctas": [
+        {
+          "zcta": "41007",
+          "name": "ZCTA5 41007",
+          "land_part_m2": 569250
+        }
+      ]
+    },
+    {
+      "name": "Calvert City city",
+      "geoid": "2112016",
+      "zctas": [
+        {
+          "zcta": "42029",
+          "name": "ZCTA5 42029",
+          "land_part_m2": 40117895
+        },
+        {
+          "zcta": "42044",
+          "name": "ZCTA5 42044",
+          "land_part_m2": 6182206
+        }
+      ]
+    },
+    {
+      "name": "Camargo city",
+      "geoid": "2112052",
+      "zctas": [
+        {
+          "zcta": "40353",
+          "name": "ZCTA5 40353",
+          "land_part_m2": 5665325
+        }
+      ]
+    },
+    {
+      "name": "Cambridge city",
+      "geoid": "2112066",
+      "zctas": [
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 143320
+        }
+      ]
+    },
+    {
+      "name": "Campbellsburg city",
+      "geoid": "2112142",
+      "zctas": [
+        {
+          "zcta": "40011",
+          "name": "ZCTA5 40011",
+          "land_part_m2": 3426788
+        }
+      ]
+    },
+    {
+      "name": "Campbellsville city",
+      "geoid": "2112160",
+      "zctas": [
+        {
+          "zcta": "42718",
+          "name": "ZCTA5 42718",
+          "land_part_m2": 19472543
+        }
+      ]
+    },
+    {
+      "name": "Campton city",
+      "geoid": "2112358",
+      "zctas": [
+        {
+          "zcta": "41301",
+          "name": "ZCTA5 41301",
+          "land_part_m2": 2587931
+        }
+      ]
+    },
+    {
+      "name": "Caneyville city",
+      "geoid": "2112538",
+      "zctas": [
+        {
+          "zcta": "42721",
+          "name": "ZCTA5 42721",
+          "land_part_m2": 4268520
+        }
+      ]
+    },
+    {
+      "name": "Cannonsburg CDP",
+      "geoid": "2112610",
+      "zctas": [
+        {
+          "zcta": "41102",
+          "name": "ZCTA5 41102",
+          "land_part_m2": 4515368
+        }
+      ]
+    },
+    {
+      "name": "Carlisle city",
+      "geoid": "2112898",
+      "zctas": [
+        {
+          "zcta": "40311",
+          "name": "ZCTA5 40311",
+          "land_part_m2": 3439059
+        }
+      ]
+    },
+    {
+      "name": "Carrollton city",
+      "geoid": "2113024",
+      "zctas": [
+        {
+          "zcta": "41008",
+          "name": "ZCTA5 41008",
+          "land_part_m2": 5272536
+        }
+      ]
+    },
+    {
+      "name": "Carrsville city",
+      "geoid": "2113060",
+      "zctas": [
+        {
+          "zcta": "42081",
+          "name": "ZCTA5 42081",
+          "land_part_m2": 168673
+        }
+      ]
+    },
+    {
+      "name": "Catlettsburg city",
+      "geoid": "2113420",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41101",
+          "name": "ZCTA5 41101",
+          "land_part_m2": 10992
+        },
+        {
+          "zcta": "41129",
+          "name": "ZCTA5 41129",
+          "land_part_m2": 3444204
+        }
+      ]
+    },
+    {
+      "name": "Cave City city",
+      "geoid": "2113492",
+      "zctas": [
+        {
+          "zcta": "42127",
+          "name": "ZCTA5 42127",
+          "land_part_m2": 11421834
+        }
+      ]
+    },
+    {
+      "name": "Cawood CDP",
+      "geoid": "2113582",
+      "zctas": [
+        {
+          "zcta": "40815",
+          "name": "ZCTA5 40815",
+          "land_part_m2": 3777096
+        }
+      ]
+    },
+    {
+      "name": "Cayce CDP",
+      "geoid": "2113600",
+      "zctas": [
+        {
+          "zcta": "42041",
+          "name": "ZCTA5 42041",
+          "land_part_m2": 3122322
+        },
+        {
+          "zcta": "42050",
+          "name": "ZCTA5 42050",
+          "land_part_m2": 1101025
+        }
+      ]
+    },
+    {
+      "name": "Cecilia CDP",
+      "geoid": "2113636",
+      "zctas": [
+        {
+          "zcta": "42724",
+          "name": "ZCTA5 42724",
+          "land_part_m2": 3706847
+        }
+      ]
+    },
+    {
+      "name": "Centertown city",
+      "geoid": "2113870",
+      "zctas": [
+        {
+          "zcta": "42328",
+          "name": "ZCTA5 42328",
+          "land_part_m2": 810241
+        }
+      ]
+    },
+    {
+      "name": "Central City city",
+      "geoid": "2113978",
+      "zctas": [
+        {
+          "zcta": "42330",
+          "name": "ZCTA5 42330",
+          "land_part_m2": 13409178
+        },
+        {
+          "zcta": "42367",
+          "name": "ZCTA5 42367",
+          "land_part_m2": 153324
+        }
+      ]
+    },
+    {
+      "name": "Cerulean CDP",
+      "geoid": "2114068",
+      "zctas": [
+        {
+          "zcta": "42215",
+          "name": "ZCTA5 42215",
+          "land_part_m2": 6615257
+        }
+      ]
+    },
+    {
+      "name": "Chaplin CDP",
+      "geoid": "2114266",
+      "zctas": [
+        {
+          "zcta": "40008",
+          "name": "ZCTA5 40008",
+          "land_part_m2": 1939552
+        },
+        {
+          "zcta": "40012",
+          "name": "ZCTA5 40012",
+          "land_part_m2": 1641836
+        }
+      ]
+    },
+    {
+      "name": "Clarkson city",
+      "geoid": "2115148",
+      "zctas": [
+        {
+          "zcta": "42726",
+          "name": "ZCTA5 42726",
+          "land_part_m2": 2468282
+        },
+        {
+          "zcta": "42754",
+          "name": "ZCTA5 42754",
+          "land_part_m2": 286213
+        }
+      ]
+    },
+    {
+      "name": "Claryville CDP",
+      "geoid": "2115166",
+      "zctas": [
+        {
+          "zcta": "41001",
+          "name": "ZCTA5 41001",
+          "land_part_m2": 18649717
+        }
+      ]
+    },
+    {
+      "name": "Clay City city",
+      "geoid": "2115238",
+      "zctas": [
+        {
+          "zcta": "40312",
+          "name": "ZCTA5 40312",
+          "land_part_m2": 2743263
+        }
+      ]
+    },
+    {
+      "name": "Clay city",
+      "geoid": "2115202",
+      "zctas": [
+        {
+          "zcta": "42404",
+          "name": "ZCTA5 42404",
+          "land_part_m2": 2232294
+        }
+      ]
+    },
+    {
+      "name": "Cleaton CDP",
+      "geoid": "2115490",
+      "zctas": [
+        {
+          "zcta": "42330",
+          "name": "ZCTA5 42330",
+          "land_part_m2": 217669
+        },
+        {
+          "zcta": "42332",
+          "name": "ZCTA5 42332",
+          "land_part_m2": 1364629
+        },
+        {
+          "zcta": "42337",
+          "name": "ZCTA5 42337",
+          "land_part_m2": 22752
+        }
+      ]
+    },
+    {
+      "name": "Clinton city",
+      "geoid": "2115742",
+      "zctas": [
+        {
+          "zcta": "42031",
+          "name": "ZCTA5 42031",
+          "land_part_m2": 4176494
+        }
+      ]
+    },
+    {
+      "name": "Cloverport city",
+      "geoid": "2115904",
+      "zctas": [
+        {
+          "zcta": "40111",
+          "name": "ZCTA5 40111",
+          "land_part_m2": 3782585
+        },
+        {
+          "zcta": "40143",
+          "name": "ZCTA5 40143",
+          "land_part_m2": 1299
+        }
+      ]
+    },
+    {
+      "name": "Coal Run Village city",
+      "geoid": "2116110",
+      "zctas": [
+        {
+          "zcta": "41501",
+          "name": "ZCTA5 41501",
+          "land_part_m2": 22778564
+        }
+      ]
+    },
+    {
+      "name": "Cold Spring city",
+      "geoid": "2116372",
+      "zctas": [
+        {
+          "zcta": "41076",
+          "name": "ZCTA5 41076",
+          "land_part_m2": 12296178
+        }
+      ]
+    },
+    {
+      "name": "Coldiron CDP",
+      "geoid": "2116354",
+      "zctas": [
+        {
+          "zcta": "40819",
+          "name": "ZCTA5 40819",
+          "land_part_m2": 551594
+        },
+        {
+          "zcta": "40873",
+          "name": "ZCTA5 40873",
+          "land_part_m2": 13609
+        }
+      ]
+    },
+    {
+      "name": "Coldstream city",
+      "geoid": "2116395",
+      "zctas": [
+        {
+          "zcta": "40245",
+          "name": "ZCTA5 40245",
+          "land_part_m2": 572697
+        }
+      ]
+    },
+    {
+      "name": "Columbia city",
+      "geoid": "2116750",
+      "zctas": [
+        {
+          "zcta": "42728",
+          "name": "ZCTA5 42728",
+          "land_part_m2": 12543861
+        }
+      ]
+    },
+    {
+      "name": "Columbus city",
+      "geoid": "2116768",
+      "zctas": [
+        {
+          "zcta": "42032",
+          "name": "ZCTA5 42032",
+          "land_part_m2": 824271
+        }
+      ]
+    },
+    {
+      "name": "Combs CDP",
+      "geoid": "2116822",
+      "zctas": [
+        {
+          "zcta": "41701",
+          "name": "ZCTA5 41701",
+          "land_part_m2": 221371
+        },
+        {
+          "zcta": "41729",
+          "name": "ZCTA5 41729",
+          "land_part_m2": 611224
+        }
+      ]
+    },
+    {
+      "name": "Concord city",
+      "geoid": "2116894",
+      "zctas": [
+        {
+          "zcta": "41179",
+          "name": "ZCTA5 41179",
+          "land_part_m2": 160101
+        }
+      ]
+    },
+    {
+      "name": "Corbin city",
+      "geoid": "2117362",
+      "zctas": [
+        {
+          "zcta": "40701",
+          "name": "ZCTA5 40701",
+          "land_part_m2": 20580304
+        },
+        {
+          "zcta": "40771",
+          "name": "ZCTA5 40771",
+          "land_part_m2": 4761
+        }
+      ]
+    },
+    {
+      "name": "Corinth city",
+      "geoid": "2117434",
+      "zctas": [
+        {
+          "zcta": "41010",
+          "name": "ZCTA5 41010",
+          "land_part_m2": 5484347
+        }
+      ]
+    },
+    {
+      "name": "Corydon city",
+      "geoid": "2117686",
+      "zctas": [
+        {
+          "zcta": "42406",
+          "name": "ZCTA5 42406",
+          "land_part_m2": 1405909
+        }
+      ]
+    },
+    {
+      "name": "Covington city",
+      "geoid": "2117848",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41011",
+          "name": "ZCTA5 41011",
+          "land_part_m2": 9859760
+        },
+        {
+          "zcta": "41014",
+          "name": "ZCTA5 41014",
+          "land_part_m2": 2659009
+        },
+        {
+          "zcta": "41015",
+          "name": "ZCTA5 41015",
+          "land_part_m2": 10625877
+        },
+        {
+          "zcta": "41016",
+          "name": "ZCTA5 41016",
+          "land_part_m2": 829712
+        },
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 9948757
+        },
+        {
+          "zcta": "41051",
+          "name": "ZCTA5 41051",
+          "land_part_m2": 256103
+        }
+      ]
+    },
+    {
+      "name": "Coxton CDP",
+      "geoid": "2117938",
+      "zctas": [
+        {
+          "zcta": "40828",
+          "name": "ZCTA5 40828",
+          "land_part_m2": 2521
+        },
+        {
+          "zcta": "40831",
+          "name": "ZCTA5 40831",
+          "land_part_m2": 533636
+        }
+      ]
+    },
+    {
+      "name": "Crab Orchard city",
+      "geoid": "2117956",
+      "zctas": [
+        {
+          "zcta": "40419",
+          "name": "ZCTA5 40419",
+          "land_part_m2": 4506612
+        },
+        {
+          "zcta": "40484",
+          "name": "ZCTA5 40484",
+          "land_part_m2": 15047
+        }
+      ]
+    },
+    {
+      "name": "Crayne CDP",
+      "geoid": "2118190",
+      "zctas": [
+        {
+          "zcta": "42064",
+          "name": "ZCTA5 42064",
+          "land_part_m2": 2698763
+        },
+        {
+          "zcta": "42411",
+          "name": "ZCTA5 42411",
+          "land_part_m2": 189081
+        }
+      ]
+    },
+    {
+      "name": "Creekside city",
+      "geoid": "2118270",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 196497
+        }
+      ]
+    },
+    {
+      "name": "Crescent Springs city",
+      "geoid": "2118352",
+      "zctas": [
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 3870178
+        }
+      ]
+    },
+    {
+      "name": "Crestview Hills city",
+      "geoid": "2118442",
+      "zctas": [
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 4919434
+        }
+      ]
+    },
+    {
+      "name": "Crestview city",
+      "geoid": "2118424",
+      "zctas": [
+        {
+          "zcta": "41076",
+          "name": "ZCTA5 41076",
+          "land_part_m2": 410274
+        }
+      ]
+    },
+    {
+      "name": "Crestwood city",
+      "geoid": "2118496",
+      "zctas": [
+        {
+          "zcta": "40014",
+          "name": "ZCTA5 40014",
+          "land_part_m2": 10481994
+        }
+      ]
+    },
+    {
+      "name": "Crittenden city",
+      "geoid": "2118568",
+      "zctas": [
+        {
+          "zcta": "41030",
+          "name": "ZCTA5 41030",
+          "land_part_m2": 6102587
+        },
+        {
+          "zcta": "41035",
+          "name": "ZCTA5 41035",
+          "land_part_m2": 2716245
+        }
+      ]
+    },
+    {
+      "name": "Crofton city",
+      "geoid": "2118658",
+      "zctas": [
+        {
+          "zcta": "42217",
+          "name": "ZCTA5 42217",
+          "land_part_m2": 1643463
+        }
+      ]
+    },
+    {
+      "name": "Crossgate city",
+      "geoid": "2118766",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 132734
+        }
+      ]
+    },
+    {
+      "name": "Cumberland city",
+      "geoid": "2119108",
+      "zctas": [
+        {
+          "zcta": "40823",
+          "name": "ZCTA5 40823",
+          "land_part_m2": 8067330
+        }
+      ]
+    },
+    {
+      "name": "Cunningham CDP",
+      "geoid": "2119234",
+      "zctas": [
+        {
+          "zcta": "42023",
+          "name": "ZCTA5 42023",
+          "land_part_m2": 459171
+        },
+        {
+          "zcta": "42035",
+          "name": "ZCTA5 42035",
+          "land_part_m2": 2258537
+        }
+      ]
+    },
+    {
+      "name": "Curdsville CDP",
+      "geoid": "2119288",
+      "zctas": [
+        {
+          "zcta": "42301",
+          "name": "ZCTA5 42301",
+          "land_part_m2": 692554
+        }
+      ]
+    },
+    {
+      "name": "Cynthiana city",
+      "geoid": "2119432",
+      "zctas": [
+        {
+          "zcta": "41031",
+          "name": "ZCTA5 41031",
+          "land_part_m2": 11369946
+        }
+      ]
+    },
+    {
+      "name": "Danville city",
+      "geoid": "2119882",
+      "zctas": [
+        {
+          "zcta": "40422",
+          "name": "ZCTA5 40422",
+          "land_part_m2": 44499190
+        }
+      ]
+    },
+    {
+      "name": "Dawson Springs city",
+      "geoid": "2120224",
+      "zctas": [
+        {
+          "zcta": "42408",
+          "name": "ZCTA5 42408",
+          "land_part_m2": 9939182
+        }
+      ]
+    },
+    {
+      "name": "Dayton city",
+      "geoid": "2120350",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41074",
+          "name": "ZCTA5 41074",
+          "land_part_m2": 3364149
+        }
+      ]
+    },
+    {
+      "name": "Dexter CDP",
+      "geoid": "2121322",
+      "zctas": [
+        {
+          "zcta": "42020",
+          "name": "ZCTA5 42020",
+          "land_part_m2": 529586
+        },
+        {
+          "zcta": "42036",
+          "name": "ZCTA5 42036",
+          "land_part_m2": 895088
+        }
+      ]
+    },
+    {
+      "name": "Diablock CDP",
+      "geoid": "2121358",
+      "zctas": [
+        {
+          "zcta": "41701",
+          "name": "ZCTA5 41701",
+          "land_part_m2": 526177
+        }
+      ]
+    },
+    {
+      "name": "Dixon city",
+      "geoid": "2121682",
+      "zctas": [
+        {
+          "zcta": "42409",
+          "name": "ZCTA5 42409",
+          "land_part_m2": 3235618
+        }
+      ]
+    },
+    {
+      "name": "Doe Valley CDP",
+      "geoid": "2121844",
+      "zctas": [
+        {
+          "zcta": "40108",
+          "name": "ZCTA5 40108",
+          "land_part_m2": 10514517
+        }
+      ]
+    },
+    {
+      "name": "Douglass Hills city",
+      "geoid": "2122204",
+      "zctas": [
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 713514
+        },
+        {
+          "zcta": "40243",
+          "name": "ZCTA5 40243",
+          "land_part_m2": 2579782
+        },
+        {
+          "zcta": "40299",
+          "name": "ZCTA5 40299",
+          "land_part_m2": 140598
+        }
+      ]
+    },
+    {
+      "name": "Dover city",
+      "geoid": "2122222",
+      "zctas": [
+        {
+          "zcta": "41034",
+          "name": "ZCTA5 41034",
+          "land_part_m2": 1117402
+        }
+      ]
+    },
+    {
+      "name": "Drakesboro city",
+      "geoid": "2122348",
+      "zctas": [
+        {
+          "zcta": "42337",
+          "name": "ZCTA5 42337",
+          "land_part_m2": 1429649
+        }
+      ]
+    },
+    {
+      "name": "Druid Hills city",
+      "geoid": "2122474",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 230405
+        }
+      ]
+    },
+    {
+      "name": "Dry Ridge city",
+      "geoid": "2122582",
+      "zctas": [
+        {
+          "zcta": "41035",
+          "name": "ZCTA5 41035",
+          "land_part_m2": 13071084
+        }
+      ]
+    },
+    {
+      "name": "Dunmor CDP",
+      "geoid": "2123014",
+      "zctas": [
+        {
+          "zcta": "42256",
+          "name": "ZCTA5 42256",
+          "land_part_m2": 1956309
+        },
+        {
+          "zcta": "42339",
+          "name": "ZCTA5 42339",
+          "land_part_m2": 4767135
+        }
+      ]
+    },
+    {
+      "name": "Dwale CDP",
+      "geoid": "2123104",
+      "zctas": [
+        {
+          "zcta": "41621",
+          "name": "ZCTA5 41621",
+          "land_part_m2": 1578287
+        }
+      ]
+    },
+    {
+      "name": "Earlington city",
+      "geoid": "2123230",
+      "zctas": [
+        {
+          "zcta": "42410",
+          "name": "ZCTA5 42410",
+          "land_part_m2": 6124799
+        },
+        {
+          "zcta": "42431",
+          "name": "ZCTA5 42431",
+          "land_part_m2": 1181461
+        }
+      ]
+    },
+    {
+      "name": "East Bernstadt CDP",
+      "geoid": "2123284",
+      "zctas": [
+        {
+          "zcta": "40729",
+          "name": "ZCTA5 40729",
+          "land_part_m2": 5465766
+        },
+        {
+          "zcta": "40741",
+          "name": "ZCTA5 40741",
+          "land_part_m2": 6321
+        }
+      ]
+    },
+    {
+      "name": "Eddyville city",
+      "geoid": "2123824",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "42038",
+          "name": "ZCTA5 42038",
+          "land_part_m2": 17309533
+        },
+        {
+          "zcta": "42055",
+          "name": "ZCTA5 42055",
+          "land_part_m2": 526866
+        },
+        {
+          "zcta": "42445",
+          "name": "ZCTA5 42445",
+          "land_part_m2": 29315
+        }
+      ]
+    },
+    {
+      "name": "Edgewood city",
+      "geoid": "2123932",
+      "zctas": [
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 10516051
+        },
+        {
+          "zcta": "41018",
+          "name": "ZCTA5 41018",
+          "land_part_m2": 519806
+        },
+        {
+          "zcta": "41051",
+          "name": "ZCTA5 41051",
+          "land_part_m2": 2489
+        }
+      ]
+    },
+    {
+      "name": "Edmonton city",
+      "geoid": "2123968",
+      "zctas": [
+        {
+          "zcta": "42129",
+          "name": "ZCTA5 42129",
+          "land_part_m2": 9860403
+        }
+      ]
+    },
+    {
+      "name": "Ekron city",
+      "geoid": "2124094",
+      "zctas": [
+        {
+          "zcta": "40117",
+          "name": "ZCTA5 40117",
+          "land_part_m2": 420773
+        }
+      ]
+    },
+    {
+      "name": "Elizabethtown city",
+      "geoid": "2124274",
+      "zctas": [
+        {
+          "zcta": "42701",
+          "name": "ZCTA5 42701",
+          "land_part_m2": 66472461
+        },
+        {
+          "zcta": "42724",
+          "name": "ZCTA5 42724",
+          "land_part_m2": 3921552
+        }
+      ]
+    },
+    {
+      "name": "Elizaville CDP",
+      "geoid": "2124292",
+      "zctas": [
+        {
+          "zcta": "41039",
+          "name": "ZCTA5 41039",
+          "land_part_m2": 2657693
+        }
+      ]
+    },
+    {
+      "name": "Elk Creek CDP",
+      "geoid": "2124328",
+      "zctas": [
+        {
+          "zcta": "40023",
+          "name": "ZCTA5 40023",
+          "land_part_m2": 7989626
+        },
+        {
+          "zcta": "40071",
+          "name": "ZCTA5 40071",
+          "land_part_m2": 7005580
+        }
+      ]
+    },
+    {
+      "name": "Elkhorn City city",
+      "geoid": "2124382",
+      "zctas": [
+        {
+          "zcta": "41513",
+          "name": "ZCTA5 41513",
+          "land_part_m2": 17781
+        },
+        {
+          "zcta": "41522",
+          "name": "ZCTA5 41522",
+          "land_part_m2": 19097675
+        },
+        {
+          "zcta": "41540",
+          "name": "ZCTA5 41540",
+          "land_part_m2": 879434
+        }
+      ]
+    },
+    {
+      "name": "Elkton city",
+      "geoid": "2124400",
+      "zctas": [
+        {
+          "zcta": "42220",
+          "name": "ZCTA5 42220",
+          "land_part_m2": 6601464
+        }
+      ]
+    },
+    {
+      "name": "Elsmere city",
+      "geoid": "2124778",
+      "zctas": [
+        {
+          "zcta": "41018",
+          "name": "ZCTA5 41018",
+          "land_part_m2": 5214231
+        },
+        {
+          "zcta": "41042",
+          "name": "ZCTA5 41042",
+          "land_part_m2": 1591249
+        }
+      ]
+    },
+    {
+      "name": "Eminence city",
+      "geoid": "2124904",
+      "zctas": [
+        {
+          "zcta": "40019",
+          "name": "ZCTA5 40019",
+          "land_part_m2": 7368814
+        }
+      ]
+    },
+    {
+      "name": "Emlyn CDP",
+      "geoid": "2124922",
+      "zctas": [
+        {
+          "zcta": "40769",
+          "name": "ZCTA5 40769",
+          "land_part_m2": 1847692
+        }
+      ]
+    },
+    {
+      "name": "Erlanger city",
+      "geoid": "2125300",
+      "zctas": [
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 2510856
+        },
+        {
+          "zcta": "41018",
+          "name": "ZCTA5 41018",
+          "land_part_m2": 16498825
+        },
+        {
+          "zcta": "41042",
+          "name": "ZCTA5 41042",
+          "land_part_m2": 96915
+        },
+        {
+          "zcta": "41051",
+          "name": "ZCTA5 41051",
+          "land_part_m2": 2590843
+        }
+      ]
+    },
+    {
+      "name": "Eubank city",
+      "geoid": "2125552",
+      "zctas": [
+        {
+          "zcta": "42567",
+          "name": "ZCTA5 42567",
+          "land_part_m2": 2194154
+        }
+      ]
+    },
+    {
+      "name": "Evarts city",
+      "geoid": "2125606",
+      "zctas": [
+        {
+          "zcta": "40828",
+          "name": "ZCTA5 40828",
+          "land_part_m2": 990648
+        }
+      ]
+    },
+    {
+      "name": "Ewing city",
+      "geoid": "2125786",
+      "zctas": [
+        {
+          "zcta": "41039",
+          "name": "ZCTA5 41039",
+          "land_part_m2": 648737
+        }
+      ]
+    },
+    {
+      "name": "Ezel CDP",
+      "geoid": "2125876",
+      "zctas": [
+        {
+          "zcta": "41425",
+          "name": "ZCTA5 41425",
+          "land_part_m2": 2292757
+        }
+      ]
+    },
+    {
+      "name": "Fairfield city",
+      "geoid": "2126020",
+      "zctas": [
+        {
+          "zcta": "40013",
+          "name": "ZCTA5 40013",
+          "land_part_m2": 129635
+        },
+        {
+          "zcta": "40020",
+          "name": "ZCTA5 40020",
+          "land_part_m2": 610346
+        }
+      ]
+    },
+    {
+      "name": "Fairview CDP",
+      "geoid": "2126182",
+      "zctas": [
+        {
+          "zcta": "42220",
+          "name": "ZCTA5 42220",
+          "land_part_m2": 1017230
+        },
+        {
+          "zcta": "42266",
+          "name": "ZCTA5 42266",
+          "land_part_m2": 2108580
+        }
+      ]
+    },
+    {
+      "name": "Fairview city",
+      "geoid": "2126236",
+      "zctas": [
+        {
+          "zcta": "41015",
+          "name": "ZCTA5 41015",
+          "land_part_m2": 1884217
+        }
+      ]
+    },
+    {
+      "name": "Falmouth city",
+      "geoid": "2126434",
+      "zctas": [
+        {
+          "zcta": "41040",
+          "name": "ZCTA5 41040",
+          "land_part_m2": 3511352
+        }
+      ]
+    },
+    {
+      "name": "Fancy Farm CDP",
+      "geoid": "2126452",
+      "zctas": [
+        {
+          "zcta": "42039",
+          "name": "ZCTA5 42039",
+          "land_part_m2": 2268821
+        }
+      ]
+    },
+    {
+      "name": "Farley CDP",
+      "geoid": "2126528",
+      "zctas": [
+        {
+          "zcta": "42003",
+          "name": "ZCTA5 42003",
+          "land_part_m2": 15393002
+        }
+      ]
+    },
+    {
+      "name": "Farmers CDP",
+      "geoid": "2126560",
+      "zctas": [
+        {
+          "zcta": "40351",
+          "name": "ZCTA5 40351",
+          "land_part_m2": 2578342
+        }
+      ]
+    },
+    {
+      "name": "Farmington CDP",
+      "geoid": "2126614",
+      "zctas": [
+        {
+          "zcta": "42040",
+          "name": "ZCTA5 42040",
+          "land_part_m2": 2151036
+        },
+        {
+          "zcta": "42066",
+          "name": "ZCTA5 42066",
+          "land_part_m2": 1821056
+        }
+      ]
+    },
+    {
+      "name": "Ferguson city",
+      "geoid": "2127010",
+      "zctas": [
+        {
+          "zcta": "42501",
+          "name": "ZCTA5 42501",
+          "land_part_m2": 1480002
+        },
+        {
+          "zcta": "42533",
+          "name": "ZCTA5 42533",
+          "land_part_m2": 3727278
+        }
+      ]
+    },
+    {
+      "name": "Fincastle city",
+      "geoid": "2127262",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 551676
+        }
+      ]
+    },
+    {
+      "name": "Flat Lick CDP",
+      "geoid": "2127730",
+      "zctas": [
+        {
+          "zcta": "40935",
+          "name": "ZCTA5 40935",
+          "land_part_m2": 12381473
+        }
+      ]
+    },
+    {
+      "name": "Flatwoods city",
+      "geoid": "2127802",
+      "zctas": [
+        {
+          "zcta": "41139",
+          "name": "ZCTA5 41139",
+          "land_part_m2": 8237662
+        },
+        {
+          "zcta": "41169",
+          "name": "ZCTA5 41169",
+          "land_part_m2": 205903
+        }
+      ]
+    },
+    {
+      "name": "Fleming-Neon city",
+      "geoid": "2127846",
+      "zctas": [
+        {
+          "zcta": "41835",
+          "name": "ZCTA5 41835",
+          "land_part_m2": 602324
+        },
+        {
+          "zcta": "41840",
+          "name": "ZCTA5 41840",
+          "land_part_m2": 3579966
+        }
+      ]
+    },
+    {
+      "name": "Flemingsburg city",
+      "geoid": "2127856",
+      "zctas": [
+        {
+          "zcta": "41041",
+          "name": "ZCTA5 41041",
+          "land_part_m2": 6970064
+        }
+      ]
+    },
+    {
+      "name": "Florence city",
+      "geoid": "2127982",
+      "zctas": [
+        {
+          "zcta": "41018",
+          "name": "ZCTA5 41018",
+          "land_part_m2": 858018
+        },
+        {
+          "zcta": "41042",
+          "name": "ZCTA5 41042",
+          "land_part_m2": 24942423
+        },
+        {
+          "zcta": "41091",
+          "name": "ZCTA5 41091",
+          "land_part_m2": 1905003
+        }
+      ]
+    },
+    {
+      "name": "Fordsville city",
+      "geoid": "2128270",
+      "zctas": [
+        {
+          "zcta": "42343",
+          "name": "ZCTA5 42343",
+          "land_part_m2": 1160325
+        }
+      ]
+    },
+    {
+      "name": "Forest Hills city",
+      "geoid": "2128342",
+      "zctas": [
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 134910
+        },
+        {
+          "zcta": "40299",
+          "name": "ZCTA5 40299",
+          "land_part_m2": 613782
+        }
+      ]
+    },
+    {
+      "name": "Fort Campbell North CDP",
+      "geoid": "2128486",
+      "zctas": [
+        {
+          "zcta": "42223",
+          "name": "ZCTA5 42223",
+          "land_part_m2": 22097316
+        }
+      ]
+    },
+    {
+      "name": "Fort Knox CDP",
+      "geoid": "2128540",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 13808476
+        },
+        {
+          "zcta": "40121",
+          "name": "ZCTA5 40121",
+          "land_part_m2": 38739363
+        }
+      ]
+    },
+    {
+      "name": "Fort Mitchell city",
+      "geoid": "2128558",
+      "zctas": [
+        {
+          "zcta": "41011",
+          "name": "ZCTA5 41011",
+          "land_part_m2": 1444378
+        },
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 6578074
+        }
+      ]
+    },
+    {
+      "name": "Fort Thomas city",
+      "geoid": "2128594",
+      "zctas": [
+        {
+          "zcta": "41071",
+          "name": "ZCTA5 41071",
+          "land_part_m2": 40235
+        },
+        {
+          "zcta": "41074",
+          "name": "ZCTA5 41074",
+          "land_part_m2": 392051
+        },
+        {
+          "zcta": "41075",
+          "name": "ZCTA5 41075",
+          "land_part_m2": 14201050
+        },
+        {
+          "zcta": "41076",
+          "name": "ZCTA5 41076",
+          "land_part_m2": 61265
+        }
+      ]
+    },
+    {
+      "name": "Fort Wright city",
+      "geoid": "2128612",
+      "zctas": [
+        {
+          "zcta": "41011",
+          "name": "ZCTA5 41011",
+          "land_part_m2": 4794371
+        },
+        {
+          "zcta": "41015",
+          "name": "ZCTA5 41015",
+          "land_part_m2": 916765
+        },
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 3093424
+        }
+      ]
+    },
+    {
+      "name": "Fountain Run city",
+      "geoid": "2128666",
+      "zctas": [
+        {
+          "zcta": "42133",
+          "name": "ZCTA5 42133",
+          "land_part_m2": 3408186
+        }
+      ]
+    },
+    {
+      "name": "Fox Chase city",
+      "geoid": "2128785",
+      "zctas": [
+        {
+          "zcta": "40165",
+          "name": "ZCTA5 40165",
+          "land_part_m2": 988304
+        }
+      ]
+    },
+    {
+      "name": "Francisville CDP",
+      "geoid": "2128882",
+      "zctas": [
+        {
+          "zcta": "41048",
+          "name": "ZCTA5 41048",
+          "land_part_m2": 21969417
+        }
+      ]
+    },
+    {
+      "name": "Frankfort city",
+      "geoid": "2128900",
+      "zctas": [
+        {
+          "zcta": "40601",
+          "name": "ZCTA5 40601",
+          "land_part_m2": 38254676
+        }
+      ]
+    },
+    {
+      "name": "Franklin city",
+      "geoid": "2128918",
+      "zctas": [
+        {
+          "zcta": "42134",
+          "name": "ZCTA5 42134",
+          "land_part_m2": 38193278
+        }
+      ]
+    },
+    {
+      "name": "Fredonia city",
+      "geoid": "2129080",
+      "zctas": [
+        {
+          "zcta": "42411",
+          "name": "ZCTA5 42411",
+          "land_part_m2": 1608496
+        }
+      ]
+    },
+    {
+      "name": "Freeburn CDP",
+      "geoid": "2129134",
+      "zctas": [
+        {
+          "zcta": "41528",
+          "name": "ZCTA5 41528",
+          "land_part_m2": 3129547
+        }
+      ]
+    },
+    {
+      "name": "Frenchburg city",
+      "geoid": "2129260",
+      "zctas": [
+        {
+          "zcta": "40322",
+          "name": "ZCTA5 40322",
+          "land_part_m2": 2174948
+        }
+      ]
+    },
+    {
+      "name": "Fulton city",
+      "geoid": "2129566",
+      "zctas": [
+        {
+          "zcta": "42041",
+          "name": "ZCTA5 42041",
+          "land_part_m2": 7491619
+        }
+      ]
+    },
+    {
+      "name": "Gamaliel city",
+      "geoid": "2129872",
+      "zctas": [
+        {
+          "zcta": "42140",
+          "name": "ZCTA5 42140",
+          "land_part_m2": 1466953
+        }
+      ]
+    },
+    {
+      "name": "Garrison CDP",
+      "geoid": "2130232",
+      "zctas": [
+        {
+          "zcta": "41141",
+          "name": "ZCTA5 41141",
+          "land_part_m2": 5095451
+        },
+        {
+          "zcta": "41179",
+          "name": "ZCTA5 41179",
+          "land_part_m2": 1887978
+        }
+      ]
+    },
+    {
+      "name": "Georgetown city",
+      "geoid": "2130700",
+      "zctas": [
+        {
+          "zcta": "40324",
+          "name": "ZCTA5 40324",
+          "land_part_m2": 43903545
+        }
+      ]
+    },
+    {
+      "name": "Germantown city",
+      "geoid": "2130718",
+      "zctas": [
+        {
+          "zcta": "41034",
+          "name": "ZCTA5 41034",
+          "land_part_m2": 59778
+        },
+        {
+          "zcta": "41044",
+          "name": "ZCTA5 41044",
+          "land_part_m2": 257328
+        }
+      ]
+    },
+    {
+      "name": "Ghent city",
+      "geoid": "2130808",
+      "zctas": [
+        {
+          "zcta": "41045",
+          "name": "ZCTA5 41045",
+          "land_part_m2": 1841877
+        }
+      ]
+    },
+    {
+      "name": "Gilbertsville CDP",
+      "geoid": "2130880",
+      "zctas": [
+        {
+          "zcta": "42029",
+          "name": "ZCTA5 42029",
+          "land_part_m2": 1746158
+        },
+        {
+          "zcta": "42044",
+          "name": "ZCTA5 42044",
+          "land_part_m2": 876820
+        }
+      ]
+    },
+    {
+      "name": "Glasgow city",
+      "geoid": "2131114",
+      "zctas": [
+        {
+          "zcta": "42141",
+          "name": "ZCTA5 42141",
+          "land_part_m2": 41073915
+        }
+      ]
+    },
+    {
+      "name": "Glencoe city",
+      "geoid": "2131204",
+      "zctas": [
+        {
+          "zcta": "41046",
+          "name": "ZCTA5 41046",
+          "land_part_m2": 4346174
+        },
+        {
+          "zcta": "41086",
+          "name": "ZCTA5 41086",
+          "land_part_m2": 221773
+        }
+      ]
+    },
+    {
+      "name": "Glenview Hills city",
+      "geoid": "2131402",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 326352
+        }
+      ]
+    },
+    {
+      "name": "Glenview Manor city",
+      "geoid": "2131420",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 222151
+        }
+      ]
+    },
+    {
+      "name": "Glenview city",
+      "geoid": "2131348",
+      "zctas": [
+        {
+          "zcta": "40025",
+          "name": "ZCTA5 40025",
+          "land_part_m2": 3236180
+        },
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 454203
+        }
+      ]
+    },
+    {
+      "name": "Goose Creek city",
+      "geoid": "2131870",
+      "zctas": [
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 160139
+        }
+      ]
+    },
+    {
+      "name": "Goshen city",
+      "geoid": "2131960",
+      "zctas": [
+        {
+          "zcta": "40026",
+          "name": "ZCTA5 40026",
+          "land_part_m2": 510570
+        }
+      ]
+    },
+    {
+      "name": "Gracey CDP",
+      "geoid": "2132032",
+      "zctas": [
+        {
+          "zcta": "42232",
+          "name": "ZCTA5 42232",
+          "land_part_m2": 622468
+        }
+      ]
+    },
+    {
+      "name": "Grand Rivers city",
+      "geoid": "2132212",
+      "zctas": [
+        {
+          "zcta": "42045",
+          "name": "ZCTA5 42045",
+          "land_part_m2": 4798519
+        }
+      ]
+    },
+    {
+      "name": "Gratz city",
+      "geoid": "2132428",
+      "zctas": [
+        {
+          "zcta": "40359",
+          "name": "ZCTA5 40359",
+          "land_part_m2": 902310
+        }
+      ]
+    },
+    {
+      "name": "Graymoor-Devondale city",
+      "geoid": "2132523",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 1909584
+        }
+      ]
+    },
+    {
+      "name": "Grayson city",
+      "geoid": "2132572",
+      "zctas": [
+        {
+          "zcta": "41143",
+          "name": "ZCTA5 41143",
+          "land_part_m2": 7170094
+        }
+      ]
+    },
+    {
+      "name": "Green Spring city",
+      "geoid": "2132986",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 690826
+        }
+      ]
+    },
+    {
+      "name": "Greensburg city",
+      "geoid": "2132968",
+      "zctas": [
+        {
+          "zcta": "42743",
+          "name": "ZCTA5 42743",
+          "land_part_m2": 5248202
+        }
+      ]
+    },
+    {
+      "name": "Greenup city",
+      "geoid": "2133004",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41121",
+          "name": "ZCTA5 41121",
+          "land_part_m2": 19444
+        },
+        {
+          "zcta": "41144",
+          "name": "ZCTA5 41144",
+          "land_part_m2": 4426004
+        }
+      ]
+    },
+    {
+      "name": "Greenville city",
+      "geoid": "2133022",
+      "zctas": [
+        {
+          "zcta": "42330",
+          "name": "ZCTA5 42330",
+          "land_part_m2": 559691
+        },
+        {
+          "zcta": "42345",
+          "name": "ZCTA5 42345",
+          "land_part_m2": 12655662
+        },
+        {
+          "zcta": "42367",
+          "name": "ZCTA5 42367",
+          "land_part_m2": 83384
+        }
+      ]
+    },
+    {
+      "name": "Guthrie city",
+      "geoid": "2133562",
+      "zctas": [
+        {
+          "zcta": "42234",
+          "name": "ZCTA5 42234",
+          "land_part_m2": 5235377
+        }
+      ]
+    },
+    {
+      "name": "Hanson city",
+      "geoid": "2134390",
+      "zctas": [
+        {
+          "zcta": "42413",
+          "name": "ZCTA5 42413",
+          "land_part_m2": 6097310
+        },
+        {
+          "zcta": "42431",
+          "name": "ZCTA5 42431",
+          "land_part_m2": 2130
+        }
+      ]
+    },
+    {
+      "name": "Hardin city",
+      "geoid": "2134534",
+      "zctas": [
+        {
+          "zcta": "42048",
+          "name": "ZCTA5 42048",
+          "land_part_m2": 1814796
+        }
+      ]
+    },
+    {
+      "name": "Hardinsburg city",
+      "geoid": "2134552",
+      "zctas": [
+        {
+          "zcta": "40143",
+          "name": "ZCTA5 40143",
+          "land_part_m2": 8956238
+        }
+      ]
+    },
+    {
+      "name": "Hardyville CDP",
+      "geoid": "2134660",
+      "zctas": [
+        {
+          "zcta": "42746",
+          "name": "ZCTA5 42746",
+          "land_part_m2": 1634909
+        }
+      ]
+    },
+    {
+      "name": "Harlan city",
+      "geoid": "2134732",
+      "zctas": [
+        {
+          "zcta": "40806",
+          "name": "ZCTA5 40806",
+          "land_part_m2": 137192
+        },
+        {
+          "zcta": "40831",
+          "name": "ZCTA5 40831",
+          "land_part_m2": 3234862
+        }
+      ]
+    },
+    {
+      "name": "Harrodsburg city",
+      "geoid": "2134966",
+      "zctas": [
+        {
+          "zcta": "40330",
+          "name": "ZCTA5 40330",
+          "land_part_m2": 17926269
+        }
+      ]
+    },
+    {
+      "name": "Hartford city",
+      "geoid": "2135020",
+      "zctas": [
+        {
+          "zcta": "42320",
+          "name": "ZCTA5 42320",
+          "land_part_m2": 143981
+        },
+        {
+          "zcta": "42347",
+          "name": "ZCTA5 42347",
+          "land_part_m2": 7203917
+        }
+      ]
+    },
+    {
+      "name": "Hawesville city",
+      "geoid": "2135200",
+      "zctas": [
+        {
+          "zcta": "42348",
+          "name": "ZCTA5 42348",
+          "land_part_m2": 4204685
+        }
+      ]
+    },
+    {
+      "name": "Hazard city",
+      "geoid": "2135362",
+      "zctas": [
+        {
+          "zcta": "41701",
+          "name": "ZCTA5 41701",
+          "land_part_m2": 19295262
+        }
+      ]
+    },
+    {
+      "name": "Hazel Green CDP",
+      "geoid": "2135398",
+      "zctas": [
+        {
+          "zcta": "41332",
+          "name": "ZCTA5 41332",
+          "land_part_m2": 2785643
+        }
+      ]
+    },
+    {
+      "name": "Hazel city",
+      "geoid": "2135380",
+      "zctas": [
+        {
+          "zcta": "42049",
+          "name": "ZCTA5 42049",
+          "land_part_m2": 906613
+        }
+      ]
+    },
+    {
+      "name": "Hebron CDP",
+      "geoid": "2135542",
+      "zctas": [
+        {
+          "zcta": "41005",
+          "name": "ZCTA5 41005",
+          "land_part_m2": 4421334
+        },
+        {
+          "zcta": "41048",
+          "name": "ZCTA5 41048",
+          "land_part_m2": 12203118
+        }
+      ]
+    },
+    {
+      "name": "Hebron Estates city",
+      "geoid": "2135545",
+      "zctas": [
+        {
+          "zcta": "40165",
+          "name": "ZCTA5 40165",
+          "land_part_m2": 1529612
+        }
+      ]
+    },
+    {
+      "name": "Henderson city",
+      "geoid": "2135866",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 711544
+        },
+        {
+          "zcta": "42420",
+          "name": "ZCTA5 42420",
+          "land_part_m2": 41018518
+        }
+      ]
+    },
+    {
+      "name": "Hendron CDP",
+      "geoid": "2135902",
+      "zctas": [
+        {
+          "zcta": "42003",
+          "name": "ZCTA5 42003",
+          "land_part_m2": 13852711
+        }
+      ]
+    },
+    {
+      "name": "Heritage Creek city",
+      "geoid": "2136102",
+      "zctas": [
+        {
+          "zcta": "40229",
+          "name": "ZCTA5 40229",
+          "land_part_m2": 1169529
+        }
+      ]
+    },
+    {
+      "name": "Hickman city",
+      "geoid": "2136298",
+      "zctas": [
+        {
+          "zcta": "42050",
+          "name": "ZCTA5 42050",
+          "land_part_m2": 9192216
+        }
+      ]
+    },
+    {
+      "name": "Hickory CDP",
+      "geoid": "2136316",
+      "zctas": [
+        {
+          "zcta": "42051",
+          "name": "ZCTA5 42051",
+          "land_part_m2": 767727
+        },
+        {
+          "zcta": "42066",
+          "name": "ZCTA5 42066",
+          "land_part_m2": 1538933
+        }
+      ]
+    },
+    {
+      "name": "Hickory Hill city",
+      "geoid": "2136374",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 68575
+        }
+      ]
+    },
+    {
+      "name": "High Bridge CDP",
+      "geoid": "2136460",
+      "zctas": [
+        {
+          "zcta": "40390",
+          "name": "ZCTA5 40390",
+          "land_part_m2": 5645686
+        }
+      ]
+    },
+    {
+      "name": "Highland Heights city",
+      "geoid": "2136604",
+      "zctas": [
+        {
+          "zcta": "41075",
+          "name": "ZCTA5 41075",
+          "land_part_m2": 2313
+        },
+        {
+          "zcta": "41076",
+          "name": "ZCTA5 41076",
+          "land_part_m2": 6784362
+        }
+      ]
+    },
+    {
+      "name": "Hills and Dales city",
+      "geoid": "2136865",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 17941
+        },
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 240384
+        }
+      ]
+    },
+    {
+      "name": "Hillview city",
+      "geoid": "2136982",
+      "zctas": [
+        {
+          "zcta": "40109",
+          "name": "ZCTA5 40109",
+          "land_part_m2": 1951435
+        },
+        {
+          "zcta": "40165",
+          "name": "ZCTA5 40165",
+          "land_part_m2": 9287784
+        },
+        {
+          "zcta": "40229",
+          "name": "ZCTA5 40229",
+          "land_part_m2": 5618464
+        }
+      ]
+    },
+    {
+      "name": "Hindman city",
+      "geoid": "2137108",
+      "zctas": [
+        {
+          "zcta": "41822",
+          "name": "ZCTA5 41822",
+          "land_part_m2": 8056553
+        }
+      ]
+    },
+    {
+      "name": "Hiseville CDP",
+      "geoid": "2137234",
+      "zctas": [
+        {
+          "zcta": "42127",
+          "name": "ZCTA5 42127",
+          "land_part_m2": 1429187
+        },
+        {
+          "zcta": "42141",
+          "name": "ZCTA5 42141",
+          "land_part_m2": 460939
+        }
+      ]
+    },
+    {
+      "name": "Hodgenville city",
+      "geoid": "2137396",
+      "zctas": [
+        {
+          "zcta": "42748",
+          "name": "ZCTA5 42748",
+          "land_part_m2": 5512888
+        }
+      ]
+    },
+    {
+      "name": "Hollow Creek city",
+      "geoid": "2137576",
+      "zctas": [
+        {
+          "zcta": "40228",
+          "name": "ZCTA5 40228",
+          "land_part_m2": 599317
+        }
+      ]
+    },
+    {
+      "name": "Hollyvilla city",
+      "geoid": "2137630",
+      "zctas": [
+        {
+          "zcta": "40118",
+          "name": "ZCTA5 40118",
+          "land_part_m2": 883818
+        }
+      ]
+    },
+    {
+      "name": "Hopkinsville city",
+      "geoid": "2137918",
+      "zctas": [
+        {
+          "zcta": "42240",
+          "name": "ZCTA5 42240",
+          "land_part_m2": 79761150
+        },
+        {
+          "zcta": "42262",
+          "name": "ZCTA5 42262",
+          "land_part_m2": 1362221
+        },
+        {
+          "zcta": "42266",
+          "name": "ZCTA5 42266",
+          "land_part_m2": 1313784
+        }
+      ]
+    },
+    {
+      "name": "Horse Cave city",
+      "geoid": "2138008",
+      "zctas": [
+        {
+          "zcta": "42749",
+          "name": "ZCTA5 42749",
+          "land_part_m2": 8146787
+        }
+      ]
+    },
+    {
+      "name": "Houston Acres city",
+      "geoid": "2138170",
+      "zctas": [
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 373159
+        }
+      ]
+    },
+    {
+      "name": "Hunters Hollow city",
+      "geoid": "2138670",
+      "zctas": [
+        {
+          "zcta": "40229",
+          "name": "ZCTA5 40229",
+          "land_part_m2": 186352
+        }
+      ]
+    },
+    {
+      "name": "Hurstbourne Acres city",
+      "geoid": "2138818",
+      "zctas": [
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 896074
+        }
+      ]
+    },
+    {
+      "name": "Hurstbourne city",
+      "geoid": "2138814",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 4663272
+        }
+      ]
+    },
+    {
+      "name": "Hustonville city",
+      "geoid": "2138836",
+      "zctas": [
+        {
+          "zcta": "40437",
+          "name": "ZCTA5 40437",
+          "land_part_m2": 1892674
+        },
+        {
+          "zcta": "40484",
+          "name": "ZCTA5 40484",
+          "land_part_m2": 18370
+        }
+      ]
+    },
+    {
+      "name": "Hyden city",
+      "geoid": "2138908",
+      "zctas": [
+        {
+          "zcta": "41749",
+          "name": "ZCTA5 41749",
+          "land_part_m2": 3356461
+        }
+      ]
+    },
+    {
+      "name": "Independence city",
+      "geoid": "2139142",
+      "zctas": [
+        {
+          "zcta": "41015",
+          "name": "ZCTA5 41015",
+          "land_part_m2": 4285874
+        },
+        {
+          "zcta": "41018",
+          "name": "ZCTA5 41018",
+          "land_part_m2": 806784
+        },
+        {
+          "zcta": "41042",
+          "name": "ZCTA5 41042",
+          "land_part_m2": 1075886
+        },
+        {
+          "zcta": "41051",
+          "name": "ZCTA5 41051",
+          "land_part_m2": 39303382
+        },
+        {
+          "zcta": "41094",
+          "name": "ZCTA5 41094",
+          "land_part_m2": 8640
+        }
+      ]
+    },
+    {
+      "name": "Indian Hills city",
+      "geoid": "2139304",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 5113716
+        }
+      ]
+    },
+    {
+      "name": "Inez city",
+      "geoid": "2139430",
+      "zctas": [
+        {
+          "zcta": "41224",
+          "name": "ZCTA5 41224",
+          "land_part_m2": 4461465
+        }
+      ]
+    },
+    {
+      "name": "Ironville CDP",
+      "geoid": "2139592",
+      "zctas": [
+        {
+          "zcta": "41102",
+          "name": "ZCTA5 41102",
+          "land_part_m2": 2013414
+        }
+      ]
+    },
+    {
+      "name": "Irvine city",
+      "geoid": "2139646",
+      "zctas": [
+        {
+          "zcta": "40336",
+          "name": "ZCTA5 40336",
+          "land_part_m2": 3628526
+        },
+        {
+          "zcta": "40472",
+          "name": "ZCTA5 40472",
+          "land_part_m2": 147866
+        }
+      ]
+    },
+    {
+      "name": "Irvington city",
+      "geoid": "2139664",
+      "zctas": [
+        {
+          "zcta": "40146",
+          "name": "ZCTA5 40146",
+          "land_part_m2": 2273139
+        }
+      ]
+    },
+    {
+      "name": "Island city",
+      "geoid": "2139700",
+      "zctas": [
+        {
+          "zcta": "42350",
+          "name": "ZCTA5 42350",
+          "land_part_m2": 871620
+        }
+      ]
+    },
+    {
+      "name": "Jackson city",
+      "geoid": "2139952",
+      "zctas": [
+        {
+          "zcta": "41339",
+          "name": "ZCTA5 41339",
+          "land_part_m2": 6496808
+        }
+      ]
+    },
+    {
+      "name": "Jamestown city",
+      "geoid": "2140114",
+      "zctas": [
+        {
+          "zcta": "42629",
+          "name": "ZCTA5 42629",
+          "land_part_m2": 8948867
+        },
+        {
+          "zcta": "42642",
+          "name": "ZCTA5 42642",
+          "land_part_m2": 162384
+        }
+      ]
+    },
+    {
+      "name": "Jeff CDP",
+      "geoid": "2140204",
+      "zctas": [
+        {
+          "zcta": "41751",
+          "name": "ZCTA5 41751",
+          "land_part_m2": 1377045
+        },
+        {
+          "zcta": "41774",
+          "name": "ZCTA5 41774",
+          "land_part_m2": 583174
+        }
+      ]
+    },
+    {
+      "name": "Jeffersontown city",
+      "geoid": "2140222",
+      "zctas": [
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 2327474
+        },
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 158197
+        },
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 3046876
+        },
+        {
+          "zcta": "40291",
+          "name": "ZCTA5 40291",
+          "land_part_m2": 476192
+        },
+        {
+          "zcta": "40299",
+          "name": "ZCTA5 40299",
+          "land_part_m2": 20780729
+        }
+      ]
+    },
+    {
+      "name": "Jeffersonville city",
+      "geoid": "2140240",
+      "zctas": [
+        {
+          "zcta": "40337",
+          "name": "ZCTA5 40337",
+          "land_part_m2": 6967483
+        },
+        {
+          "zcta": "40353",
+          "name": "ZCTA5 40353",
+          "land_part_m2": 137020
+        }
+      ]
+    },
+    {
+      "name": "Jenkins city",
+      "geoid": "2140312",
+      "zctas": [
+        {
+          "zcta": "41517",
+          "name": "ZCTA5 41517",
+          "land_part_m2": 96338
+        },
+        {
+          "zcta": "41537",
+          "name": "ZCTA5 41537",
+          "land_part_m2": 22811901
+        }
+      ]
+    },
+    {
+      "name": "Junction City city",
+      "geoid": "2141338",
+      "zctas": [
+        {
+          "zcta": "40422",
+          "name": "ZCTA5 40422",
+          "land_part_m2": 1816968
+        },
+        {
+          "zcta": "40440",
+          "name": "ZCTA5 40440",
+          "land_part_m2": 3348201
+        },
+        {
+          "zcta": "40484",
+          "name": "ZCTA5 40484",
+          "land_part_m2": 30267
+        }
+      ]
+    },
+    {
+      "name": "Keene city",
+      "geoid": "2141716",
+      "zctas": [
+        {
+          "zcta": "40339",
+          "name": "ZCTA5 40339",
+          "land_part_m2": 318263
+        }
+      ]
+    },
+    {
+      "name": "Kenton Vale city",
+      "geoid": "2142094",
+      "zctas": [
+        {
+          "zcta": "41015",
+          "name": "ZCTA5 41015",
+          "land_part_m2": 138588
+        }
+      ]
+    },
+    {
+      "name": "Kenvir CDP",
+      "geoid": "2142112",
+      "zctas": [
+        {
+          "zcta": "40828",
+          "name": "ZCTA5 40828",
+          "land_part_m2": 574766
+        },
+        {
+          "zcta": "40847",
+          "name": "ZCTA5 40847",
+          "land_part_m2": 182119
+        }
+      ]
+    },
+    {
+      "name": "Kevil city",
+      "geoid": "2142292",
+      "zctas": [
+        {
+          "zcta": "42053",
+          "name": "ZCTA5 42053",
+          "land_part_m2": 1472957
+        }
+      ]
+    },
+    {
+      "name": "Kingsley city",
+      "geoid": "2142598",
+      "zctas": [
+        {
+          "zcta": "40205",
+          "name": "ZCTA5 40205",
+          "land_part_m2": 187167
+        }
+      ]
+    },
+    {
+      "name": "Knottsville CDP",
+      "geoid": "2143030",
+      "zctas": [
+        {
+          "zcta": "42366",
+          "name": "ZCTA5 42366",
+          "land_part_m2": 1793024
+        }
+      ]
+    },
+    {
+      "name": "Kuttawa city",
+      "geoid": "2143264",
+      "zctas": [
+        {
+          "zcta": "42038",
+          "name": "ZCTA5 42038",
+          "land_part_m2": 575128
+        },
+        {
+          "zcta": "42055",
+          "name": "ZCTA5 42055",
+          "land_part_m2": 5090564
+        }
+      ]
+    },
+    {
+      "name": "La Center city",
+      "geoid": "2143336",
+      "zctas": [
+        {
+          "zcta": "42056",
+          "name": "ZCTA5 42056",
+          "land_part_m2": 1568180
+        }
+      ]
+    },
+    {
+      "name": "La Grange city",
+      "geoid": "2143480",
+      "zctas": [
+        {
+          "zcta": "40031",
+          "name": "ZCTA5 40031",
+          "land_part_m2": 18691726
+        }
+      ]
+    },
+    {
+      "name": "LaFayette city",
+      "geoid": "2143444",
+      "zctas": [
+        {
+          "zcta": "42254",
+          "name": "ZCTA5 42254",
+          "land_part_m2": 667998
+        }
+      ]
+    },
+    {
+      "name": "Lakeside Park city",
+      "geoid": "2143606",
+      "zctas": [
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 2030039
+        }
+      ]
+    },
+    {
+      "name": "Lakeview Heights city",
+      "geoid": "2143668",
+      "zctas": [
+        {
+          "zcta": "40351",
+          "name": "ZCTA5 40351",
+          "land_part_m2": 363945
+        }
+      ]
+    },
+    {
+      "name": "Lancaster city",
+      "geoid": "2143840",
+      "zctas": [
+        {
+          "zcta": "40444",
+          "name": "ZCTA5 40444",
+          "land_part_m2": 5885559
+        }
+      ]
+    },
+    {
+      "name": "Langdon Place city",
+      "geoid": "2143900",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 126308
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 315628
+        }
+      ]
+    },
+    {
+      "name": "Lawrenceburg city",
+      "geoid": "2144146",
+      "zctas": [
+        {
+          "zcta": "40342",
+          "name": "ZCTA5 40342",
+          "land_part_m2": 15597030
+        }
+      ]
+    },
+    {
+      "name": "Lebanon Junction city",
+      "geoid": "2144362",
+      "zctas": [
+        {
+          "zcta": "40150",
+          "name": "ZCTA5 40150",
+          "land_part_m2": 14612334
+        }
+      ]
+    },
+    {
+      "name": "Lebanon city",
+      "geoid": "2144344",
+      "zctas": [
+        {
+          "zcta": "40033",
+          "name": "ZCTA5 40033",
+          "land_part_m2": 16498422
+        }
+      ]
+    },
+    {
+      "name": "Ledbetter CDP",
+      "geoid": "2144434",
+      "zctas": [
+        {
+          "zcta": "42058",
+          "name": "ZCTA5 42058",
+          "land_part_m2": 17810700
+        }
+      ]
+    },
+    {
+      "name": "Leitchfield city",
+      "geoid": "2144686",
+      "zctas": [
+        {
+          "zcta": "42754",
+          "name": "ZCTA5 42754",
+          "land_part_m2": 27861614
+        }
+      ]
+    },
+    {
+      "name": "Lewisburg city",
+      "geoid": "2145064",
+      "zctas": [
+        {
+          "zcta": "42256",
+          "name": "ZCTA5 42256",
+          "land_part_m2": 3009464
+        }
+      ]
+    },
+    {
+      "name": "Lewisport city",
+      "geoid": "2145136",
+      "zctas": [
+        {
+          "zcta": "42351",
+          "name": "ZCTA5 42351",
+          "land_part_m2": 2467219
+        }
+      ]
+    },
+    {
+      "name": "Lexington-Fayette urban county",
+      "geoid": "2146027",
+      "zctas": [
+        {
+          "zcta": "40324",
+          "name": "ZCTA5 40324",
+          "land_part_m2": 7090000
+        },
+        {
+          "zcta": "40361",
+          "name": "ZCTA5 40361",
+          "land_part_m2": 5425688
+        },
+        {
+          "zcta": "40391",
+          "name": "ZCTA5 40391",
+          "land_part_m2": 4003645
+        },
+        {
+          "zcta": "40502",
+          "name": "ZCTA5 40502",
+          "land_part_m2": 18509366
+        },
+        {
+          "zcta": "40503",
+          "name": "ZCTA5 40503",
+          "land_part_m2": 22879468
+        },
+        {
+          "zcta": "40504",
+          "name": "ZCTA5 40504",
+          "land_part_m2": 15964289
+        },
+        {
+          "zcta": "40505",
+          "name": "ZCTA5 40505",
+          "land_part_m2": 20690989
+        },
+        {
+          "zcta": "40507",
+          "name": "ZCTA5 40507",
+          "land_part_m2": 1115425
+        },
+        {
+          "zcta": "40508",
+          "name": "ZCTA5 40508",
+          "land_part_m2": 10894981
+        },
+        {
+          "zcta": "40509",
+          "name": "ZCTA5 40509",
+          "land_part_m2": 113199342
+        },
+        {
+          "zcta": "40510",
+          "name": "ZCTA5 40510",
+          "land_part_m2": 58802393
+        },
+        {
+          "zcta": "40511",
+          "name": "ZCTA5 40511",
+          "land_part_m2": 202787191
+        },
+        {
+          "zcta": "40513",
+          "name": "ZCTA5 40513",
+          "land_part_m2": 38040143
+        },
+        {
+          "zcta": "40514",
+          "name": "ZCTA5 40514",
+          "land_part_m2": 7731348
+        },
+        {
+          "zcta": "40515",
+          "name": "ZCTA5 40515",
+          "land_part_m2": 122458520
+        },
+        {
+          "zcta": "40516",
+          "name": "ZCTA5 40516",
+          "land_part_m2": 68624998
+        },
+        {
+          "zcta": "40517",
+          "name": "ZCTA5 40517",
+          "land_part_m2": 15985367
+        },
+        {
+          "zcta": "40526",
+          "name": "ZCTA5 40526",
+          "land_part_m2": 158244
+        },
+        {
+          "zcta": "40536",
+          "name": "ZCTA5 40536",
+          "land_part_m2": 256111
+        }
+      ]
+    },
+    {
+      "name": "Liberty city",
+      "geoid": "2146072",
+      "zctas": [
+        {
+          "zcta": "42539",
+          "name": "ZCTA5 42539",
+          "land_part_m2": 4845859
+        }
+      ]
+    },
+    {
+      "name": "Lincolnshire city",
+      "geoid": "2146540",
+      "zctas": [
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 123369
+        }
+      ]
+    },
+    {
+      "name": "Livermore city",
+      "geoid": "2147062",
+      "zctas": [
+        {
+          "zcta": "42352",
+          "name": "ZCTA5 42352",
+          "land_part_m2": 2675334
+        }
+      ]
+    },
+    {
+      "name": "Livingston city",
+      "geoid": "2147098",
+      "zctas": [
+        {
+          "zcta": "40445",
+          "name": "ZCTA5 40445",
+          "land_part_m2": 810091
+        }
+      ]
+    },
+    {
+      "name": "London city",
+      "geoid": "2147476",
+      "zctas": [
+        {
+          "zcta": "40741",
+          "name": "ZCTA5 40741",
+          "land_part_m2": 20458335
+        },
+        {
+          "zcta": "40744",
+          "name": "ZCTA5 40744",
+          "land_part_m2": 9499189
+        }
+      ]
+    },
+    {
+      "name": "Loretto city",
+      "geoid": "2147710",
+      "zctas": [
+        {
+          "zcta": "40037",
+          "name": "ZCTA5 40037",
+          "land_part_m2": 8258889
+        }
+      ]
+    },
+    {
+      "name": "Louisa city",
+      "geoid": "2147854",
+      "zctas": [
+        {
+          "zcta": "41230",
+          "name": "ZCTA5 41230",
+          "land_part_m2": 5807373
+        }
+      ]
+    },
+    {
+      "name": "Louisville city",
+      "geoid": "2148000",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 53218
+        },
+        {
+          "zcta": "40041",
+          "name": "ZCTA5 40041",
+          "land_part_m2": 322460
+        },
+        {
+          "zcta": "40202",
+          "name": "ZCTA5 40202",
+          "land_part_m2": 4181975
+        },
+        {
+          "zcta": "40203",
+          "name": "ZCTA5 40203",
+          "land_part_m2": 7498756
+        },
+        {
+          "zcta": "40204",
+          "name": "ZCTA5 40204",
+          "land_part_m2": 8219841
+        },
+        {
+          "zcta": "40205",
+          "name": "ZCTA5 40205",
+          "land_part_m2": 15513767
+        },
+        {
+          "zcta": "40206",
+          "name": "ZCTA5 40206",
+          "land_part_m2": 15131668
+        },
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 4218203
+        },
+        {
+          "zcta": "40208",
+          "name": "ZCTA5 40208",
+          "land_part_m2": 6552384
+        },
+        {
+          "zcta": "40209",
+          "name": "ZCTA5 40209",
+          "land_part_m2": 9888374
+        },
+        {
+          "zcta": "40210",
+          "name": "ZCTA5 40210",
+          "land_part_m2": 7613828
+        },
+        {
+          "zcta": "40211",
+          "name": "ZCTA5 40211",
+          "land_part_m2": 12557973
+        },
+        {
+          "zcta": "40212",
+          "name": "ZCTA5 40212",
+          "land_part_m2": 9918076
+        },
+        {
+          "zcta": "40213",
+          "name": "ZCTA5 40213",
+          "land_part_m2": 11255862
+        },
+        {
+          "zcta": "40214",
+          "name": "ZCTA5 40214",
+          "land_part_m2": 14946250
+        },
+        {
+          "zcta": "40215",
+          "name": "ZCTA5 40215",
+          "land_part_m2": 8976608
+        },
+        {
+          "zcta": "40216",
+          "name": "ZCTA5 40216",
+          "land_part_m2": 2239856
+        },
+        {
+          "zcta": "40217",
+          "name": "ZCTA5 40217",
+          "land_part_m2": 5985002
+        },
+        {
+          "zcta": "40218",
+          "name": "ZCTA5 40218",
+          "land_part_m2": 4151445
+        },
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 6461293
+        },
+        {
+          "zcta": "40221",
+          "name": "ZCTA5 40221",
+          "land_part_m2": 372498
+        },
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 2822355
+        },
+        {
+          "zcta": "40231",
+          "name": "ZCTA5 40231",
+          "land_part_m2": 174386
+        },
+        {
+          "zcta": "40280",
+          "name": "ZCTA5 40280",
+          "land_part_m2": 183126
+        }
+      ]
+    },
+    {
+      "name": "Louisville/Jefferson County metro government (balance)",
+      "geoid": "2148006",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 606254
+        },
+        {
+          "zcta": "40014",
+          "name": "ZCTA5 40014",
+          "land_part_m2": 58980
+        },
+        {
+          "zcta": "40023",
+          "name": "ZCTA5 40023",
+          "land_part_m2": 37607600
+        },
+        {
+          "zcta": "40025",
+          "name": "ZCTA5 40025",
+          "land_part_m2": 97635
+        },
+        {
+          "zcta": "40047",
+          "name": "ZCTA5 40047",
+          "land_part_m2": 294754
+        },
+        {
+          "zcta": "40059",
+          "name": "ZCTA5 40059",
+          "land_part_m2": 19032819
+        },
+        {
+          "zcta": "40109",
+          "name": "ZCTA5 40109",
+          "land_part_m2": 1045763
+        },
+        {
+          "zcta": "40118",
+          "name": "ZCTA5 40118",
+          "land_part_m2": 38029559
+        },
+        {
+          "zcta": "40177",
+          "name": "ZCTA5 40177",
+          "land_part_m2": 2875211
+        },
+        {
+          "zcta": "40205",
+          "name": "ZCTA5 40205",
+          "land_part_m2": 719932
+        },
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 5073345
+        },
+        {
+          "zcta": "40209",
+          "name": "ZCTA5 40209",
+          "land_part_m2": 1312271
+        },
+        {
+          "zcta": "40210",
+          "name": "ZCTA5 40210",
+          "land_part_m2": 378697
+        },
+        {
+          "zcta": "40211",
+          "name": "ZCTA5 40211",
+          "land_part_m2": 6374234
+        },
+        {
+          "zcta": "40213",
+          "name": "ZCTA5 40213",
+          "land_part_m2": 11115388
+        },
+        {
+          "zcta": "40214",
+          "name": "ZCTA5 40214",
+          "land_part_m2": 23821221
+        },
+        {
+          "zcta": "40216",
+          "name": "ZCTA5 40216",
+          "land_part_m2": 26960101
+        },
+        {
+          "zcta": "40218",
+          "name": "ZCTA5 40218",
+          "land_part_m2": 14826090
+        },
+        {
+          "zcta": "40219",
+          "name": "ZCTA5 40219",
+          "land_part_m2": 38165417
+        },
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 8302055
+        },
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 6249668
+        },
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 12702533
+        },
+        {
+          "zcta": "40228",
+          "name": "ZCTA5 40228",
+          "land_part_m2": 21691269
+        },
+        {
+          "zcta": "40229",
+          "name": "ZCTA5 40229",
+          "land_part_m2": 30777032
+        },
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 27965373
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 1037103
+        },
+        {
+          "zcta": "40243",
+          "name": "ZCTA5 40243",
+          "land_part_m2": 257701
+        },
+        {
+          "zcta": "40245",
+          "name": "ZCTA5 40245",
+          "land_part_m2": 58699892
+        },
+        {
+          "zcta": "40258",
+          "name": "ZCTA5 40258",
+          "land_part_m2": 30243522
+        },
+        {
+          "zcta": "40272",
+          "name": "ZCTA5 40272",
+          "land_part_m2": 82430325
+        },
+        {
+          "zcta": "40291",
+          "name": "ZCTA5 40291",
+          "land_part_m2": 58140778
+        },
+        {
+          "zcta": "40299",
+          "name": "ZCTA5 40299",
+          "land_part_m2": 115456736
+        }
+      ]
+    },
+    {
+      "name": "Lovelaceville CDP",
+      "geoid": "2148072",
+      "zctas": [
+        {
+          "zcta": "42053",
+          "name": "ZCTA5 42053",
+          "land_part_m2": 435809
+        },
+        {
+          "zcta": "42060",
+          "name": "ZCTA5 42060",
+          "land_part_m2": 872054
+        }
+      ]
+    },
+    {
+      "name": "Lowes CDP",
+      "geoid": "2148234",
+      "zctas": [
+        {
+          "zcta": "42035",
+          "name": "ZCTA5 42035",
+          "land_part_m2": 324001
+        },
+        {
+          "zcta": "42051",
+          "name": "ZCTA5 42051",
+          "land_part_m2": 489790
+        },
+        {
+          "zcta": "42061",
+          "name": "ZCTA5 42061",
+          "land_part_m2": 907501
+        },
+        {
+          "zcta": "42069",
+          "name": "ZCTA5 42069",
+          "land_part_m2": 53463
+        }
+      ]
+    },
+    {
+      "name": "Loyall city",
+      "geoid": "2148288",
+      "zctas": [
+        {
+          "zcta": "40854",
+          "name": "ZCTA5 40854",
+          "land_part_m2": 763936
+        }
+      ]
+    },
+    {
+      "name": "Ludlow city",
+      "geoid": "2148378",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 290
+        },
+        {
+          "zcta": "41011",
+          "name": "ZCTA5 41011",
+          "land_part_m2": 27724
+        },
+        {
+          "zcta": "41016",
+          "name": "ZCTA5 41016",
+          "land_part_m2": 2343465
+        }
+      ]
+    },
+    {
+      "name": "Lynch city",
+      "geoid": "2148540",
+      "zctas": [
+        {
+          "zcta": "40855",
+          "name": "ZCTA5 40855",
+          "land_part_m2": 775350
+        }
+      ]
+    },
+    {
+      "name": "Lyndon city",
+      "geoid": "2148558",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 3660435
+        },
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 2669304
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 2996879
+        }
+      ]
+    },
+    {
+      "name": "Lynnview city",
+      "geoid": "2148648",
+      "zctas": [
+        {
+          "zcta": "40213",
+          "name": "ZCTA5 40213",
+          "land_part_m2": 481338
+        }
+      ]
+    },
+    {
+      "name": "Maceo CDP",
+      "geoid": "2149026",
+      "zctas": [
+        {
+          "zcta": "42355",
+          "name": "ZCTA5 42355",
+          "land_part_m2": 3851367
+        }
+      ]
+    },
+    {
+      "name": "Mackville city",
+      "geoid": "2149206",
+      "zctas": [
+        {
+          "zcta": "40040",
+          "name": "ZCTA5 40040",
+          "land_part_m2": 958435
+        },
+        {
+          "zcta": "40069",
+          "name": "ZCTA5 40069",
+          "land_part_m2": 89849
+        }
+      ]
+    },
+    {
+      "name": "Madisonville city",
+      "geoid": "2149368",
+      "zctas": [
+        {
+          "zcta": "42431",
+          "name": "ZCTA5 42431",
+          "land_part_m2": 46272874
+        }
+      ]
+    },
+    {
+      "name": "Magnolia CDP",
+      "geoid": "2149476",
+      "zctas": [
+        {
+          "zcta": "42748",
+          "name": "ZCTA5 42748",
+          "land_part_m2": 370169
+        },
+        {
+          "zcta": "42757",
+          "name": "ZCTA5 42757",
+          "land_part_m2": 4911889
+        }
+      ]
+    },
+    {
+      "name": "Manchester city",
+      "geoid": "2149656",
+      "zctas": [
+        {
+          "zcta": "40962",
+          "name": "ZCTA5 40962",
+          "land_part_m2": 7275218
+        }
+      ]
+    },
+    {
+      "name": "Manitou CDP",
+      "geoid": "2149746",
+      "zctas": [
+        {
+          "zcta": "42436",
+          "name": "ZCTA5 42436",
+          "land_part_m2": 1707451
+        }
+      ]
+    },
+    {
+      "name": "Manor Creek city",
+      "geoid": "2149800",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 143093
+        }
+      ]
+    },
+    {
+      "name": "Marion city",
+      "geoid": "2150034",
+      "zctas": [
+        {
+          "zcta": "42064",
+          "name": "ZCTA5 42064",
+          "land_part_m2": 8612792
+        }
+      ]
+    },
+    {
+      "name": "Marrowbone CDP",
+      "geoid": "2150124",
+      "zctas": [
+        {
+          "zcta": "42717",
+          "name": "ZCTA5 42717",
+          "land_part_m2": 2921173
+        },
+        {
+          "zcta": "42759",
+          "name": "ZCTA5 42759",
+          "land_part_m2": 379213
+        }
+      ]
+    },
+    {
+      "name": "Martin city",
+      "geoid": "2150286",
+      "zctas": [
+        {
+          "zcta": "41645",
+          "name": "ZCTA5 41645",
+          "land_part_m2": 169938
+        },
+        {
+          "zcta": "41649",
+          "name": "ZCTA5 41649",
+          "land_part_m2": 1725695
+        }
+      ]
+    },
+    {
+      "name": "Maryhill Estates city",
+      "geoid": "2150412",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 102456
+        }
+      ]
+    },
+    {
+      "name": "Masonville CDP",
+      "geoid": "2150520",
+      "zctas": [
+        {
+          "zcta": "42366",
+          "name": "ZCTA5 42366",
+          "land_part_m2": 648541
+        },
+        {
+          "zcta": "42376",
+          "name": "ZCTA5 42376",
+          "land_part_m2": 26174694
+        }
+      ]
+    },
+    {
+      "name": "Massac CDP",
+      "geoid": "2150556",
+      "zctas": [
+        {
+          "zcta": "42001",
+          "name": "ZCTA5 42001",
+          "land_part_m2": 10431969
+        },
+        {
+          "zcta": "42003",
+          "name": "ZCTA5 42003",
+          "land_part_m2": 39464
+        }
+      ]
+    },
+    {
+      "name": "Mayfield city",
+      "geoid": "2150898",
+      "zctas": [
+        {
+          "zcta": "42066",
+          "name": "ZCTA5 42066",
+          "land_part_m2": 18941498
+        }
+      ]
+    },
+    {
+      "name": "Mayking CDP",
+      "geoid": "2150952",
+      "zctas": [
+        {
+          "zcta": "41837",
+          "name": "ZCTA5 41837",
+          "land_part_m2": 832182
+        },
+        {
+          "zcta": "41858",
+          "name": "ZCTA5 41858",
+          "land_part_m2": 3157403
+        }
+      ]
+    },
+    {
+      "name": "Mays Lick CDP",
+      "geoid": "2151006",
+      "zctas": [
+        {
+          "zcta": "41055",
+          "name": "ZCTA5 41055",
+          "land_part_m2": 1653328
+        }
+      ]
+    },
+    {
+      "name": "Maysville city",
+      "geoid": "2151024",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41056",
+          "name": "ZCTA5 41056",
+          "land_part_m2": 49141984
+        }
+      ]
+    },
+    {
+      "name": "Maytown CDP",
+      "geoid": "2151042",
+      "zctas": [
+        {
+          "zcta": "41645",
+          "name": "ZCTA5 41645",
+          "land_part_m2": 1478145
+        }
+      ]
+    },
+    {
+      "name": "McCarr CDP",
+      "geoid": "2148810",
+      "zctas": [
+        {
+          "zcta": "41544",
+          "name": "ZCTA5 41544",
+          "land_part_m2": 634576
+        }
+      ]
+    },
+    {
+      "name": "McDowell CDP",
+      "geoid": "2148954",
+      "zctas": [
+        {
+          "zcta": "41647",
+          "name": "ZCTA5 41647",
+          "land_part_m2": 5767554
+        },
+        {
+          "zcta": "41651",
+          "name": "ZCTA5 41651",
+          "land_part_m2": 646610
+        }
+      ]
+    },
+    {
+      "name": "McHenry city",
+      "geoid": "2149098",
+      "zctas": [
+        {
+          "zcta": "42320",
+          "name": "ZCTA5 42320",
+          "land_part_m2": 609190
+        },
+        {
+          "zcta": "42354",
+          "name": "ZCTA5 42354",
+          "land_part_m2": 1066660
+        }
+      ]
+    },
+    {
+      "name": "McKee city",
+      "geoid": "2149116",
+      "zctas": [
+        {
+          "zcta": "40447",
+          "name": "ZCTA5 40447",
+          "land_part_m2": 6218943
+        }
+      ]
+    },
+    {
+      "name": "McKinney CDP",
+      "geoid": "2149134",
+      "zctas": [
+        {
+          "zcta": "40437",
+          "name": "ZCTA5 40437",
+          "land_part_m2": 637833
+        },
+        {
+          "zcta": "40448",
+          "name": "ZCTA5 40448",
+          "land_part_m2": 230032
+        },
+        {
+          "zcta": "40484",
+          "name": "ZCTA5 40484",
+          "land_part_m2": 224827
+        }
+      ]
+    },
+    {
+      "name": "McRoberts CDP",
+      "geoid": "2149278",
+      "zctas": [
+        {
+          "zcta": "41835",
+          "name": "ZCTA5 41835",
+          "land_part_m2": 14512931
+        }
+      ]
+    },
+    {
+      "name": "Meadow Vale city",
+      "geoid": "2151258",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 135549
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 430805
+        }
+      ]
+    },
+    {
+      "name": "Meadowbrook Farm city",
+      "geoid": "2151193",
+      "zctas": [
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 70650
+        }
+      ]
+    },
+    {
+      "name": "Meadowview Estates city",
+      "geoid": "2151294",
+      "zctas": [
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 162220
+        }
+      ]
+    },
+    {
+      "name": "Melbourne city",
+      "geoid": "2151438",
+      "zctas": [
+        {
+          "zcta": "41059",
+          "name": "ZCTA5 41059",
+          "land_part_m2": 2163341
+        }
+      ]
+    },
+    {
+      "name": "Mentor city",
+      "geoid": "2151564",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41007",
+          "name": "ZCTA5 41007",
+          "land_part_m2": 1935004
+        }
+      ]
+    },
+    {
+      "name": "Middlesborough city",
+      "geoid": "2151924",
+      "zctas": [
+        {
+          "zcta": "40965",
+          "name": "ZCTA5 40965",
+          "land_part_m2": 19121195
+        }
+      ]
+    },
+    {
+      "name": "Middletown city",
+      "geoid": "2151978",
+      "zctas": [
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 3126272
+        },
+        {
+          "zcta": "40243",
+          "name": "ZCTA5 40243",
+          "land_part_m2": 7256193
+        },
+        {
+          "zcta": "40245",
+          "name": "ZCTA5 40245",
+          "land_part_m2": 954796
+        },
+        {
+          "zcta": "40299",
+          "name": "ZCTA5 40299",
+          "land_part_m2": 1964522
+        }
+      ]
+    },
+    {
+      "name": "Midway city",
+      "geoid": "2152140",
+      "zctas": [
+        {
+          "zcta": "40347",
+          "name": "ZCTA5 40347",
+          "land_part_m2": 3543836
+        }
+      ]
+    },
+    {
+      "name": "Millersburg city",
+      "geoid": "2152302",
+      "zctas": [
+        {
+          "zcta": "40311",
+          "name": "ZCTA5 40311",
+          "land_part_m2": 215891
+        },
+        {
+          "zcta": "40348",
+          "name": "ZCTA5 40348",
+          "land_part_m2": 845198
+        }
+      ]
+    },
+    {
+      "name": "Millstone CDP",
+      "geoid": "2152464",
+      "zctas": [
+        {
+          "zcta": "41838",
+          "name": "ZCTA5 41838",
+          "land_part_m2": 555152
+        }
+      ]
+    },
+    {
+      "name": "Milton city",
+      "geoid": "2152590",
+      "zctas": [
+        {
+          "zcta": "40045",
+          "name": "ZCTA5 40045",
+          "land_part_m2": 3827981
+        }
+      ]
+    },
+    {
+      "name": "Mockingbird Valley city",
+      "geoid": "2152842",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 536022
+        }
+      ]
+    },
+    {
+      "name": "Monterey city",
+      "geoid": "2153076",
+      "zctas": [
+        {
+          "zcta": "40359",
+          "name": "ZCTA5 40359",
+          "land_part_m2": 665811
+        }
+      ]
+    },
+    {
+      "name": "Monticello city",
+      "geoid": "2153130",
+      "zctas": [
+        {
+          "zcta": "42633",
+          "name": "ZCTA5 42633",
+          "land_part_m2": 15771920
+        }
+      ]
+    },
+    {
+      "name": "Moorland city",
+      "geoid": "2153328",
+      "zctas": [
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 209524
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 33644
+        }
+      ]
+    },
+    {
+      "name": "Morehead city",
+      "geoid": "2153418",
+      "zctas": [
+        {
+          "zcta": "40351",
+          "name": "ZCTA5 40351",
+          "land_part_m2": 24543083
+        }
+      ]
+    },
+    {
+      "name": "Morganfield city",
+      "geoid": "2153472",
+      "zctas": [
+        {
+          "zcta": "42437",
+          "name": "ZCTA5 42437",
+          "land_part_m2": 7288850
+        }
+      ]
+    },
+    {
+      "name": "Morgantown city",
+      "geoid": "2153490",
+      "zctas": [
+        {
+          "zcta": "42261",
+          "name": "ZCTA5 42261",
+          "land_part_m2": 8616172
+        }
+      ]
+    },
+    {
+      "name": "Mortons Gap city",
+      "geoid": "2153616",
+      "zctas": [
+        {
+          "zcta": "42431",
+          "name": "ZCTA5 42431",
+          "land_part_m2": 438788
+        },
+        {
+          "zcta": "42440",
+          "name": "ZCTA5 42440",
+          "land_part_m2": 2486012
+        },
+        {
+          "zcta": "42464",
+          "name": "ZCTA5 42464",
+          "land_part_m2": 142006
+        }
+      ]
+    },
+    {
+      "name": "Moseleyville CDP",
+      "geoid": "2153670",
+      "zctas": [
+        {
+          "zcta": "42301",
+          "name": "ZCTA5 42301",
+          "land_part_m2": 2693918
+        }
+      ]
+    },
+    {
+      "name": "Mount Olivet city",
+      "geoid": "2153976",
+      "zctas": [
+        {
+          "zcta": "41064",
+          "name": "ZCTA5 41064",
+          "land_part_m2": 2140927
+        }
+      ]
+    },
+    {
+      "name": "Mount Sterling city",
+      "geoid": "2154084",
+      "zctas": [
+        {
+          "zcta": "40353",
+          "name": "ZCTA5 40353",
+          "land_part_m2": 11624240
+        }
+      ]
+    },
+    {
+      "name": "Mount Vernon city",
+      "geoid": "2154174",
+      "zctas": [
+        {
+          "zcta": "40456",
+          "name": "ZCTA5 40456",
+          "land_part_m2": 7289372
+        }
+      ]
+    },
+    {
+      "name": "Mount Washington city",
+      "geoid": "2154228",
+      "zctas": [
+        {
+          "zcta": "40047",
+          "name": "ZCTA5 40047",
+          "land_part_m2": 24189399
+        },
+        {
+          "zcta": "40165",
+          "name": "ZCTA5 40165",
+          "land_part_m2": 9288
+        }
+      ]
+    },
+    {
+      "name": "Muldraugh city",
+      "geoid": "2154480",
+      "zctas": [
+        {
+          "zcta": "40121",
+          "name": "ZCTA5 40121",
+          "land_part_m2": 41938
+        },
+        {
+          "zcta": "40155",
+          "name": "ZCTA5 40155",
+          "land_part_m2": 1311784
+        }
+      ]
+    },
+    {
+      "name": "Munfordville city",
+      "geoid": "2154570",
+      "zctas": [
+        {
+          "zcta": "42765",
+          "name": "ZCTA5 42765",
+          "land_part_m2": 5802046
+        }
+      ]
+    },
+    {
+      "name": "Murray Hill city",
+      "geoid": "2154660",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 212320
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 129446
+        }
+      ]
+    },
+    {
+      "name": "Murray city",
+      "geoid": "2154642",
+      "zctas": [
+        {
+          "zcta": "42020",
+          "name": "ZCTA5 42020",
+          "land_part_m2": 9119
+        },
+        {
+          "zcta": "42071",
+          "name": "ZCTA5 42071",
+          "land_part_m2": 30165138
+        }
+      ]
+    },
+    {
+      "name": "Nebo city",
+      "geoid": "2155092",
+      "zctas": [
+        {
+          "zcta": "42441",
+          "name": "ZCTA5 42441",
+          "land_part_m2": 641859
+        }
+      ]
+    },
+    {
+      "name": "New Castle city",
+      "geoid": "2155596",
+      "zctas": [
+        {
+          "zcta": "40050",
+          "name": "ZCTA5 40050",
+          "land_part_m2": 1010064
+        },
+        {
+          "zcta": "40058",
+          "name": "ZCTA5 40058",
+          "land_part_m2": 51237
+        }
+      ]
+    },
+    {
+      "name": "New Haven city",
+      "geoid": "2155758",
+      "zctas": [
+        {
+          "zcta": "40051",
+          "name": "ZCTA5 40051",
+          "land_part_m2": 1496767
+        }
+      ]
+    },
+    {
+      "name": "New Hope CDP",
+      "geoid": "2155794",
+      "zctas": [
+        {
+          "zcta": "40052",
+          "name": "ZCTA5 40052",
+          "land_part_m2": 1599286
+        }
+      ]
+    },
+    {
+      "name": "Newport city",
+      "geoid": "2155884",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 983
+        },
+        {
+          "zcta": "41071",
+          "name": "ZCTA5 41071",
+          "land_part_m2": 7113923
+        },
+        {
+          "zcta": "41075",
+          "name": "ZCTA5 41075",
+          "land_part_m2": 20792
+        }
+      ]
+    },
+    {
+      "name": "Nicholasville city",
+      "geoid": "2156136",
+      "zctas": [
+        {
+          "zcta": "40356",
+          "name": "ZCTA5 40356",
+          "land_part_m2": 37776089
+        }
+      ]
+    },
+    {
+      "name": "Norbourne Estates city",
+      "geoid": "2156550",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 206764
+        }
+      ]
+    },
+    {
+      "name": "North Corbin CDP",
+      "geoid": "2156694",
+      "zctas": [
+        {
+          "zcta": "40701",
+          "name": "ZCTA5 40701",
+          "land_part_m2": 4610426
+        }
+      ]
+    },
+    {
+      "name": "North Middletown city",
+      "geoid": "2156820",
+      "zctas": [
+        {
+          "zcta": "40357",
+          "name": "ZCTA5 40357",
+          "land_part_m2": 99120
+        },
+        {
+          "zcta": "40361",
+          "name": "ZCTA5 40361",
+          "land_part_m2": 763202
+        }
+      ]
+    },
+    {
+      "name": "Northfield city",
+      "geoid": "2156730",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 42418
+        },
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 1177525
+        }
+      ]
+    },
+    {
+      "name": "Nortonville city",
+      "geoid": "2156910",
+      "zctas": [
+        {
+          "zcta": "42442",
+          "name": "ZCTA5 42442",
+          "land_part_m2": 3001142
+        }
+      ]
+    },
+    {
+      "name": "Norwood city",
+      "geoid": "2156928",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 304744
+        }
+      ]
+    },
+    {
+      "name": "Oak Grove city",
+      "geoid": "2157090",
+      "zctas": [
+        {
+          "zcta": "42223",
+          "name": "ZCTA5 42223",
+          "land_part_m2": 13681
+        },
+        {
+          "zcta": "42262",
+          "name": "ZCTA5 42262",
+          "land_part_m2": 27722488
+        }
+      ]
+    },
+    {
+      "name": "Oakbrook CDP",
+      "geoid": "2157030",
+      "zctas": [
+        {
+          "zcta": "41042",
+          "name": "ZCTA5 41042",
+          "land_part_m2": 8294745
+        }
+      ]
+    },
+    {
+      "name": "Oakland city",
+      "geoid": "2157144",
+      "zctas": [
+        {
+          "zcta": "42159",
+          "name": "ZCTA5 42159",
+          "land_part_m2": 3618098
+        }
+      ]
+    },
+    {
+      "name": "Old Brownsboro Place city",
+      "geoid": "2157658",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 51291
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 290990
+        }
+      ]
+    },
+    {
+      "name": "Olive Hill city",
+      "geoid": "2157918",
+      "zctas": [
+        {
+          "zcta": "41164",
+          "name": "ZCTA5 41164",
+          "land_part_m2": 5093278
+        }
+      ]
+    },
+    {
+      "name": "Oneida CDP",
+      "geoid": "2158062",
+      "zctas": [
+        {
+          "zcta": "40962",
+          "name": "ZCTA5 40962",
+          "land_part_m2": 572268
+        },
+        {
+          "zcta": "40972",
+          "name": "ZCTA5 40972",
+          "land_part_m2": 4718500
+        }
+      ]
+    },
+    {
+      "name": "Onton CDP",
+      "geoid": "2158116",
+      "zctas": [
+        {
+          "zcta": "42455",
+          "name": "ZCTA5 42455",
+          "land_part_m2": 2137007
+        }
+      ]
+    },
+    {
+      "name": "Orchard Grass Hills city",
+      "geoid": "2158200",
+      "zctas": [
+        {
+          "zcta": "40014",
+          "name": "ZCTA5 40014",
+          "land_part_m2": 1005976
+        }
+      ]
+    },
+    {
+      "name": "Owensboro city",
+      "geoid": "2158620",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 202279
+        },
+        {
+          "zcta": "42301",
+          "name": "ZCTA5 42301",
+          "land_part_m2": 29611082
+        },
+        {
+          "zcta": "42303",
+          "name": "ZCTA5 42303",
+          "land_part_m2": 23368432
+        }
+      ]
+    },
+    {
+      "name": "Owenton city",
+      "geoid": "2158692",
+      "zctas": [
+        {
+          "zcta": "40359",
+          "name": "ZCTA5 40359",
+          "land_part_m2": 4923433
+        }
+      ]
+    },
+    {
+      "name": "Owingsville city",
+      "geoid": "2158710",
+      "zctas": [
+        {
+          "zcta": "40360",
+          "name": "ZCTA5 40360",
+          "land_part_m2": 6507285
+        }
+      ]
+    },
+    {
+      "name": "Paducah city",
+      "geoid": "2158836",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "42001",
+          "name": "ZCTA5 42001",
+          "land_part_m2": 35894552
+        },
+        {
+          "zcta": "42003",
+          "name": "ZCTA5 42003",
+          "land_part_m2": 16654074
+        }
+      ]
+    },
+    {
+      "name": "Paintsville city",
+      "geoid": "2158962",
+      "zctas": [
+        {
+          "zcta": "41216",
+          "name": "ZCTA5 41216",
+          "land_part_m2": 364567
+        },
+        {
+          "zcta": "41222",
+          "name": "ZCTA5 41222",
+          "land_part_m2": 3140089
+        },
+        {
+          "zcta": "41240",
+          "name": "ZCTA5 41240",
+          "land_part_m2": 13317743
+        },
+        {
+          "zcta": "41256",
+          "name": "ZCTA5 41256",
+          "land_part_m2": 312902
+        }
+      ]
+    },
+    {
+      "name": "Panther CDP",
+      "geoid": "2159124",
+      "zctas": [
+        {
+          "zcta": "42301",
+          "name": "ZCTA5 42301",
+          "land_part_m2": 52111
+        },
+        {
+          "zcta": "42376",
+          "name": "ZCTA5 42376",
+          "land_part_m2": 1995650
+        }
+      ]
+    },
+    {
+      "name": "Paris city",
+      "geoid": "2159196",
+      "zctas": [
+        {
+          "zcta": "40361",
+          "name": "ZCTA5 40361",
+          "land_part_m2": 20504281
+        }
+      ]
+    },
+    {
+      "name": "Park City city",
+      "geoid": "2159232",
+      "zctas": [
+        {
+          "zcta": "42160",
+          "name": "ZCTA5 42160",
+          "land_part_m2": 3802255
+        }
+      ]
+    },
+    {
+      "name": "Park Hills city",
+      "geoid": "2159255",
+      "zctas": [
+        {
+          "zcta": "41011",
+          "name": "ZCTA5 41011",
+          "land_part_m2": 2012511
+        }
+      ]
+    },
+    {
+      "name": "Parkway Village city",
+      "geoid": "2159322",
+      "zctas": [
+        {
+          "zcta": "40217",
+          "name": "ZCTA5 40217",
+          "land_part_m2": 226967
+        }
+      ]
+    },
+    {
+      "name": "Pathfork CDP",
+      "geoid": "2159466",
+      "zctas": [
+        {
+          "zcta": "40863",
+          "name": "ZCTA5 40863",
+          "land_part_m2": 3219589
+        }
+      ]
+    },
+    {
+      "name": "Payne Gap CDP",
+      "geoid": "2159592",
+      "zctas": [
+        {
+          "zcta": "41537",
+          "name": "ZCTA5 41537",
+          "land_part_m2": 5966003
+        }
+      ]
+    },
+    {
+      "name": "Pembroke city",
+      "geoid": "2159934",
+      "zctas": [
+        {
+          "zcta": "42266",
+          "name": "ZCTA5 42266",
+          "land_part_m2": 2876215
+        }
+      ]
+    },
+    {
+      "name": "Perryville city",
+      "geoid": "2160258",
+      "zctas": [
+        {
+          "zcta": "40468",
+          "name": "ZCTA5 40468",
+          "land_part_m2": 2022716
+        }
+      ]
+    },
+    {
+      "name": "Petersburg CDP",
+      "geoid": "2160312",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41080",
+          "name": "ZCTA5 41080",
+          "land_part_m2": 16259586
+        }
+      ]
+    },
+    {
+      "name": "Pewee Valley city",
+      "geoid": "2160492",
+      "zctas": [
+        {
+          "zcta": "40014",
+          "name": "ZCTA5 40014",
+          "land_part_m2": 435321
+        },
+        {
+          "zcta": "40056",
+          "name": "ZCTA5 40056",
+          "land_part_m2": 4568779
+        }
+      ]
+    },
+    {
+      "name": "Phelps CDP",
+      "geoid": "2160600",
+      "zctas": [
+        {
+          "zcta": "41553",
+          "name": "ZCTA5 41553",
+          "land_part_m2": 20703490
+        }
+      ]
+    },
+    {
+      "name": "Philpot CDP",
+      "geoid": "2160654",
+      "zctas": [
+        {
+          "zcta": "42303",
+          "name": "ZCTA5 42303",
+          "land_part_m2": 1801788
+        },
+        {
+          "zcta": "42366",
+          "name": "ZCTA5 42366",
+          "land_part_m2": 6704282
+        }
+      ]
+    },
+    {
+      "name": "Pikeville city",
+      "geoid": "2160852",
+      "zctas": [
+        {
+          "zcta": "41501",
+          "name": "ZCTA5 41501",
+          "land_part_m2": 56589454
+        }
+      ]
+    },
+    {
+      "name": "Pine Knot CDP",
+      "geoid": "2161122",
+      "zctas": [
+        {
+          "zcta": "42635",
+          "name": "ZCTA5 42635",
+          "land_part_m2": 13695567
+        },
+        {
+          "zcta": "42647",
+          "name": "ZCTA5 42647",
+          "land_part_m2": 756307
+        },
+        {
+          "zcta": "42649",
+          "name": "ZCTA5 42649",
+          "land_part_m2": 2135702
+        }
+      ]
+    },
+    {
+      "name": "Pineville city",
+      "geoid": "2161248",
+      "zctas": [
+        {
+          "zcta": "40977",
+          "name": "ZCTA5 40977",
+          "land_part_m2": 8736516
+        }
+      ]
+    },
+    {
+      "name": "Pioneer Village city",
+      "geoid": "2161356",
+      "zctas": [
+        {
+          "zcta": "40165",
+          "name": "ZCTA5 40165",
+          "land_part_m2": 2088341
+        },
+        {
+          "zcta": "40229",
+          "name": "ZCTA5 40229",
+          "land_part_m2": 1085738
+        }
+      ]
+    },
+    {
+      "name": "Pippa Passes city",
+      "geoid": "2161374",
+      "zctas": [
+        {
+          "zcta": "41817",
+          "name": "ZCTA5 41817",
+          "land_part_m2": 7559
+        },
+        {
+          "zcta": "41844",
+          "name": "ZCTA5 41844",
+          "land_part_m2": 1146977
+        }
+      ]
+    },
+    {
+      "name": "Plano CDP",
+      "geoid": "2161536",
+      "zctas": [
+        {
+          "zcta": "42104",
+          "name": "ZCTA5 42104",
+          "land_part_m2": 2673960
+        }
+      ]
+    },
+    {
+      "name": "Plantation city",
+      "geoid": "2161554",
+      "zctas": [
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 523109
+        }
+      ]
+    },
+    {
+      "name": "Pleasant Ridge CDP",
+      "geoid": "2161680",
+      "zctas": [
+        {
+          "zcta": "42376",
+          "name": "ZCTA5 42376",
+          "land_part_m2": 8459609
+        },
+        {
+          "zcta": "42378",
+          "name": "ZCTA5 42378",
+          "land_part_m2": 631602
+        }
+      ]
+    },
+    {
+      "name": "Pleasant View CDP",
+      "geoid": "2161734",
+      "zctas": [
+        {
+          "zcta": "40769",
+          "name": "ZCTA5 40769",
+          "land_part_m2": 2045013
+        }
+      ]
+    },
+    {
+      "name": "Pleasureville city",
+      "geoid": "2161788",
+      "zctas": [
+        {
+          "zcta": "40057",
+          "name": "ZCTA5 40057",
+          "land_part_m2": 1253184
+        }
+      ]
+    },
+    {
+      "name": "Plum Springs city",
+      "geoid": "2161860",
+      "zctas": [
+        {
+          "zcta": "42101",
+          "name": "ZCTA5 42101",
+          "land_part_m2": 1374503
+        }
+      ]
+    },
+    {
+      "name": "Poole CDP",
+      "geoid": "2162202",
+      "zctas": [
+        {
+          "zcta": "42406",
+          "name": "ZCTA5 42406",
+          "land_part_m2": 1138652
+        },
+        {
+          "zcta": "42444",
+          "name": "ZCTA5 42444",
+          "land_part_m2": 37663
+        },
+        {
+          "zcta": "42455",
+          "name": "ZCTA5 42455",
+          "land_part_m2": 1336706
+        }
+      ]
+    },
+    {
+      "name": "Poplar Hills city",
+      "geoid": "2162370",
+      "zctas": [
+        {
+          "zcta": "40213",
+          "name": "ZCTA5 40213",
+          "land_part_m2": 66029
+        }
+      ]
+    },
+    {
+      "name": "Powderly city",
+      "geoid": "2162652",
+      "zctas": [
+        {
+          "zcta": "42330",
+          "name": "ZCTA5 42330",
+          "land_part_m2": 341606
+        },
+        {
+          "zcta": "42345",
+          "name": "ZCTA5 42345",
+          "land_part_m2": 587208
+        },
+        {
+          "zcta": "42367",
+          "name": "ZCTA5 42367",
+          "land_part_m2": 3118718
+        }
+      ]
+    },
+    {
+      "name": "Prestonsburg city",
+      "geoid": "2162940",
+      "zctas": [
+        {
+          "zcta": "41216",
+          "name": "ZCTA5 41216",
+          "land_part_m2": 284616
+        },
+        {
+          "zcta": "41601",
+          "name": "ZCTA5 41601",
+          "land_part_m2": 4034
+        },
+        {
+          "zcta": "41602",
+          "name": "ZCTA5 41602",
+          "land_part_m2": 201963
+        },
+        {
+          "zcta": "41607",
+          "name": "ZCTA5 41607",
+          "land_part_m2": 996953
+        },
+        {
+          "zcta": "41621",
+          "name": "ZCTA5 41621",
+          "land_part_m2": 139731
+        },
+        {
+          "zcta": "41649",
+          "name": "ZCTA5 41649",
+          "land_part_m2": 208308
+        },
+        {
+          "zcta": "41653",
+          "name": "ZCTA5 41653",
+          "land_part_m2": 35016196
+        }
+      ]
+    },
+    {
+      "name": "Prestonville city",
+      "geoid": "2162958",
+      "zctas": [
+        {
+          "zcta": "41008",
+          "name": "ZCTA5 41008",
+          "land_part_m2": 560817
+        }
+      ]
+    },
+    {
+      "name": "Princeton city",
+      "geoid": "2163138",
+      "zctas": [
+        {
+          "zcta": "42445",
+          "name": "ZCTA5 42445",
+          "land_part_m2": 23272828
+        }
+      ]
+    },
+    {
+      "name": "Prospect city",
+      "geoid": "2163264",
+      "zctas": [
+        {
+          "zcta": "40059",
+          "name": "ZCTA5 40059",
+          "land_part_m2": 9759713
+        },
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 160395
+        }
+      ]
+    },
+    {
+      "name": "Providence city",
+      "geoid": "2163372",
+      "zctas": [
+        {
+          "zcta": "42450",
+          "name": "ZCTA5 42450",
+          "land_part_m2": 15613136
+        }
+      ]
+    },
+    {
+      "name": "Pryorsburg CDP",
+      "geoid": "2163426",
+      "zctas": [
+        {
+          "zcta": "42066",
+          "name": "ZCTA5 42066",
+          "land_part_m2": 3225813
+        }
+      ]
+    },
+    {
+      "name": "Rabbit Hash CDP",
+      "geoid": "2163804",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41005",
+          "name": "ZCTA5 41005",
+          "land_part_m2": 10057610
+        },
+        {
+          "zcta": "41091",
+          "name": "ZCTA5 41091",
+          "land_part_m2": 3154550
+        }
+      ]
+    },
+    {
+      "name": "Raceland city",
+      "geoid": "2163858",
+      "zctas": [
+        {
+          "zcta": "41139",
+          "name": "ZCTA5 41139",
+          "land_part_m2": 117599
+        },
+        {
+          "zcta": "41144",
+          "name": "ZCTA5 41144",
+          "land_part_m2": 221732
+        },
+        {
+          "zcta": "41169",
+          "name": "ZCTA5 41169",
+          "land_part_m2": 5194394
+        },
+        {
+          "zcta": "41183",
+          "name": "ZCTA5 41183",
+          "land_part_m2": 881835
+        }
+      ]
+    },
+    {
+      "name": "Radcliff city",
+      "geoid": "2163912",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 149253
+        },
+        {
+          "zcta": "40121",
+          "name": "ZCTA5 40121",
+          "land_part_m2": 73971
+        },
+        {
+          "zcta": "40160",
+          "name": "ZCTA5 40160",
+          "land_part_m2": 26603616
+        },
+        {
+          "zcta": "40162",
+          "name": "ZCTA5 40162",
+          "land_part_m2": 371339
+        },
+        {
+          "zcta": "40175",
+          "name": "ZCTA5 40175",
+          "land_part_m2": 1623512
+        },
+        {
+          "zcta": "42701",
+          "name": "ZCTA5 42701",
+          "land_part_m2": 5770636
+        }
+      ]
+    },
+    {
+      "name": "Ravenna city",
+      "geoid": "2164092",
+      "zctas": [
+        {
+          "zcta": "40472",
+          "name": "ZCTA5 40472",
+          "land_part_m2": 806667
+        }
+      ]
+    },
+    {
+      "name": "Raywick city",
+      "geoid": "2164146",
+      "zctas": [
+        {
+          "zcta": "40060",
+          "name": "ZCTA5 40060",
+          "land_part_m2": 2320214
+        }
+      ]
+    },
+    {
+      "name": "Reidland CDP",
+      "geoid": "2164632",
+      "zctas": [
+        {
+          "zcta": "42003",
+          "name": "ZCTA5 42003",
+          "land_part_m2": 12436993
+        }
+      ]
+    },
+    {
+      "name": "Richlawn city",
+      "geoid": "2165208",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 262127
+        }
+      ]
+    },
+    {
+      "name": "Richmond city",
+      "geoid": "2165226",
+      "zctas": [
+        {
+          "zcta": "40403",
+          "name": "ZCTA5 40403",
+          "land_part_m2": 1186803
+        },
+        {
+          "zcta": "40475",
+          "name": "ZCTA5 40475",
+          "land_part_m2": 51436764
+        }
+      ]
+    },
+    {
+      "name": "Rineyville CDP",
+      "geoid": "2165388",
+      "zctas": [
+        {
+          "zcta": "40162",
+          "name": "ZCTA5 40162",
+          "land_part_m2": 11823195
+        }
+      ]
+    },
+    {
+      "name": "River Bluff city",
+      "geoid": "2165559",
+      "zctas": [
+        {
+          "zcta": "40059",
+          "name": "ZCTA5 40059",
+          "land_part_m2": 610244
+        }
+      ]
+    },
+    {
+      "name": "Riverwood city",
+      "geoid": "2165766",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 539020
+        }
+      ]
+    },
+    {
+      "name": "Robards city",
+      "geoid": "2165874",
+      "zctas": [
+        {
+          "zcta": "42452",
+          "name": "ZCTA5 42452",
+          "land_part_m2": 7838494
+        }
+      ]
+    },
+    {
+      "name": "Rochester city",
+      "geoid": "2165982",
+      "zctas": [
+        {
+          "zcta": "42273",
+          "name": "ZCTA5 42273",
+          "land_part_m2": 1205825
+        }
+      ]
+    },
+    {
+      "name": "Rockholds CDP",
+      "geoid": "2166162",
+      "zctas": [
+        {
+          "zcta": "40759",
+          "name": "ZCTA5 40759",
+          "land_part_m2": 3072891
+        }
+      ]
+    },
+    {
+      "name": "Rockport city",
+      "geoid": "2166216",
+      "zctas": [
+        {
+          "zcta": "42320",
+          "name": "ZCTA5 42320",
+          "land_part_m2": 71130
+        },
+        {
+          "zcta": "42369",
+          "name": "ZCTA5 42369",
+          "land_part_m2": 1727906
+        }
+      ]
+    },
+    {
+      "name": "Rolling Fields city",
+      "geoid": "2166486",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 601479
+        }
+      ]
+    },
+    {
+      "name": "Rolling Hills city",
+      "geoid": "2166504",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 22575
+        },
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 467945
+        }
+      ]
+    },
+    {
+      "name": "Rosine CDP",
+      "geoid": "2166846",
+      "zctas": [
+        {
+          "zcta": "42349",
+          "name": "ZCTA5 42349",
+          "land_part_m2": 890892
+        },
+        {
+          "zcta": "42370",
+          "name": "ZCTA5 42370",
+          "land_part_m2": 357236
+        }
+      ]
+    },
+    {
+      "name": "Russell Springs city",
+      "geoid": "2167494",
+      "zctas": [
+        {
+          "zcta": "42629",
+          "name": "ZCTA5 42629",
+          "land_part_m2": 88498
+        },
+        {
+          "zcta": "42642",
+          "name": "ZCTA5 42642",
+          "land_part_m2": 12038175
+        }
+      ]
+    },
+    {
+      "name": "Russell city",
+      "geoid": "2167458",
+      "zctas": [
+        {
+          "zcta": "41101",
+          "name": "ZCTA5 41101",
+          "land_part_m2": 2242114
+        },
+        {
+          "zcta": "41139",
+          "name": "ZCTA5 41139",
+          "land_part_m2": 1086326
+        },
+        {
+          "zcta": "41169",
+          "name": "ZCTA5 41169",
+          "land_part_m2": 5508242
+        }
+      ]
+    },
+    {
+      "name": "Russellville city",
+      "geoid": "2167512",
+      "zctas": [
+        {
+          "zcta": "42276",
+          "name": "ZCTA5 42276",
+          "land_part_m2": 28080443
+        }
+      ]
+    },
+    {
+      "name": "Ryland Heights city",
+      "geoid": "2167602",
+      "zctas": [
+        {
+          "zcta": "41015",
+          "name": "ZCTA5 41015",
+          "land_part_m2": 13570984
+        }
+      ]
+    },
+    {
+      "name": "Sacramento city",
+      "geoid": "2167638",
+      "zctas": [
+        {
+          "zcta": "42372",
+          "name": "ZCTA5 42372",
+          "land_part_m2": 1114324
+        }
+      ]
+    },
+    {
+      "name": "Sadieville city",
+      "geoid": "2167656",
+      "zctas": [
+        {
+          "zcta": "40370",
+          "name": "ZCTA5 40370",
+          "land_part_m2": 2805389
+        }
+      ]
+    },
+    {
+      "name": "Salem city",
+      "geoid": "2168052",
+      "zctas": [
+        {
+          "zcta": "42078",
+          "name": "ZCTA5 42078",
+          "land_part_m2": 2205750
+        }
+      ]
+    },
+    {
+      "name": "Salt Lick city",
+      "geoid": "2168160",
+      "zctas": [
+        {
+          "zcta": "40371",
+          "name": "ZCTA5 40371",
+          "land_part_m2": 2023732
+        }
+      ]
+    },
+    {
+      "name": "Salvisa CDP",
+      "geoid": "2168214",
+      "zctas": [
+        {
+          "zcta": "40372",
+          "name": "ZCTA5 40372",
+          "land_part_m2": 4765856
+        }
+      ]
+    },
+    {
+      "name": "Salyersville city",
+      "geoid": "2168232",
+      "zctas": [
+        {
+          "zcta": "41465",
+          "name": "ZCTA5 41465",
+          "land_part_m2": 6393416
+        }
+      ]
+    },
+    {
+      "name": "Sanders city",
+      "geoid": "2168358",
+      "zctas": [
+        {
+          "zcta": "41083",
+          "name": "ZCTA5 41083",
+          "land_part_m2": 760903
+        }
+      ]
+    },
+    {
+      "name": "Sandy Hook city",
+      "geoid": "2168556",
+      "zctas": [
+        {
+          "zcta": "41171",
+          "name": "ZCTA5 41171",
+          "land_part_m2": 2543312
+        }
+      ]
+    },
+    {
+      "name": "Sardis city",
+      "geoid": "2168646",
+      "zctas": [
+        {
+          "zcta": "41055",
+          "name": "ZCTA5 41055",
+          "land_part_m2": 1773403
+        },
+        {
+          "zcta": "41064",
+          "name": "ZCTA5 41064",
+          "land_part_m2": 812952
+        }
+      ]
+    },
+    {
+      "name": "Science Hill city",
+      "geoid": "2168952",
+      "zctas": [
+        {
+          "zcta": "42503",
+          "name": "ZCTA5 42503",
+          "land_part_m2": 15152
+        },
+        {
+          "zcta": "42553",
+          "name": "ZCTA5 42553",
+          "land_part_m2": 1968589
+        }
+      ]
+    },
+    {
+      "name": "Scottsville city",
+      "geoid": "2169114",
+      "zctas": [
+        {
+          "zcta": "42122",
+          "name": "ZCTA5 42122",
+          "land_part_m2": 6113
+        },
+        {
+          "zcta": "42164",
+          "name": "ZCTA5 42164",
+          "land_part_m2": 16318028
+        }
+      ]
+    },
+    {
+      "name": "Sebree city",
+      "geoid": "2169222",
+      "zctas": [
+        {
+          "zcta": "42455",
+          "name": "ZCTA5 42455",
+          "land_part_m2": 7608185
+        }
+      ]
+    },
+    {
+      "name": "Sedalia CDP",
+      "geoid": "2169258",
+      "zctas": [
+        {
+          "zcta": "42066",
+          "name": "ZCTA5 42066",
+          "land_part_m2": 646634
+        },
+        {
+          "zcta": "42079",
+          "name": "ZCTA5 42079",
+          "land_part_m2": 2418500
+        }
+      ]
+    },
+    {
+      "name": "Seneca Gardens city",
+      "geoid": "2169384",
+      "zctas": [
+        {
+          "zcta": "40205",
+          "name": "ZCTA5 40205",
+          "land_part_m2": 396637
+        }
+      ]
+    },
+    {
+      "name": "Sharpsburg city",
+      "geoid": "2169852",
+      "zctas": [
+        {
+          "zcta": "40374",
+          "name": "ZCTA5 40374",
+          "land_part_m2": 510270
+        }
+      ]
+    },
+    {
+      "name": "Shelbyville city",
+      "geoid": "2170050",
+      "zctas": [
+        {
+          "zcta": "40065",
+          "name": "ZCTA5 40065",
+          "land_part_m2": 22821824
+        }
+      ]
+    },
+    {
+      "name": "Shepherdsville city",
+      "geoid": "2170086",
+      "zctas": [
+        {
+          "zcta": "40110",
+          "name": "ZCTA5 40110",
+          "land_part_m2": 510843
+        },
+        {
+          "zcta": "40150",
+          "name": "ZCTA5 40150",
+          "land_part_m2": 578210
+        },
+        {
+          "zcta": "40165",
+          "name": "ZCTA5 40165",
+          "land_part_m2": 39873459
+        }
+      ]
+    },
+    {
+      "name": "Shively city",
+      "geoid": "2170284",
+      "zctas": [
+        {
+          "zcta": "40208",
+          "name": "ZCTA5 40208",
+          "land_part_m2": 205581
+        },
+        {
+          "zcta": "40210",
+          "name": "ZCTA5 40210",
+          "land_part_m2": 228768
+        },
+        {
+          "zcta": "40215",
+          "name": "ZCTA5 40215",
+          "land_part_m2": 63927
+        },
+        {
+          "zcta": "40216",
+          "name": "ZCTA5 40216",
+          "land_part_m2": 11342260
+        }
+      ]
+    },
+    {
+      "name": "Silver Grove city",
+      "geoid": "2170644",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41059",
+          "name": "ZCTA5 41059",
+          "land_part_m2": 251501
+        },
+        {
+          "zcta": "41076",
+          "name": "ZCTA5 41076",
+          "land_part_m2": 1850443
+        },
+        {
+          "zcta": "41085",
+          "name": "ZCTA5 41085",
+          "land_part_m2": 825987
+        }
+      ]
+    },
+    {
+      "name": "Simpsonville city",
+      "geoid": "2170752",
+      "zctas": [
+        {
+          "zcta": "40067",
+          "name": "ZCTA5 40067",
+          "land_part_m2": 6093199
+        }
+      ]
+    },
+    {
+      "name": "Slaughters city",
+      "geoid": "2171130",
+      "zctas": [
+        {
+          "zcta": "42456",
+          "name": "ZCTA5 42456",
+          "land_part_m2": 595349
+        }
+      ]
+    },
+    {
+      "name": "Smithfield city",
+      "geoid": "2171364",
+      "zctas": [
+        {
+          "zcta": "40068",
+          "name": "ZCTA5 40068",
+          "land_part_m2": 352874
+        }
+      ]
+    },
+    {
+      "name": "Smithland city",
+      "geoid": "2171382",
+      "zctas": [
+        {
+          "zcta": "42081",
+          "name": "ZCTA5 42081",
+          "land_part_m2": 1311327
+        }
+      ]
+    },
+    {
+      "name": "Smiths Grove city",
+      "geoid": "2171454",
+      "zctas": [
+        {
+          "zcta": "42171",
+          "name": "ZCTA5 42171",
+          "land_part_m2": 2019112
+        }
+      ]
+    },
+    {
+      "name": "Somerset city",
+      "geoid": "2171688",
+      "zctas": [
+        {
+          "zcta": "42501",
+          "name": "ZCTA5 42501",
+          "land_part_m2": 18777314
+        },
+        {
+          "zcta": "42503",
+          "name": "ZCTA5 42503",
+          "land_part_m2": 15525964
+        },
+        {
+          "zcta": "42533",
+          "name": "ZCTA5 42533",
+          "land_part_m2": 409360
+        },
+        {
+          "zcta": "42553",
+          "name": "ZCTA5 42553",
+          "land_part_m2": 18366
+        }
+      ]
+    },
+    {
+      "name": "Sonora city",
+      "geoid": "2171724",
+      "zctas": [
+        {
+          "zcta": "42776",
+          "name": "ZCTA5 42776",
+          "land_part_m2": 3511583
+        }
+      ]
+    },
+    {
+      "name": "Sorgho CDP",
+      "geoid": "2171760",
+      "zctas": [
+        {
+          "zcta": "42301",
+          "name": "ZCTA5 42301",
+          "land_part_m2": 12282680
+        }
+      ]
+    },
+    {
+      "name": "South Carrollton city",
+      "geoid": "2171814",
+      "zctas": [
+        {
+          "zcta": "42330",
+          "name": "ZCTA5 42330",
+          "land_part_m2": 267185
+        },
+        {
+          "zcta": "42374",
+          "name": "ZCTA5 42374",
+          "land_part_m2": 387437
+        }
+      ]
+    },
+    {
+      "name": "South Park View city",
+      "geoid": "2172138",
+      "zctas": [
+        {
+          "zcta": "40219",
+          "name": "ZCTA5 40219",
+          "land_part_m2": 318583
+        }
+      ]
+    },
+    {
+      "name": "South Shore city",
+      "geoid": "2172210",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41175",
+          "name": "ZCTA5 41175",
+          "land_part_m2": 1700392
+        }
+      ]
+    },
+    {
+      "name": "South Wallins CDP",
+      "geoid": "2172255",
+      "zctas": [
+        {
+          "zcta": "40873",
+          "name": "ZCTA5 40873",
+          "land_part_m2": 16350632
+        }
+      ]
+    },
+    {
+      "name": "South Williamson CDP",
+      "geoid": "2172264",
+      "zctas": [
+        {
+          "zcta": "41503",
+          "name": "ZCTA5 41503",
+          "land_part_m2": 4829769
+        },
+        {
+          "zcta": "41514",
+          "name": "ZCTA5 41514",
+          "land_part_m2": 282881
+        }
+      ]
+    },
+    {
+      "name": "Southgate city",
+      "geoid": "2171976",
+      "zctas": [
+        {
+          "zcta": "41071",
+          "name": "ZCTA5 41071",
+          "land_part_m2": 3761259
+        },
+        {
+          "zcta": "41075",
+          "name": "ZCTA5 41075",
+          "land_part_m2": 1619
+        },
+        {
+          "zcta": "41076",
+          "name": "ZCTA5 41076",
+          "land_part_m2": 13525
+        }
+      ]
+    },
+    {
+      "name": "Sparta city",
+      "geoid": "2172372",
+      "zctas": [
+        {
+          "zcta": "41083",
+          "name": "ZCTA5 41083",
+          "land_part_m2": 628398
+        },
+        {
+          "zcta": "41086",
+          "name": "ZCTA5 41086",
+          "land_part_m2": 15593359
+        }
+      ]
+    },
+    {
+      "name": "Spottsville CDP",
+      "geoid": "2172570",
+      "zctas": [
+        {
+          "zcta": "42458",
+          "name": "ZCTA5 42458",
+          "land_part_m2": 1220653
+        }
+      ]
+    },
+    {
+      "name": "Spring Mill city",
+      "geoid": "2172770",
+      "zctas": [
+        {
+          "zcta": "40228",
+          "name": "ZCTA5 40228",
+          "land_part_m2": 144108
+        }
+      ]
+    },
+    {
+      "name": "Spring Valley city",
+      "geoid": "2172790",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 511791
+        }
+      ]
+    },
+    {
+      "name": "Springfield city",
+      "geoid": "2172660",
+      "zctas": [
+        {
+          "zcta": "40061",
+          "name": "ZCTA5 40061",
+          "land_part_m2": 317525
+        },
+        {
+          "zcta": "40069",
+          "name": "ZCTA5 40069",
+          "land_part_m2": 10338467
+        }
+      ]
+    },
+    {
+      "name": "St. Charles city",
+      "geoid": "2167710",
+      "zctas": [
+        {
+          "zcta": "42408",
+          "name": "ZCTA5 42408",
+          "land_part_m2": 249715
+        },
+        {
+          "zcta": "42442",
+          "name": "ZCTA5 42442",
+          "land_part_m2": 479023
+        },
+        {
+          "zcta": "42453",
+          "name": "ZCTA5 42453",
+          "land_part_m2": 1842994
+        }
+      ]
+    },
+    {
+      "name": "St. Joseph CDP",
+      "geoid": "2167854",
+      "zctas": [
+        {
+          "zcta": "42301",
+          "name": "ZCTA5 42301",
+          "land_part_m2": 829787
+        },
+        {
+          "zcta": "42356",
+          "name": "ZCTA5 42356",
+          "land_part_m2": 116259
+        }
+      ]
+    },
+    {
+      "name": "St. Mary city",
+      "geoid": "2167890",
+      "zctas": [
+        {
+          "zcta": "40033",
+          "name": "ZCTA5 40033",
+          "land_part_m2": 2015757
+        }
+      ]
+    },
+    {
+      "name": "St. Matthews city",
+      "geoid": "2167944",
+      "zctas": [
+        {
+          "zcta": "40041",
+          "name": "ZCTA5 40041",
+          "land_part_m2": 14332
+        },
+        {
+          "zcta": "40205",
+          "name": "ZCTA5 40205",
+          "land_part_m2": 366382
+        },
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 9342971
+        },
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 1621361
+        }
+      ]
+    },
+    {
+      "name": "St. Regis Park city",
+      "geoid": "2167998",
+      "zctas": [
+        {
+          "zcta": "40220",
+          "name": "ZCTA5 40220",
+          "land_part_m2": 911578
+        }
+      ]
+    },
+    {
+      "name": "Stamping Ground city",
+      "geoid": "2173038",
+      "zctas": [
+        {
+          "zcta": "40379",
+          "name": "ZCTA5 40379",
+          "land_part_m2": 1522131
+        }
+      ]
+    },
+    {
+      "name": "Stanford city",
+      "geoid": "2173110",
+      "zctas": [
+        {
+          "zcta": "40484",
+          "name": "ZCTA5 40484",
+          "land_part_m2": 11276668
+        }
+      ]
+    },
+    {
+      "name": "Stanley CDP",
+      "geoid": "2173146",
+      "zctas": [
+        {
+          "zcta": "42301",
+          "name": "ZCTA5 42301",
+          "land_part_m2": 2165949
+        }
+      ]
+    },
+    {
+      "name": "Stanton city",
+      "geoid": "2173164",
+      "zctas": [
+        {
+          "zcta": "40380",
+          "name": "ZCTA5 40380",
+          "land_part_m2": 5820113
+        }
+      ]
+    },
+    {
+      "name": "Stearns CDP",
+      "geoid": "2173362",
+      "zctas": [
+        {
+          "zcta": "42638",
+          "name": "ZCTA5 42638",
+          "land_part_m2": 27036
+        },
+        {
+          "zcta": "42647",
+          "name": "ZCTA5 42647",
+          "land_part_m2": 9111717
+        },
+        {
+          "zcta": "42649",
+          "name": "ZCTA5 42649",
+          "land_part_m2": 1184286
+        },
+        {
+          "zcta": "42653",
+          "name": "ZCTA5 42653",
+          "land_part_m2": 88012
+        }
+      ]
+    },
+    {
+      "name": "Strathmoor Manor city",
+      "geoid": "2174064",
+      "zctas": [
+        {
+          "zcta": "40205",
+          "name": "ZCTA5 40205",
+          "land_part_m2": 147202
+        }
+      ]
+    },
+    {
+      "name": "Strathmoor Village city",
+      "geoid": "2174082",
+      "zctas": [
+        {
+          "zcta": "40205",
+          "name": "ZCTA5 40205",
+          "land_part_m2": 270432
+        }
+      ]
+    },
+    {
+      "name": "Sturgis city",
+      "geoid": "2174316",
+      "zctas": [
+        {
+          "zcta": "42459",
+          "name": "ZCTA5 42459",
+          "land_part_m2": 4057024
+        }
+      ]
+    },
+    {
+      "name": "Summer Shade CDP",
+      "geoid": "2174586",
+      "zctas": [
+        {
+          "zcta": "42166",
+          "name": "ZCTA5 42166",
+          "land_part_m2": 5267323
+        }
+      ]
+    },
+    {
+      "name": "Summersville CDP",
+      "geoid": "2174604",
+      "zctas": [
+        {
+          "zcta": "42743",
+          "name": "ZCTA5 42743",
+          "land_part_m2": 7484709
+        }
+      ]
+    },
+    {
+      "name": "Sycamore city",
+      "geoid": "2175190",
+      "zctas": [
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 42862
+        }
+      ]
+    },
+    {
+      "name": "Symsonia CDP",
+      "geoid": "2175270",
+      "zctas": [
+        {
+          "zcta": "42082",
+          "name": "ZCTA5 42082",
+          "land_part_m2": 3934412
+        }
+      ]
+    },
+    {
+      "name": "Taylor Mill city",
+      "geoid": "2175738",
+      "zctas": [
+        {
+          "zcta": "41015",
+          "name": "ZCTA5 41015",
+          "land_part_m2": 15536752
+        },
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 295040
+        }
+      ]
+    },
+    {
+      "name": "Taylorsville city",
+      "geoid": "2175810",
+      "zctas": [
+        {
+          "zcta": "40071",
+          "name": "ZCTA5 40071",
+          "land_part_m2": 2355270
+        }
+      ]
+    },
+    {
+      "name": "Ten Broeck city",
+      "geoid": "2175963",
+      "zctas": [
+        {
+          "zcta": "40241",
+          "name": "ZCTA5 40241",
+          "land_part_m2": 563463
+        }
+      ]
+    },
+    {
+      "name": "Thornhill city",
+      "geoid": "2176380",
+      "zctas": [
+        {
+          "zcta": "40222",
+          "name": "ZCTA5 40222",
+          "land_part_m2": 117680
+        }
+      ]
+    },
+    {
+      "name": "Thruston CDP",
+      "geoid": "2176620",
+      "zctas": [
+        {
+          "zcta": "42303",
+          "name": "ZCTA5 42303",
+          "land_part_m2": 4570872
+        }
+      ]
+    },
+    {
+      "name": "Tolu CDP",
+      "geoid": "2177124",
+      "zctas": [
+        {
+          "zcta": "42064",
+          "name": "ZCTA5 42064",
+          "land_part_m2": 898185
+        }
+      ]
+    },
+    {
+      "name": "Tompkinsville city",
+      "geoid": "2177160",
+      "zctas": [
+        {
+          "zcta": "42167",
+          "name": "ZCTA5 42167",
+          "land_part_m2": 8506595
+        }
+      ]
+    },
+    {
+      "name": "Trenton city",
+      "geoid": "2177592",
+      "zctas": [
+        {
+          "zcta": "42286",
+          "name": "ZCTA5 42286",
+          "land_part_m2": 1473147
+        }
+      ]
+    },
+    {
+      "name": "Union city",
+      "geoid": "2178384",
+      "zctas": [
+        {
+          "zcta": "41042",
+          "name": "ZCTA5 41042",
+          "land_part_m2": 453452
+        },
+        {
+          "zcta": "41091",
+          "name": "ZCTA5 41091",
+          "land_part_m2": 8541046
+        }
+      ]
+    },
+    {
+      "name": "Uniontown city",
+      "geoid": "2178492",
+      "zctas": [
+        {
+          "zcta": "42461",
+          "name": "ZCTA5 42461",
+          "land_part_m2": 2202299
+        }
+      ]
+    },
+    {
+      "name": "Upton city",
+      "geoid": "2178672",
+      "zctas": [
+        {
+          "zcta": "42784",
+          "name": "ZCTA5 42784",
+          "land_part_m2": 3516223
+        }
+      ]
+    },
+    {
+      "name": "Utica CDP",
+      "geoid": "2178708",
+      "zctas": [
+        {
+          "zcta": "42376",
+          "name": "ZCTA5 42376",
+          "land_part_m2": 2719532
+        }
+      ]
+    },
+    {
+      "name": "Van Lear CDP",
+      "geoid": "2179194",
+      "zctas": [
+        {
+          "zcta": "41222",
+          "name": "ZCTA5 41222",
+          "land_part_m2": 134880
+        },
+        {
+          "zcta": "41265",
+          "name": "ZCTA5 41265",
+          "land_part_m2": 10397136
+        }
+      ]
+    },
+    {
+      "name": "Vanceburg city",
+      "geoid": "2179068",
+      "zctas": [
+        {
+          "zcta": "41179",
+          "name": "ZCTA5 41179",
+          "land_part_m2": 3751757
+        }
+      ]
+    },
+    {
+      "name": "Verona CDP",
+      "geoid": "2179464",
+      "zctas": [
+        {
+          "zcta": "41030",
+          "name": "ZCTA5 41030",
+          "land_part_m2": 3759360
+        },
+        {
+          "zcta": "41092",
+          "name": "ZCTA5 41092",
+          "land_part_m2": 27940175
+        }
+      ]
+    },
+    {
+      "name": "Versailles city",
+      "geoid": "2179482",
+      "zctas": [
+        {
+          "zcta": "40383",
+          "name": "ZCTA5 40383",
+          "land_part_m2": 16334721
+        }
+      ]
+    },
+    {
+      "name": "Vicco city",
+      "geoid": "2179590",
+      "zctas": [
+        {
+          "zcta": "41759",
+          "name": "ZCTA5 41759",
+          "land_part_m2": 186183
+        },
+        {
+          "zcta": "41773",
+          "name": "ZCTA5 41773",
+          "land_part_m2": 1985200
+        }
+      ]
+    },
+    {
+      "name": "Villa Hills city",
+      "geoid": "2179698",
+      "zctas": [
+        {
+          "zcta": "41017",
+          "name": "ZCTA5 41017",
+          "land_part_m2": 9327526
+        }
+      ]
+    },
+    {
+      "name": "Vine Grove city",
+      "geoid": "2179734",
+      "zctas": [
+        {
+          "zcta": "40160",
+          "name": "ZCTA5 40160",
+          "land_part_m2": 2015907
+        },
+        {
+          "zcta": "40175",
+          "name": "ZCTA5 40175",
+          "land_part_m2": 15768992
+        }
+      ]
+    },
+    {
+      "name": "Virgie CDP",
+      "geoid": "2179860",
+      "zctas": [
+        {
+          "zcta": "41572",
+          "name": "ZCTA5 41572",
+          "land_part_m2": 2651676
+        }
+      ]
+    },
+    {
+      "name": "Wallins Creek CDP",
+      "geoid": "2180310",
+      "zctas": [
+        {
+          "zcta": "40873",
+          "name": "ZCTA5 40873",
+          "land_part_m2": 1373919
+        }
+      ]
+    },
+    {
+      "name": "Walton city",
+      "geoid": "2180490",
+      "zctas": [
+        {
+          "zcta": "41092",
+          "name": "ZCTA5 41092",
+          "land_part_m2": 98863
+        },
+        {
+          "zcta": "41094",
+          "name": "ZCTA5 41094",
+          "land_part_m2": 12178813
+        }
+      ]
+    },
+    {
+      "name": "Warfield city",
+      "geoid": "2180616",
+      "zctas": [
+        {
+          "zcta": "41267",
+          "name": "ZCTA5 41267",
+          "land_part_m2": 2136762
+        }
+      ]
+    },
+    {
+      "name": "Warsaw city",
+      "geoid": "2180706",
+      "zctas": [
+        {
+          "zcta": "41095",
+          "name": "ZCTA5 41095",
+          "land_part_m2": 2490897
+        }
+      ]
+    },
+    {
+      "name": "Water Valley CDP",
+      "geoid": "2180832",
+      "zctas": [
+        {
+          "zcta": "42085",
+          "name": "ZCTA5 42085",
+          "land_part_m2": 1382308
+        }
+      ]
+    },
+    {
+      "name": "Watterson Park city",
+      "geoid": "2180913",
+      "zctas": [
+        {
+          "zcta": "40213",
+          "name": "ZCTA5 40213",
+          "land_part_m2": 1052942
+        },
+        {
+          "zcta": "40218",
+          "name": "ZCTA5 40218",
+          "land_part_m2": 2675640
+        }
+      ]
+    },
+    {
+      "name": "Waverly city",
+      "geoid": "2180958",
+      "zctas": [
+        {
+          "zcta": "42462",
+          "name": "ZCTA5 42462",
+          "land_part_m2": 692129
+        }
+      ]
+    },
+    {
+      "name": "Wayland city",
+      "geoid": "2181012",
+      "zctas": [
+        {
+          "zcta": "41630",
+          "name": "ZCTA5 41630",
+          "land_part_m2": 3137
+        },
+        {
+          "zcta": "41666",
+          "name": "ZCTA5 41666",
+          "land_part_m2": 6982991
+        }
+      ]
+    },
+    {
+      "name": "Wellington city",
+      "geoid": "2181372",
+      "zctas": [
+        {
+          "zcta": "40205",
+          "name": "ZCTA5 40205",
+          "land_part_m2": 236172
+        }
+      ]
+    },
+    {
+      "name": "West Buechel city",
+      "geoid": "2181624",
+      "zctas": [
+        {
+          "zcta": "40218",
+          "name": "ZCTA5 40218",
+          "land_part_m2": 1655990
+        }
+      ]
+    },
+    {
+      "name": "West Liberty city",
+      "geoid": "2181858",
+      "zctas": [
+        {
+          "zcta": "41472",
+          "name": "ZCTA5 41472",
+          "land_part_m2": 12701258
+        }
+      ]
+    },
+    {
+      "name": "West Louisville CDP",
+      "geoid": "2181876",
+      "zctas": [
+        {
+          "zcta": "42301",
+          "name": "ZCTA5 42301",
+          "land_part_m2": 271449
+        }
+      ]
+    },
+    {
+      "name": "West Point city",
+      "geoid": "2181930",
+      "zctas": [
+        {
+          "zcta": "40177",
+          "name": "ZCTA5 40177",
+          "land_part_m2": 6901898
+        }
+      ]
+    },
+    {
+      "name": "West Van Lear CDP",
+      "geoid": "2182056",
+      "zctas": [
+        {
+          "zcta": "41222",
+          "name": "ZCTA5 41222",
+          "land_part_m2": 1885950
+        },
+        {
+          "zcta": "41240",
+          "name": "ZCTA5 41240",
+          "land_part_m2": 96610
+        },
+        {
+          "zcta": "41268",
+          "name": "ZCTA5 41268",
+          "land_part_m2": 834218
+        }
+      ]
+    },
+    {
+      "name": "Westport CDP",
+      "geoid": "2181948",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "40077",
+          "name": "ZCTA5 40077",
+          "land_part_m2": 2088409
+        }
+      ]
+    },
+    {
+      "name": "Westwood CDP",
+      "geoid": "2182146",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "41101",
+          "name": "ZCTA5 41101",
+          "land_part_m2": 3653997
+        },
+        {
+          "zcta": "41102",
+          "name": "ZCTA5 41102",
+          "land_part_m2": 6023364
+        }
+      ]
+    },
+    {
+      "name": "Westwood city",
+      "geoid": "2182164",
+      "zctas": [
+        {
+          "zcta": "40242",
+          "name": "ZCTA5 40242",
+          "land_part_m2": 313249
+        }
+      ]
+    },
+    {
+      "name": "Wheatcroft city",
+      "geoid": "2182200",
+      "zctas": [
+        {
+          "zcta": "42404",
+          "name": "ZCTA5 42404",
+          "land_part_m2": 101748
+        },
+        {
+          "zcta": "42463",
+          "name": "ZCTA5 42463",
+          "land_part_m2": 534456
+        }
+      ]
+    },
+    {
+      "name": "Wheelwright city",
+      "geoid": "2182272",
+      "zctas": [
+        {
+          "zcta": "41606",
+          "name": "ZCTA5 41606",
+          "land_part_m2": 794486
+        },
+        {
+          "zcta": "41669",
+          "name": "ZCTA5 41669",
+          "land_part_m2": 3772476
+        }
+      ]
+    },
+    {
+      "name": "White Plains city",
+      "geoid": "2182722",
+      "zctas": [
+        {
+          "zcta": "42442",
+          "name": "ZCTA5 42442",
+          "land_part_m2": 336592
+        },
+        {
+          "zcta": "42464",
+          "name": "ZCTA5 42464",
+          "land_part_m2": 8087158
+        }
+      ]
+    },
+    {
+      "name": "Whitesburg city",
+      "geoid": "2182776",
+      "zctas": [
+        {
+          "zcta": "41815",
+          "name": "ZCTA5 41815",
+          "land_part_m2": 5346
+        },
+        {
+          "zcta": "41858",
+          "name": "ZCTA5 41858",
+          "land_part_m2": 8105625
+        }
+      ]
+    },
+    {
+      "name": "Whitesville city",
+      "geoid": "2182830",
+      "zctas": [
+        {
+          "zcta": "42378",
+          "name": "ZCTA5 42378",
+          "land_part_m2": 1116463
+        }
+      ]
+    },
+    {
+      "name": "Whitley City CDP",
+      "geoid": "2182938",
+      "zctas": [
+        {
+          "zcta": "42647",
+          "name": "ZCTA5 42647",
+          "land_part_m2": 40878
+        },
+        {
+          "zcta": "42653",
+          "name": "ZCTA5 42653",
+          "land_part_m2": 5933518
+        }
+      ]
+    },
+    {
+      "name": "Wickliffe city",
+      "geoid": "2183064",
+      "zctas": [
+        {
+          "zcta": "42087",
+          "name": "ZCTA5 42087",
+          "land_part_m2": 4019328
+        }
+      ]
+    },
+    {
+      "name": "Wilder city",
+      "geoid": "2183172",
+      "zctas": [
+        {
+          "zcta": "41071",
+          "name": "ZCTA5 41071",
+          "land_part_m2": 3166209
+        },
+        {
+          "zcta": "41076",
+          "name": "ZCTA5 41076",
+          "land_part_m2": 6223048
+        }
+      ]
+    },
+    {
+      "name": "Wildwood city",
+      "geoid": "2183208",
+      "zctas": [
+        {
+          "zcta": "40223",
+          "name": "ZCTA5 40223",
+          "land_part_m2": 192546
+        }
+      ]
+    },
+    {
+      "name": "Williamsburg city",
+      "geoid": "2183334",
+      "zctas": [
+        {
+          "zcta": "40769",
+          "name": "ZCTA5 40769",
+          "land_part_m2": 10798594
+        }
+      ]
+    },
+    {
+      "name": "Williamstown city",
+      "geoid": "2183406",
+      "zctas": [
+        {
+          "zcta": "41035",
+          "name": "ZCTA5 41035",
+          "land_part_m2": 799007
+        },
+        {
+          "zcta": "41097",
+          "name": "ZCTA5 41097",
+          "land_part_m2": 42473886
+        }
+      ]
+    },
+    {
+      "name": "Willisburg city",
+      "geoid": "2183424",
+      "zctas": [
+        {
+          "zcta": "40078",
+          "name": "ZCTA5 40078",
+          "land_part_m2": 1777255
+        }
+      ]
+    },
+    {
+      "name": "Wilmore city",
+      "geoid": "2183550",
+      "zctas": [
+        {
+          "zcta": "40356",
+          "name": "ZCTA5 40356",
+          "land_part_m2": 2096003
+        },
+        {
+          "zcta": "40390",
+          "name": "ZCTA5 40390",
+          "land_part_m2": 8413565
+        }
+      ]
+    },
+    {
+      "name": "Winchester city",
+      "geoid": "2183676",
+      "zctas": [
+        {
+          "zcta": "40391",
+          "name": "ZCTA5 40391",
+          "land_part_m2": 23675708
+        }
+      ]
+    },
+    {
+      "name": "Windy Hills city",
+      "geoid": "2183784",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 2383855
+        }
+      ]
+    },
+    {
+      "name": "Wingo city",
+      "geoid": "2183856",
+      "zctas": [
+        {
+          "zcta": "42088",
+          "name": "ZCTA5 42088",
+          "land_part_m2": 2525499
+        }
+      ]
+    },
+    {
+      "name": "Woodburn city",
+      "geoid": "2184414",
+      "zctas": [
+        {
+          "zcta": "42104",
+          "name": "ZCTA5 42104",
+          "land_part_m2": 109608
+        },
+        {
+          "zcta": "42170",
+          "name": "ZCTA5 42170",
+          "land_part_m2": 1011592
+        }
+      ]
+    },
+    {
+      "name": "Woodbury city",
+      "geoid": "2184432",
+      "zctas": [
+        {
+          "zcta": "42261",
+          "name": "ZCTA5 42261",
+          "land_part_m2": 369187
+        }
+      ]
+    },
+    {
+      "name": "Woodland Hills city",
+      "geoid": "2184486",
+      "zctas": [
+        {
+          "zcta": "40243",
+          "name": "ZCTA5 40243",
+          "land_part_m2": 545965
+        }
+      ]
+    },
+    {
+      "name": "Woodlawn Park city",
+      "geoid": "2184576",
+      "zctas": [
+        {
+          "zcta": "40207",
+          "name": "ZCTA5 40207",
+          "land_part_m2": 627427
+        }
+      ]
+    },
+    {
+      "name": "Woodlawn city",
+      "geoid": "2184522",
+      "zctas": [
+        {
+          "zcta": "41071",
+          "name": "ZCTA5 41071",
+          "land_part_m2": 152260
+        }
+      ]
+    },
+    {
+      "name": "Worthington Hills city",
+      "geoid": "2184891",
+      "zctas": [
+        {
+          "zcta": "40245",
+          "name": "ZCTA5 40245",
+          "land_part_m2": 663462
+        }
+      ]
+    },
+    {
+      "name": "Worthington city",
+      "geoid": "2184864",
+      "zctas": [
+        {
+          "zcta": "41144",
+          "name": "ZCTA5 41144",
+          "land_part_m2": 369
+        },
+        {
+          "zcta": "41183",
+          "name": "ZCTA5 41183",
+          "land_part_m2": 2941763
+        }
+      ]
+    },
+    {
+      "name": "Worthville city",
+      "geoid": "2184900",
+      "zctas": [
+        {
+          "zcta": "41098",
+          "name": "ZCTA5 41098",
+          "land_part_m2": 661624
+        }
+      ]
+    },
+    {
+      "name": "Wurtland city",
+      "geoid": "2185008",
+      "zctas": [
+        {
+          "zcta": "41144",
+          "name": "ZCTA5 41144",
+          "land_part_m2": 4546061
+        },
+        {
+          "zcta": "41183",
+          "name": "ZCTA5 41183",
+          "land_part_m2": 30365
+        }
+      ]
+    },
+    {
+      "name": "Yelvington CDP",
+      "geoid": "2185224",
+      "zctas": [
+        {
+          "zcta": "42355",
+          "name": "ZCTA5 42355",
+          "land_part_m2": 1962227
+        }
+      ]
+    }
+  ]
+}

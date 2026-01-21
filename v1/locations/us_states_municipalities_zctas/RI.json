@@ -1,0 +1,670 @@
+{
+  "state": {
+    "name": "Rhode Island",
+    "code": "RI",
+    "fips": "44"
+  },
+  "source": {
+    "name": "U.S. Census Bureau - 2020 ZCTA5 to 2020 Place relationship file",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/tab20_zcta520_place20_natl.txt"
+  },
+  "generated_local_date": "2026-01-21",
+  "notes": [
+    "This file contains Census 'Places' (municipalities) and Census ZCTAs that intersect each place.",
+    "A ZCTA can overlap multiple places; the same ZCTA may appear in multiple municipalities.",
+    "land_part_m2 is the land overlap area between the place and ZCTA for that row."
+  ],
+  "municipalities": [
+    {
+      "name": "Ashaway CDP",
+      "geoid": "4403520",
+      "zctas": [
+        {
+          "zcta": "02804",
+          "name": "ZCTA5 02804",
+          "land_part_m2": 6148842
+        }
+      ]
+    },
+    {
+      "name": "Bradford CDP",
+      "geoid": "4408020",
+      "zctas": [
+        {
+          "zcta": "02808",
+          "name": "ZCTA5 02808",
+          "land_part_m2": 3226800
+        },
+        {
+          "zcta": "02891",
+          "name": "ZCTA5 02891",
+          "land_part_m2": 1480043
+        }
+      ]
+    },
+    {
+      "name": "Carolina CDP",
+      "geoid": "4412340",
+      "zctas": [
+        {
+          "zcta": "02812",
+          "name": "ZCTA5 02812",
+          "land_part_m2": 3921744
+        },
+        {
+          "zcta": "02813",
+          "name": "ZCTA5 02813",
+          "land_part_m2": 2452666
+        }
+      ]
+    },
+    {
+      "name": "Central Falls city",
+      "geoid": "4414140",
+      "zctas": [
+        {
+          "zcta": "02860",
+          "name": "ZCTA5 02860",
+          "land_part_m2": 911
+        },
+        {
+          "zcta": "02863",
+          "name": "ZCTA5 02863",
+          "land_part_m2": 3091532
+        }
+      ]
+    },
+    {
+      "name": "Charlestown CDP",
+      "geoid": "4414320",
+      "zctas": [
+        {
+          "zcta": "02813",
+          "name": "ZCTA5 02813",
+          "land_part_m2": 4750625
+        },
+        {
+          "zcta": "02879",
+          "name": "ZCTA5 02879",
+          "land_part_m2": 1110907
+        }
+      ]
+    },
+    {
+      "name": "Chepachet CDP",
+      "geoid": "4414860",
+      "zctas": [
+        {
+          "zcta": "02814",
+          "name": "ZCTA5 02814",
+          "land_part_m2": 14251499
+        },
+        {
+          "zcta": "02859",
+          "name": "ZCTA5 02859",
+          "land_part_m2": 13994
+        }
+      ]
+    },
+    {
+      "name": "Clayville CDP",
+      "geoid": "4415940",
+      "zctas": [
+        {
+          "zcta": "02815",
+          "name": "ZCTA5 02815",
+          "land_part_m2": 1152709
+        },
+        {
+          "zcta": "02825",
+          "name": "ZCTA5 02825",
+          "land_part_m2": 3312688
+        }
+      ]
+    },
+    {
+      "name": "Cranston city",
+      "geoid": "4419180",
+      "zctas": [
+        {
+          "zcta": "02823",
+          "name": "ZCTA5 02823",
+          "land_part_m2": 476398
+        },
+        {
+          "zcta": "02831",
+          "name": "ZCTA5 02831",
+          "land_part_m2": 3707248
+        },
+        {
+          "zcta": "02905",
+          "name": "ZCTA5 02905",
+          "land_part_m2": 3467007
+        },
+        {
+          "zcta": "02907",
+          "name": "ZCTA5 02907",
+          "land_part_m2": 188835
+        },
+        {
+          "zcta": "02909",
+          "name": "ZCTA5 02909",
+          "land_part_m2": 25102
+        },
+        {
+          "zcta": "02910",
+          "name": "ZCTA5 02910",
+          "land_part_m2": 8640541
+        },
+        {
+          "zcta": "02920",
+          "name": "ZCTA5 02920",
+          "land_part_m2": 23174901
+        },
+        {
+          "zcta": "02921",
+          "name": "ZCTA5 02921",
+          "land_part_m2": 33733541
+        }
+      ]
+    },
+    {
+      "name": "Cumberland Hill CDP",
+      "geoid": "4420260",
+      "zctas": [
+        {
+          "zcta": "02864",
+          "name": "ZCTA5 02864",
+          "land_part_m2": 8238052
+        }
+      ]
+    },
+    {
+      "name": "East Providence city",
+      "geoid": "4422960",
+      "zctas": [
+        {
+          "zcta": "02860",
+          "name": "ZCTA5 02860",
+          "land_part_m2": 546584
+        },
+        {
+          "zcta": "02905",
+          "name": "ZCTA5 02905",
+          "land_part_m2": 2898
+        },
+        {
+          "zcta": "02914",
+          "name": "ZCTA5 02914",
+          "land_part_m2": 12709014
+        },
+        {
+          "zcta": "02915",
+          "name": "ZCTA5 02915",
+          "land_part_m2": 14275572
+        },
+        {
+          "zcta": "02916",
+          "name": "ZCTA5 02916",
+          "land_part_m2": 6871960
+        }
+      ]
+    },
+    {
+      "name": "Foster Center CDP",
+      "geoid": "4427640",
+      "zctas": [
+        {
+          "zcta": "02825",
+          "name": "ZCTA5 02825",
+          "land_part_m2": 5614385
+        }
+      ]
+    },
+    {
+      "name": "Greene CDP",
+      "geoid": "4431240",
+      "zctas": [
+        {
+          "zcta": "02827",
+          "name": "ZCTA5 02827",
+          "land_part_m2": 15732648
+        }
+      ]
+    },
+    {
+      "name": "Greenville CDP",
+      "geoid": "4431600",
+      "zctas": [
+        {
+          "zcta": "02828",
+          "name": "ZCTA5 02828",
+          "land_part_m2": 9209786
+        },
+        {
+          "zcta": "02917",
+          "name": "ZCTA5 02917",
+          "land_part_m2": 5185992
+        }
+      ]
+    },
+    {
+      "name": "Harmony CDP",
+      "geoid": "4433040",
+      "zctas": [
+        {
+          "zcta": "02814",
+          "name": "ZCTA5 02814",
+          "land_part_m2": 5955896
+        },
+        {
+          "zcta": "02829",
+          "name": "ZCTA5 02829",
+          "land_part_m2": 1575809
+        },
+        {
+          "zcta": "02857",
+          "name": "ZCTA5 02857",
+          "land_part_m2": 91429
+        }
+      ]
+    },
+    {
+      "name": "Harrisville CDP",
+      "geoid": "4433400",
+      "zctas": [
+        {
+          "zcta": "02830",
+          "name": "ZCTA5 02830",
+          "land_part_m2": 2103497
+        }
+      ]
+    },
+    {
+      "name": "Hope Valley CDP",
+      "geoid": "4434660",
+      "zctas": [
+        {
+          "zcta": "02832",
+          "name": "ZCTA5 02832",
+          "land_part_m2": 8494750
+        },
+        {
+          "zcta": "02898",
+          "name": "ZCTA5 02898",
+          "land_part_m2": 108169
+        }
+      ]
+    },
+    {
+      "name": "Hopkinton CDP",
+      "geoid": "4435200",
+      "zctas": [
+        {
+          "zcta": "02804",
+          "name": "ZCTA5 02804",
+          "land_part_m2": 5571053
+        },
+        {
+          "zcta": "02832",
+          "name": "ZCTA5 02832",
+          "land_part_m2": 224679
+        },
+        {
+          "zcta": "02833",
+          "name": "ZCTA5 02833",
+          "land_part_m2": 2756271
+        }
+      ]
+    },
+    {
+      "name": "Kingston CDP",
+      "geoid": "4438980",
+      "zctas": [
+        {
+          "zcta": "02879",
+          "name": "ZCTA5 02879",
+          "land_part_m2": 1692056
+        },
+        {
+          "zcta": "02881",
+          "name": "ZCTA5 02881",
+          "land_part_m2": 2339261
+        }
+      ]
+    },
+    {
+      "name": "Melville CDP",
+      "geoid": "4445010",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 436956
+        },
+        {
+          "zcta": "02842",
+          "name": "ZCTA5 02842",
+          "land_part_m2": 2137498
+        },
+        {
+          "zcta": "02871",
+          "name": "ZCTA5 02871",
+          "land_part_m2": 2859130
+        }
+      ]
+    },
+    {
+      "name": "Misquamicut CDP",
+      "geoid": "4446000",
+      "zctas": [
+        {
+          "zcta": "02891",
+          "name": "ZCTA5 02891",
+          "land_part_m2": 3037352
+        }
+      ]
+    },
+    {
+      "name": "Narragansett Pier CDP",
+      "geoid": "4448700",
+      "zctas": [
+        {
+          "zcta": "02879",
+          "name": "ZCTA5 02879",
+          "land_part_m2": 300807
+        },
+        {
+          "zcta": "02882",
+          "name": "ZCTA5 02882",
+          "land_part_m2": 8937019
+        }
+      ]
+    },
+    {
+      "name": "Newport East CDP",
+      "geoid": "4450140",
+      "zctas": [
+        {
+          "zcta": "02840",
+          "name": "ZCTA5 02840",
+          "land_part_m2": 3213
+        },
+        {
+          "zcta": "02842",
+          "name": "ZCTA5 02842",
+          "land_part_m2": 14898125
+        }
+      ]
+    },
+    {
+      "name": "Newport city",
+      "geoid": "4449960",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 68750
+        },
+        {
+          "zcta": "02840",
+          "name": "ZCTA5 02840",
+          "land_part_m2": 18846907
+        },
+        {
+          "zcta": "02841",
+          "name": "ZCTA5 02841",
+          "land_part_m2": 892306
+        },
+        {
+          "zcta": "02842",
+          "name": "ZCTA5 02842",
+          "land_part_m2": 20514
+        }
+      ]
+    },
+    {
+      "name": "Pascoag CDP",
+      "geoid": "4454460",
+      "zctas": [
+        {
+          "zcta": "02830",
+          "name": "ZCTA5 02830",
+          "land_part_m2": 916670
+        },
+        {
+          "zcta": "02859",
+          "name": "ZCTA5 02859",
+          "land_part_m2": 12212676
+        }
+      ]
+    },
+    {
+      "name": "Pawtucket city",
+      "geoid": "4454640",
+      "zctas": [
+        {
+          "zcta": "02860",
+          "name": "ZCTA5 02860",
+          "land_part_m2": 13239700
+        },
+        {
+          "zcta": "02861",
+          "name": "ZCTA5 02861",
+          "land_part_m2": 9207555
+        },
+        {
+          "zcta": "02863",
+          "name": "ZCTA5 02863",
+          "land_part_m2": 644
+        }
+      ]
+    },
+    {
+      "name": "Providence city",
+      "geoid": "4459000",
+      "zctas": [
+        {
+          "zcta": "02860",
+          "name": "ZCTA5 02860",
+          "land_part_m2": 37046
+        },
+        {
+          "zcta": "02903",
+          "name": "ZCTA5 02903",
+          "land_part_m2": 4346119
+        },
+        {
+          "zcta": "02904",
+          "name": "ZCTA5 02904",
+          "land_part_m2": 5210788
+        },
+        {
+          "zcta": "02905",
+          "name": "ZCTA5 02905",
+          "land_part_m2": 6228224
+        },
+        {
+          "zcta": "02906",
+          "name": "ZCTA5 02906",
+          "land_part_m2": 8026940
+        },
+        {
+          "zcta": "02907",
+          "name": "ZCTA5 02907",
+          "land_part_m2": 5529057
+        },
+        {
+          "zcta": "02908",
+          "name": "ZCTA5 02908",
+          "land_part_m2": 8744073
+        },
+        {
+          "zcta": "02909",
+          "name": "ZCTA5 02909",
+          "land_part_m2": 8072389
+        },
+        {
+          "zcta": "02910",
+          "name": "ZCTA5 02910",
+          "land_part_m2": 251243
+        },
+        {
+          "zcta": "02911",
+          "name": "ZCTA5 02911",
+          "land_part_m2": 139078
+        },
+        {
+          "zcta": "02912",
+          "name": "ZCTA5 02912",
+          "land_part_m2": 512741
+        },
+        {
+          "zcta": "02918",
+          "name": "ZCTA5 02918",
+          "land_part_m2": 402867
+        },
+        {
+          "zcta": "02919",
+          "name": "ZCTA5 02919",
+          "land_part_m2": 170384
+        }
+      ]
+    },
+    {
+      "name": "Quonochontaug CDP",
+      "geoid": "4460260",
+      "zctas": [
+        {
+          "zcta": "02813",
+          "name": "ZCTA5 02813",
+          "land_part_m2": 3480361
+        }
+      ]
+    },
+    {
+      "name": "Tiverton CDP",
+      "geoid": "4470700",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "02878",
+          "name": "ZCTA5 02878",
+          "land_part_m2": 10824751
+        }
+      ]
+    },
+    {
+      "name": "Valley Falls CDP",
+      "geoid": "4472500",
+      "zctas": [
+        {
+          "zcta": "02864",
+          "name": "ZCTA5 02864",
+          "land_part_m2": 9189161
+        }
+      ]
+    },
+    {
+      "name": "Wakefield-Peace Dale CDP",
+      "geoid": "4473132",
+      "zctas": [
+        {
+          "zcta": "02879",
+          "name": "ZCTA5 02879",
+          "land_part_m2": 12769245
+        }
+      ]
+    },
+    {
+      "name": "Warwick city",
+      "geoid": "4474300",
+      "zctas": [
+        {
+          "zcta": "02818",
+          "name": "ZCTA5 02818",
+          "land_part_m2": 12565364
+        },
+        {
+          "zcta": "02886",
+          "name": "ZCTA5 02886",
+          "land_part_m2": 40912730
+        },
+        {
+          "zcta": "02888",
+          "name": "ZCTA5 02888",
+          "land_part_m2": 15273235
+        },
+        {
+          "zcta": "02889",
+          "name": "ZCTA5 02889",
+          "land_part_m2": 21900514
+        }
+      ]
+    },
+    {
+      "name": "Watch Hill CDP",
+      "geoid": "4475200",
+      "zctas": [
+        {
+          "zcta": "02891",
+          "name": "ZCTA5 02891",
+          "land_part_m2": 2076242
+        }
+      ]
+    },
+    {
+      "name": "Weekapaug CDP",
+      "geoid": "4475920",
+      "zctas": [
+        {
+          "zcta": "02891",
+          "name": "ZCTA5 02891",
+          "land_part_m2": 3011187
+        }
+      ]
+    },
+    {
+      "name": "Westerly CDP",
+      "geoid": "4476820",
+      "zctas": [
+        {
+          "zcta": "02891",
+          "name": "ZCTA5 02891",
+          "land_part_m2": 41010350
+        }
+      ]
+    },
+    {
+      "name": "Woonsocket city",
+      "geoid": "4480780",
+      "zctas": [
+        {
+          "zcta": "02895",
+          "name": "ZCTA5 02895",
+          "land_part_m2": 20062373
+        }
+      ]
+    },
+    {
+      "name": "Wyoming CDP",
+      "geoid": "4480960",
+      "zctas": [
+        {
+          "zcta": "02832",
+          "name": "ZCTA5 02832",
+          "land_part_m2": 6203
+        },
+        {
+          "zcta": "02898",
+          "name": "ZCTA5 02898",
+          "land_part_m2": 2226979
+        }
+      ]
+    }
+  ]
+}

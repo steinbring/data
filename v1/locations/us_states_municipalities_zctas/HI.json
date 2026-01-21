@@ -1,0 +1,2152 @@
+{
+  "state": {
+    "name": "Hawaii",
+    "code": "HI",
+    "fips": "15"
+  },
+  "source": {
+    "name": "U.S. Census Bureau - 2020 ZCTA5 to 2020 Place relationship file",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/tab20_zcta520_place20_natl.txt"
+  },
+  "generated_local_date": "2026-01-21",
+  "notes": [
+    "This file contains Census 'Places' (municipalities) and Census ZCTAs that intersect each place.",
+    "A ZCTA can overlap multiple places; the same ZCTA may appear in multiple municipalities.",
+    "land_part_m2 is the land overlap area between the place and ZCTA for that row."
+  ],
+  "municipalities": [
+    {
+      "name": "Ahuimanu CDP",
+      "geoid": "1500400",
+      "zctas": [
+        {
+          "zcta": "96744",
+          "name": "ZCTA5 96744",
+          "land_part_m2": 6978696
+        }
+      ]
+    },
+    {
+      "name": "Aiea CDP",
+      "geoid": "1500550",
+      "zctas": [
+        {
+          "zcta": "96701",
+          "name": "ZCTA5 96701",
+          "land_part_m2": 4282424
+        },
+        {
+          "zcta": "96860",
+          "name": "ZCTA5 96860",
+          "land_part_m2": 19480
+        }
+      ]
+    },
+    {
+      "name": "Ainaloa CDP",
+      "geoid": "1501085",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 5127803
+        }
+      ]
+    },
+    {
+      "name": "Anahola CDP",
+      "geoid": "1502200",
+      "zctas": [
+        {
+          "zcta": "96703",
+          "name": "ZCTA5 96703",
+          "land_part_m2": 9499180
+        },
+        {
+          "zcta": "96746",
+          "name": "ZCTA5 96746",
+          "land_part_m2": 43776
+        }
+      ]
+    },
+    {
+      "name": "Black Sands CDP",
+      "geoid": "1502832",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 1398601
+        }
+      ]
+    },
+    {
+      "name": "Captain Cook CDP",
+      "geoid": "1503850",
+      "zctas": [
+        {
+          "zcta": "96704",
+          "name": "ZCTA5 96704",
+          "land_part_m2": 23398186
+        },
+        {
+          "zcta": "96750",
+          "name": "ZCTA5 96750",
+          "land_part_m2": 9898764
+        }
+      ]
+    },
+    {
+      "name": "Discovery Harbour CDP",
+      "geoid": "1505900",
+      "zctas": [
+        {
+          "zcta": "96772",
+          "name": "ZCTA5 96772",
+          "land_part_m2": 9218127
+        }
+      ]
+    },
+    {
+      "name": "East Honolulu CDP",
+      "geoid": "1506290",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96795",
+          "name": "ZCTA5 96795",
+          "land_part_m2": 824789
+        },
+        {
+          "zcta": "96816",
+          "name": "ZCTA5 96816",
+          "land_part_m2": 624913
+        },
+        {
+          "zcta": "96821",
+          "name": "ZCTA5 96821",
+          "land_part_m2": 29933812
+        },
+        {
+          "zcta": "96825",
+          "name": "ZCTA5 96825",
+          "land_part_m2": 28201307
+        }
+      ]
+    },
+    {
+      "name": "East Kapolei CDP",
+      "geoid": "1506300",
+      "zctas": [
+        {
+          "zcta": "96706",
+          "name": "ZCTA5 96706",
+          "land_part_m2": 9444856
+        }
+      ]
+    },
+    {
+      "name": "Eden Roc CDP",
+      "geoid": "1506325",
+      "zctas": [
+        {
+          "zcta": "96771",
+          "name": "ZCTA5 96771",
+          "land_part_m2": 16566855
+        }
+      ]
+    },
+    {
+      "name": "Eleele CDP",
+      "geoid": "1507000",
+      "zctas": [
+        {
+          "zcta": "96705",
+          "name": "ZCTA5 96705",
+          "land_part_m2": 2007650
+        }
+      ]
+    },
+    {
+      "name": "Ewa Beach CDP",
+      "geoid": "1507450",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96706",
+          "name": "ZCTA5 96706",
+          "land_part_m2": 3085328
+        }
+      ]
+    },
+    {
+      "name": "Ewa Gentry CDP",
+      "geoid": "1507470",
+      "zctas": [
+        {
+          "zcta": "96706",
+          "name": "ZCTA5 96706",
+          "land_part_m2": 5513935
+        }
+      ]
+    },
+    {
+      "name": "Ewa Villages CDP",
+      "geoid": "1507485",
+      "zctas": [
+        {
+          "zcta": "96706",
+          "name": "ZCTA5 96706",
+          "land_part_m2": 2920561
+        }
+      ]
+    },
+    {
+      "name": "Fern Acres CDP",
+      "geoid": "1507542",
+      "zctas": [
+        {
+          "zcta": "96771",
+          "name": "ZCTA5 96771",
+          "land_part_m2": 17631687
+        }
+      ]
+    },
+    {
+      "name": "Fern Forest CDP",
+      "geoid": "1507675",
+      "zctas": [
+        {
+          "zcta": "96771",
+          "name": "ZCTA5 96771",
+          "land_part_m2": 903100
+        },
+        {
+          "zcta": "96785",
+          "name": "ZCTA5 96785",
+          "land_part_m2": 31402748
+        }
+      ]
+    },
+    {
+      "name": "Haena CDP",
+      "geoid": "1508950",
+      "zctas": [
+        {
+          "zcta": "96714",
+          "name": "ZCTA5 96714",
+          "land_part_m2": 3762287
+        }
+      ]
+    },
+    {
+      "name": "Haiku-Pauwela CDP",
+      "geoid": "1509260",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96708",
+          "name": "ZCTA5 96708",
+          "land_part_m2": 40675134
+        },
+        {
+          "zcta": "96768",
+          "name": "ZCTA5 96768",
+          "land_part_m2": 193996
+        }
+      ]
+    },
+    {
+      "name": "Halaula CDP",
+      "geoid": "1509700",
+      "zctas": [
+        {
+          "zcta": "96755",
+          "name": "ZCTA5 96755",
+          "land_part_m2": 11329410
+        }
+      ]
+    },
+    {
+      "name": "Halawa CDP",
+      "geoid": "1510000",
+      "zctas": [
+        {
+          "zcta": "96701",
+          "name": "ZCTA5 96701",
+          "land_part_m2": 4573564
+        },
+        {
+          "zcta": "96818",
+          "name": "ZCTA5 96818",
+          "land_part_m2": 1613361
+        }
+      ]
+    },
+    {
+      "name": "Haleiwa CDP",
+      "geoid": "1510750",
+      "zctas": [
+        {
+          "zcta": "96712",
+          "name": "ZCTA5 96712",
+          "land_part_m2": 6884725
+        },
+        {
+          "zcta": "96791",
+          "name": "ZCTA5 96791",
+          "land_part_m2": 1088262
+        }
+      ]
+    },
+    {
+      "name": "Haliimaile CDP",
+      "geoid": "1510900",
+      "zctas": [
+        {
+          "zcta": "96768",
+          "name": "ZCTA5 96768",
+          "land_part_m2": 8934011
+        }
+      ]
+    },
+    {
+      "name": "Hana CDP",
+      "geoid": "1511350",
+      "zctas": [
+        {
+          "zcta": "96713",
+          "name": "ZCTA5 96713",
+          "land_part_m2": 27344357
+        }
+      ]
+    },
+    {
+      "name": "Hanalei CDP",
+      "geoid": "1511500",
+      "zctas": [
+        {
+          "zcta": "96714",
+          "name": "ZCTA5 96714",
+          "land_part_m2": 1753960
+        }
+      ]
+    },
+    {
+      "name": "Hanamaulu CDP",
+      "geoid": "1511650",
+      "zctas": [
+        {
+          "zcta": "96766",
+          "name": "ZCTA5 96766",
+          "land_part_m2": 3294026
+        }
+      ]
+    },
+    {
+      "name": "Hanapepe CDP",
+      "geoid": "1511800",
+      "zctas": [
+        {
+          "zcta": "96716",
+          "name": "ZCTA5 96716",
+          "land_part_m2": 2419510
+        }
+      ]
+    },
+    {
+      "name": "Hauula CDP",
+      "geoid": "1512400",
+      "zctas": [
+        {
+          "zcta": "96717",
+          "name": "ZCTA5 96717",
+          "land_part_m2": 2532560
+        },
+        {
+          "zcta": "96762",
+          "name": "ZCTA5 96762",
+          "land_part_m2": 465902
+        }
+      ]
+    },
+    {
+      "name": "Hawaiian Acres CDP",
+      "geoid": "1512450",
+      "zctas": [
+        {
+          "zcta": "96760",
+          "name": "ZCTA5 96760",
+          "land_part_m2": 36286028
+        },
+        {
+          "zcta": "96771",
+          "name": "ZCTA5 96771",
+          "land_part_m2": 13239438
+        },
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 801386
+        }
+      ]
+    },
+    {
+      "name": "Hawaiian Beaches CDP",
+      "geoid": "1512500",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 39422537
+        }
+      ]
+    },
+    {
+      "name": "Hawaiian Ocean View CDP",
+      "geoid": "1512530",
+      "zctas": [
+        {
+          "zcta": "96737",
+          "name": "ZCTA5 96737",
+          "land_part_m2": 88699487
+        },
+        {
+          "zcta": "96772",
+          "name": "ZCTA5 96772",
+          "land_part_m2": 5319353
+        }
+      ]
+    },
+    {
+      "name": "Hawaiian Paradise Park CDP",
+      "geoid": "1512600",
+      "zctas": [
+        {
+          "zcta": "96749",
+          "name": "ZCTA5 96749",
+          "land_part_m2": 39628223
+        }
+      ]
+    },
+    {
+      "name": "Hawi CDP",
+      "geoid": "1513600",
+      "zctas": [
+        {
+          "zcta": "96719",
+          "name": "ZCTA5 96719",
+          "land_part_m2": 12484883
+        },
+        {
+          "zcta": "96755",
+          "name": "ZCTA5 96755",
+          "land_part_m2": 8496777
+        }
+      ]
+    },
+    {
+      "name": "Heeia CDP",
+      "geoid": "1513900",
+      "zctas": [
+        {
+          "zcta": "96744",
+          "name": "ZCTA5 96744",
+          "land_part_m2": 8290194
+        }
+      ]
+    },
+    {
+      "name": "Helemano CDP",
+      "geoid": "1513970",
+      "zctas": [
+        {
+          "zcta": "96786",
+          "name": "ZCTA5 96786",
+          "land_part_m2": 1204608
+        }
+      ]
+    },
+    {
+      "name": "Hickam Housing CDP",
+      "geoid": "1514200",
+      "zctas": [
+        {
+          "zcta": "96818",
+          "name": "ZCTA5 96818",
+          "land_part_m2": 11527555
+        },
+        {
+          "zcta": "96853",
+          "name": "ZCTA5 96853",
+          "land_part_m2": 408512
+        }
+      ]
+    },
+    {
+      "name": "Hilo CDP",
+      "geoid": "1514650",
+      "zctas": [
+        {
+          "zcta": "96720",
+          "name": "ZCTA5 96720",
+          "land_part_m2": 138886362
+        }
+      ]
+    },
+    {
+      "name": "Holualoa CDP",
+      "geoid": "1515700",
+      "zctas": [
+        {
+          "zcta": "96725",
+          "name": "ZCTA5 96725",
+          "land_part_m2": 86992029
+        },
+        {
+          "zcta": "96740",
+          "name": "ZCTA5 96740",
+          "land_part_m2": 3925536
+        }
+      ]
+    },
+    {
+      "name": "Honalo CDP",
+      "geoid": "1516000",
+      "zctas": [
+        {
+          "zcta": "96725",
+          "name": "ZCTA5 96725",
+          "land_part_m2": 70378168
+        }
+      ]
+    },
+    {
+      "name": "Honaunau-Napoopoo CDP",
+      "geoid": "1516160",
+      "zctas": [
+        {
+          "zcta": "96704",
+          "name": "ZCTA5 96704",
+          "land_part_m2": 85489537
+        },
+        {
+          "zcta": "96726",
+          "name": "ZCTA5 96726",
+          "land_part_m2": 12942964
+        }
+      ]
+    },
+    {
+      "name": "Honokaa CDP",
+      "geoid": "1516450",
+      "zctas": [
+        {
+          "zcta": "96727",
+          "name": "ZCTA5 96727",
+          "land_part_m2": 5454701
+        }
+      ]
+    },
+    {
+      "name": "Honomu CDP",
+      "geoid": "1517450",
+      "zctas": [
+        {
+          "zcta": "96728",
+          "name": "ZCTA5 96728",
+          "land_part_m2": 1182596
+        }
+      ]
+    },
+    {
+      "name": "Iroquois Point CDP",
+      "geoid": "1519100",
+      "zctas": [
+        {
+          "zcta": "96706",
+          "name": "ZCTA5 96706",
+          "land_part_m2": 2105276
+        }
+      ]
+    },
+    {
+      "name": "Kaaawa CDP",
+      "geoid": "1519550",
+      "zctas": [
+        {
+          "zcta": "96730",
+          "name": "ZCTA5 96730",
+          "land_part_m2": 2064509
+        }
+      ]
+    },
+    {
+      "name": "Kaanapali CDP",
+      "geoid": "1520000",
+      "zctas": [
+        {
+          "zcta": "96761",
+          "name": "ZCTA5 96761",
+          "land_part_m2": 12956764
+        }
+      ]
+    },
+    {
+      "name": "Kahaluu CDP",
+      "geoid": "1521200",
+      "zctas": [
+        {
+          "zcta": "96744",
+          "name": "ZCTA5 96744",
+          "land_part_m2": 9016541
+        }
+      ]
+    },
+    {
+      "name": "Kahaluu-Keauhou CDP",
+      "geoid": "1521230",
+      "zctas": [
+        {
+          "zcta": "96725",
+          "name": "ZCTA5 96725",
+          "land_part_m2": 1544432
+        },
+        {
+          "zcta": "96740",
+          "name": "ZCTA5 96740",
+          "land_part_m2": 13533484
+        },
+        {
+          "zcta": "96750",
+          "name": "ZCTA5 96750",
+          "land_part_m2": 5657289
+        }
+      ]
+    },
+    {
+      "name": "Kahuku CDP",
+      "geoid": "1522250",
+      "zctas": [
+        {
+          "zcta": "96731",
+          "name": "ZCTA5 96731",
+          "land_part_m2": 2494342
+        }
+      ]
+    },
+    {
+      "name": "Kahului CDP",
+      "geoid": "1522700",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 5038479
+        },
+        {
+          "zcta": "96732",
+          "name": "ZCTA5 96732",
+          "land_part_m2": 27372174
+        },
+        {
+          "zcta": "96779",
+          "name": "ZCTA5 96779",
+          "land_part_m2": 1527805
+        },
+        {
+          "zcta": "96793",
+          "name": "ZCTA5 96793",
+          "land_part_m2": 3320485
+        }
+      ]
+    },
+    {
+      "name": "Kailua CDP",
+      "geoid": "1523150",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96734",
+          "name": "ZCTA5 96734",
+          "land_part_m2": 20129495
+        }
+      ]
+    },
+    {
+      "name": "Kailua CDP",
+      "geoid": "1523000",
+      "zctas": [
+        {
+          "zcta": "96725",
+          "name": "ZCTA5 96725",
+          "land_part_m2": 2051077
+        },
+        {
+          "zcta": "96740",
+          "name": "ZCTA5 96740",
+          "land_part_m2": 33682751
+        }
+      ]
+    },
+    {
+      "name": "Kaiminani CDP",
+      "geoid": "1523675",
+      "zctas": [
+        {
+          "zcta": "96725",
+          "name": "ZCTA5 96725",
+          "land_part_m2": 955798
+        },
+        {
+          "zcta": "96740",
+          "name": "ZCTA5 96740",
+          "land_part_m2": 95412497
+        }
+      ]
+    },
+    {
+      "name": "Kalaeloa CDP",
+      "geoid": "1524850",
+      "zctas": [
+        {
+          "zcta": "96707",
+          "name": "ZCTA5 96707",
+          "land_part_m2": 15790684
+        }
+      ]
+    },
+    {
+      "name": "Kalaheo CDP",
+      "geoid": "1524950",
+      "zctas": [
+        {
+          "zcta": "96741",
+          "name": "ZCTA5 96741",
+          "land_part_m2": 9063034
+        }
+      ]
+    },
+    {
+      "name": "Kalapana CDP",
+      "geoid": "1525700",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 3930885
+        }
+      ]
+    },
+    {
+      "name": "Kalihiwai CDP",
+      "geoid": "1526750",
+      "zctas": [
+        {
+          "zcta": "96754",
+          "name": "ZCTA5 96754",
+          "land_part_m2": 6842153
+        }
+      ]
+    },
+    {
+      "name": "Kaloko CDP",
+      "geoid": "1526867",
+      "zctas": [
+        {
+          "zcta": "96740",
+          "name": "ZCTA5 96740",
+          "land_part_m2": 34984274
+        }
+      ]
+    },
+    {
+      "name": "Kamaili CDP",
+      "geoid": "1527350",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 18336172
+        }
+      ]
+    },
+    {
+      "name": "Kaneohe Base CDP",
+      "geoid": "1528287",
+      "zctas": [
+        {
+          "zcta": "96734",
+          "name": "ZCTA5 96734",
+          "land_part_m2": 9460148
+        },
+        {
+          "zcta": "96863",
+          "name": "ZCTA5 96863",
+          "land_part_m2": 1945590
+        }
+      ]
+    },
+    {
+      "name": "Kaneohe CDP",
+      "geoid": "1528250",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96744",
+          "name": "ZCTA5 96744",
+          "land_part_m2": 16945093
+        }
+      ]
+    },
+    {
+      "name": "Kapaa CDP",
+      "geoid": "1528850",
+      "zctas": [
+        {
+          "zcta": "96746",
+          "name": "ZCTA5 96746",
+          "land_part_m2": 25981974
+        }
+      ]
+    },
+    {
+      "name": "Kapaau CDP",
+      "geoid": "1529000",
+      "zctas": [
+        {
+          "zcta": "96755",
+          "name": "ZCTA5 96755",
+          "land_part_m2": 15997231
+        }
+      ]
+    },
+    {
+      "name": "Kapalua CDP",
+      "geoid": "1529725",
+      "zctas": [
+        {
+          "zcta": "96761",
+          "name": "ZCTA5 96761",
+          "land_part_m2": 12549065
+        }
+      ]
+    },
+    {
+      "name": "Kapolei CDP",
+      "geoid": "1530300",
+      "zctas": [
+        {
+          "zcta": "96707",
+          "name": "ZCTA5 96707",
+          "land_part_m2": 11316578
+        }
+      ]
+    },
+    {
+      "name": "Kaumakani CDP",
+      "geoid": "1530650",
+      "zctas": [
+        {
+          "zcta": "96747",
+          "name": "ZCTA5 96747",
+          "land_part_m2": 1429144
+        },
+        {
+          "zcta": "96769",
+          "name": "ZCTA5 96769",
+          "land_part_m2": 1028155
+        }
+      ]
+    },
+    {
+      "name": "Kaunakakai CDP",
+      "geoid": "1531100",
+      "zctas": [
+        {
+          "zcta": "96748",
+          "name": "ZCTA5 96748",
+          "land_part_m2": 33224679
+        }
+      ]
+    },
+    {
+      "name": "Kawela Bay CDP",
+      "geoid": "1532700",
+      "zctas": [
+        {
+          "zcta": "96731",
+          "name": "ZCTA5 96731",
+          "land_part_m2": 1506017
+        }
+      ]
+    },
+    {
+      "name": "Keaau CDP",
+      "geoid": "1532900",
+      "zctas": [
+        {
+          "zcta": "96749",
+          "name": "ZCTA5 96749",
+          "land_part_m2": 16246068
+        }
+      ]
+    },
+    {
+      "name": "Kealakekua CDP",
+      "geoid": "1533950",
+      "zctas": [
+        {
+          "zcta": "96750",
+          "name": "ZCTA5 96750",
+          "land_part_m2": 25893852
+        }
+      ]
+    },
+    {
+      "name": "Kekaha CDP",
+      "geoid": "1535600",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96752",
+          "name": "ZCTA5 96752",
+          "land_part_m2": 2597312
+        }
+      ]
+    },
+    {
+      "name": "Keokea CDP",
+      "geoid": "1536050",
+      "zctas": [
+        {
+          "zcta": "96790",
+          "name": "ZCTA5 96790",
+          "land_part_m2": 47517257
+        }
+      ]
+    },
+    {
+      "name": "Kihei CDP",
+      "geoid": "1536500",
+      "zctas": [
+        {
+          "zcta": "96753",
+          "name": "ZCTA5 96753",
+          "land_part_m2": 24251663
+        }
+      ]
+    },
+    {
+      "name": "Kilauea CDP",
+      "geoid": "1536650",
+      "zctas": [
+        {
+          "zcta": "96754",
+          "name": "ZCTA5 96754",
+          "land_part_m2": 12871159
+        }
+      ]
+    },
+    {
+      "name": "Ko Olina CDP",
+      "geoid": "1539400",
+      "zctas": [
+        {
+          "zcta": "96707",
+          "name": "ZCTA5 96707",
+          "land_part_m2": 2795491
+        }
+      ]
+    },
+    {
+      "name": "Koloa CDP",
+      "geoid": "1539200",
+      "zctas": [
+        {
+          "zcta": "96756",
+          "name": "ZCTA5 96756",
+          "land_part_m2": 3241489
+        }
+      ]
+    },
+    {
+      "name": "Kualapuu CDP",
+      "geoid": "1539500",
+      "zctas": [
+        {
+          "zcta": "96729",
+          "name": "ZCTA5 96729",
+          "land_part_m2": 43618304
+        },
+        {
+          "zcta": "96757",
+          "name": "ZCTA5 96757",
+          "land_part_m2": 25223645
+        },
+        {
+          "zcta": "96770",
+          "name": "ZCTA5 96770",
+          "land_part_m2": 7038698
+        }
+      ]
+    },
+    {
+      "name": "Kukuihaele CDP",
+      "geoid": "1541000",
+      "zctas": [
+        {
+          "zcta": "96727",
+          "name": "ZCTA5 96727",
+          "land_part_m2": 4436706
+        }
+      ]
+    },
+    {
+      "name": "Kula CDP",
+      "geoid": "1541600",
+      "zctas": [
+        {
+          "zcta": "96768",
+          "name": "ZCTA5 96768",
+          "land_part_m2": 7492987
+        },
+        {
+          "zcta": "96790",
+          "name": "ZCTA5 96790",
+          "land_part_m2": 81965135
+        }
+      ]
+    },
+    {
+      "name": "Kurtistown CDP",
+      "geoid": "1542800",
+      "zctas": [
+        {
+          "zcta": "96749",
+          "name": "ZCTA5 96749",
+          "land_part_m2": 2111553
+        },
+        {
+          "zcta": "96760",
+          "name": "ZCTA5 96760",
+          "land_part_m2": 14553953
+        },
+        {
+          "zcta": "96771",
+          "name": "ZCTA5 96771",
+          "land_part_m2": 1860802
+        }
+      ]
+    },
+    {
+      "name": "Lahaina CDP",
+      "geoid": "1542950",
+      "zctas": [
+        {
+          "zcta": "96761",
+          "name": "ZCTA5 96761",
+          "land_part_m2": 20155599
+        }
+      ]
+    },
+    {
+      "name": "Laie CDP",
+      "geoid": "1543250",
+      "zctas": [
+        {
+          "zcta": "96762",
+          "name": "ZCTA5 96762",
+          "land_part_m2": 3467616
+        }
+      ]
+    },
+    {
+      "name": "Lanai City CDP",
+      "geoid": "1543700",
+      "zctas": [
+        {
+          "zcta": "96763",
+          "name": "ZCTA5 96763",
+          "land_part_m2": 17527175
+        }
+      ]
+    },
+    {
+      "name": "Launiupoko CDP",
+      "geoid": "1544075",
+      "zctas": [
+        {
+          "zcta": "96761",
+          "name": "ZCTA5 96761",
+          "land_part_m2": 13801897
+        }
+      ]
+    },
+    {
+      "name": "Laupahoehoe CDP",
+      "geoid": "1544150",
+      "zctas": [
+        {
+          "zcta": "96764",
+          "name": "ZCTA5 96764",
+          "land_part_m2": 5470894
+        },
+        {
+          "zcta": "96773",
+          "name": "ZCTA5 96773",
+          "land_part_m2": 252277
+        },
+        {
+          "zcta": "96780",
+          "name": "ZCTA5 96780",
+          "land_part_m2": 2671068
+        }
+      ]
+    },
+    {
+      "name": "Lawai CDP",
+      "geoid": "1544450",
+      "zctas": [
+        {
+          "zcta": "96741",
+          "name": "ZCTA5 96741",
+          "land_part_m2": 3933938
+        },
+        {
+          "zcta": "96756",
+          "name": "ZCTA5 96756",
+          "land_part_m2": 4923619
+        },
+        {
+          "zcta": "96765",
+          "name": "ZCTA5 96765",
+          "land_part_m2": 1646937
+        }
+      ]
+    },
+    {
+      "name": "Leilani Estates CDP",
+      "geoid": "1544562",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 10450010
+        }
+      ]
+    },
+    {
+      "name": "Lihue CDP",
+      "geoid": "1545200",
+      "zctas": [
+        {
+          "zcta": "96766",
+          "name": "ZCTA5 96766",
+          "land_part_m2": 19320711
+        }
+      ]
+    },
+    {
+      "name": "Maalaea CDP",
+      "geoid": "1546400",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96793",
+          "name": "ZCTA5 96793",
+          "land_part_m2": 13351346
+        }
+      ]
+    },
+    {
+      "name": "Mahinahina CDP",
+      "geoid": "1547050",
+      "zctas": [
+        {
+          "zcta": "96761",
+          "name": "ZCTA5 96761",
+          "land_part_m2": 17231289
+        }
+      ]
+    },
+    {
+      "name": "Maili CDP",
+      "geoid": "1547300",
+      "zctas": [
+        {
+          "zcta": "96792",
+          "name": "ZCTA5 96792",
+          "land_part_m2": 4426656
+        }
+      ]
+    },
+    {
+      "name": "Makaha CDP",
+      "geoid": "1547450",
+      "zctas": [
+        {
+          "zcta": "96792",
+          "name": "ZCTA5 96792",
+          "land_part_m2": 6967171
+        }
+      ]
+    },
+    {
+      "name": "Makaha Valley CDP",
+      "geoid": "1547560",
+      "zctas": [
+        {
+          "zcta": "96792",
+          "name": "ZCTA5 96792",
+          "land_part_m2": 9684884
+        }
+      ]
+    },
+    {
+      "name": "Makakilo CDP",
+      "geoid": "1547600",
+      "zctas": [
+        {
+          "zcta": "96707",
+          "name": "ZCTA5 96707",
+          "land_part_m2": 9895311
+        }
+      ]
+    },
+    {
+      "name": "Makawao CDP",
+      "geoid": "1548050",
+      "zctas": [
+        {
+          "zcta": "96768",
+          "name": "ZCTA5 96768",
+          "land_part_m2": 9183943
+        }
+      ]
+    },
+    {
+      "name": "Makena CDP",
+      "geoid": "1548350",
+      "zctas": [
+        {
+          "zcta": "96753",
+          "name": "ZCTA5 96753",
+          "land_part_m2": 17727912
+        },
+        {
+          "zcta": "96790",
+          "name": "ZCTA5 96790",
+          "land_part_m2": 6799907
+        }
+      ]
+    },
+    {
+      "name": "Manele CDP",
+      "geoid": "1549425",
+      "zctas": [
+        {
+          "zcta": "96763",
+          "name": "ZCTA5 96763",
+          "land_part_m2": 3174642
+        }
+      ]
+    },
+    {
+      "name": "Mauna Loa Estates CDP",
+      "geoid": "1550375",
+      "zctas": [
+        {
+          "zcta": "96785",
+          "name": "ZCTA5 96785",
+          "land_part_m2": 4757842
+        }
+      ]
+    },
+    {
+      "name": "Maunaloa CDP",
+      "geoid": "1550150",
+      "zctas": [
+        {
+          "zcta": "96770",
+          "name": "ZCTA5 96770",
+          "land_part_m2": 1906766
+        }
+      ]
+    },
+    {
+      "name": "Maunawili CDP",
+      "geoid": "1550750",
+      "zctas": [
+        {
+          "zcta": "96734",
+          "name": "ZCTA5 96734",
+          "land_part_m2": 4735163
+        }
+      ]
+    },
+    {
+      "name": "Mililani Mauka CDP",
+      "geoid": "1551000",
+      "zctas": [
+        {
+          "zcta": "96789",
+          "name": "ZCTA5 96789",
+          "land_part_m2": 10345139
+        }
+      ]
+    },
+    {
+      "name": "Mililani Town CDP",
+      "geoid": "1551050",
+      "zctas": [
+        {
+          "zcta": "96789",
+          "name": "ZCTA5 96789",
+          "land_part_m2": 10384095
+        }
+      ]
+    },
+    {
+      "name": "Mokuleia CDP",
+      "geoid": "1552550",
+      "zctas": [
+        {
+          "zcta": "96791",
+          "name": "ZCTA5 96791",
+          "land_part_m2": 7011878
+        }
+      ]
+    },
+    {
+      "name": "Mountain View CDP",
+      "geoid": "1553300",
+      "zctas": [
+        {
+          "zcta": "96771",
+          "name": "ZCTA5 96771",
+          "land_part_m2": 139360814
+        },
+        {
+          "zcta": "96785",
+          "name": "ZCTA5 96785",
+          "land_part_m2": 2949659
+        }
+      ]
+    },
+    {
+      "name": "Naalehu CDP",
+      "geoid": "1553600",
+      "zctas": [
+        {
+          "zcta": "96772",
+          "name": "ZCTA5 96772",
+          "land_part_m2": 5615035
+        }
+      ]
+    },
+    {
+      "name": "Nanakuli CDP",
+      "geoid": "1553900",
+      "zctas": [
+        {
+          "zcta": "96792",
+          "name": "ZCTA5 96792",
+          "land_part_m2": 7741545
+        }
+      ]
+    },
+    {
+      "name": "Nanawale Estates CDP",
+      "geoid": "1553975",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 6562982
+        }
+      ]
+    },
+    {
+      "name": "Napili-Honokowai CDP",
+      "geoid": "1554100",
+      "zctas": [
+        {
+          "zcta": "96761",
+          "name": "ZCTA5 96761",
+          "land_part_m2": 6727251
+        }
+      ]
+    },
+    {
+      "name": "Ocean Pointe CDP",
+      "geoid": "1556685",
+      "zctas": [
+        {
+          "zcta": "96706",
+          "name": "ZCTA5 96706",
+          "land_part_m2": 5241829
+        }
+      ]
+    },
+    {
+      "name": "Olinda CDP",
+      "geoid": "1557350",
+      "zctas": [
+        {
+          "zcta": "96768",
+          "name": "ZCTA5 96768",
+          "land_part_m2": 19411648
+        }
+      ]
+    },
+    {
+      "name": "Olowalu CDP",
+      "geoid": "1557650",
+      "zctas": [
+        {
+          "zcta": "96761",
+          "name": "ZCTA5 96761",
+          "land_part_m2": 7624334
+        }
+      ]
+    },
+    {
+      "name": "Omao CDP",
+      "geoid": "1557800",
+      "zctas": [
+        {
+          "zcta": "96756",
+          "name": "ZCTA5 96756",
+          "land_part_m2": 3282998
+        }
+      ]
+    },
+    {
+      "name": "Orchidlands Estates CDP",
+      "geoid": "1558775",
+      "zctas": [
+        {
+          "zcta": "96749",
+          "name": "ZCTA5 96749",
+          "land_part_m2": 24209558
+        },
+        {
+          "zcta": "96760",
+          "name": "ZCTA5 96760",
+          "land_part_m2": 931657
+        }
+      ]
+    },
+    {
+      "name": "Paauilo CDP",
+      "geoid": "1559300",
+      "zctas": [
+        {
+          "zcta": "96776",
+          "name": "ZCTA5 96776",
+          "land_part_m2": 3109073
+        }
+      ]
+    },
+    {
+      "name": "Pahala CDP",
+      "geoid": "1559750",
+      "zctas": [
+        {
+          "zcta": "96777",
+          "name": "ZCTA5 96777",
+          "land_part_m2": 1663740
+        }
+      ]
+    },
+    {
+      "name": "Pahoa CDP",
+      "geoid": "1559900",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 5640107
+        }
+      ]
+    },
+    {
+      "name": "Paia CDP",
+      "geoid": "1560200",
+      "zctas": [
+        {
+          "zcta": "96779",
+          "name": "ZCTA5 96779",
+          "land_part_m2": 15878391
+        }
+      ]
+    },
+    {
+      "name": "Pakala Village CDP",
+      "geoid": "1560350",
+      "zctas": [
+        {
+          "zcta": "96769",
+          "name": "ZCTA5 96769",
+          "land_part_m2": 6204728
+        }
+      ]
+    },
+    {
+      "name": "Papaikou CDP",
+      "geoid": "1561550",
+      "zctas": [
+        {
+          "zcta": "96781",
+          "name": "ZCTA5 96781",
+          "land_part_m2": 3765536
+        }
+      ]
+    },
+    {
+      "name": "Paukaa CDP",
+      "geoid": "1561700",
+      "zctas": [
+        {
+          "zcta": "96720",
+          "name": "ZCTA5 96720",
+          "land_part_m2": 852082
+        }
+      ]
+    },
+    {
+      "name": "Pearl City CDP",
+      "geoid": "1562600",
+      "zctas": [
+        {
+          "zcta": "96701",
+          "name": "ZCTA5 96701",
+          "land_part_m2": 5412600
+        },
+        {
+          "zcta": "96782",
+          "name": "ZCTA5 96782",
+          "land_part_m2": 18207800
+        }
+      ]
+    },
+    {
+      "name": "Pepeekeo CDP",
+      "geoid": "1563650",
+      "zctas": [
+        {
+          "zcta": "96783",
+          "name": "ZCTA5 96783",
+          "land_part_m2": 2846159
+        }
+      ]
+    },
+    {
+      "name": "Poipu CDP",
+      "geoid": "1564550",
+      "zctas": [
+        {
+          "zcta": "96756",
+          "name": "ZCTA5 96756",
+          "land_part_m2": 6651494
+        }
+      ]
+    },
+    {
+      "name": "Princeville CDP",
+      "geoid": "1565075",
+      "zctas": [
+        {
+          "zcta": "96722",
+          "name": "ZCTA5 96722",
+          "land_part_m2": 6737031
+        }
+      ]
+    },
+    {
+      "name": "Puako CDP",
+      "geoid": "1565150",
+      "zctas": [
+        {
+          "zcta": "96743",
+          "name": "ZCTA5 96743",
+          "land_part_m2": 8306028
+        }
+      ]
+    },
+    {
+      "name": "Puhi CDP",
+      "geoid": "1565750",
+      "zctas": [
+        {
+          "zcta": "96766",
+          "name": "ZCTA5 96766",
+          "land_part_m2": 2302337
+        }
+      ]
+    },
+    {
+      "name": "Pukalani CDP",
+      "geoid": "1565900",
+      "zctas": [
+        {
+          "zcta": "96768",
+          "name": "ZCTA5 96768",
+          "land_part_m2": 9772930
+        }
+      ]
+    },
+    {
+      "name": "Punaluu CDP",
+      "geoid": "1566500",
+      "zctas": [
+        {
+          "zcta": "96717",
+          "name": "ZCTA5 96717",
+          "land_part_m2": 4139126
+        }
+      ]
+    },
+    {
+      "name": "Pupukea CDP",
+      "geoid": "1566800",
+      "zctas": [
+        {
+          "zcta": "96712",
+          "name": "ZCTA5 96712",
+          "land_part_m2": 8902681
+        }
+      ]
+    },
+    {
+      "name": "Royal Hawaiian Estates CDP",
+      "geoid": "1568807",
+      "zctas": [
+        {
+          "zcta": "96785",
+          "name": "ZCTA5 96785",
+          "land_part_m2": 7568482
+        }
+      ]
+    },
+    {
+      "name": "Royal Kunia CDP",
+      "geoid": "1568815",
+      "zctas": [
+        {
+          "zcta": "96797",
+          "name": "ZCTA5 96797",
+          "land_part_m2": 7797829
+        }
+      ]
+    },
+    {
+      "name": "Schofield Barracks CDP",
+      "geoid": "1569050",
+      "zctas": [
+        {
+          "zcta": "96786",
+          "name": "ZCTA5 96786",
+          "land_part_m2": 5807272
+        },
+        {
+          "zcta": "96857",
+          "name": "ZCTA5 96857",
+          "land_part_m2": 1370341
+        }
+      ]
+    },
+    {
+      "name": "Seaview CDP",
+      "geoid": "1569238",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 1703214
+        }
+      ]
+    },
+    {
+      "name": "Tiki Gardens CDP",
+      "geoid": "1570280",
+      "zctas": [
+        {
+          "zcta": "96778",
+          "name": "ZCTA5 96778",
+          "land_part_m2": 4453331
+        }
+      ]
+    },
+    {
+      "name": "Ualapue CDP",
+      "geoid": "1570700",
+      "zctas": [
+        {
+          "zcta": "96748",
+          "name": "ZCTA5 96748",
+          "land_part_m2": 8198307
+        }
+      ]
+    },
+    {
+      "name": "Urban Honolulu CDP",
+      "geoid": "1571550",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96813",
+          "name": "ZCTA5 96813",
+          "land_part_m2": 9202242
+        },
+        {
+          "zcta": "96814",
+          "name": "ZCTA5 96814",
+          "land_part_m2": 3156389
+        },
+        {
+          "zcta": "96815",
+          "name": "ZCTA5 96815",
+          "land_part_m2": 5691848
+        },
+        {
+          "zcta": "96816",
+          "name": "ZCTA5 96816",
+          "land_part_m2": 24153849
+        },
+        {
+          "zcta": "96817",
+          "name": "ZCTA5 96817",
+          "land_part_m2": 24090224
+        },
+        {
+          "zcta": "96818",
+          "name": "ZCTA5 96818",
+          "land_part_m2": 9771307
+        },
+        {
+          "zcta": "96819",
+          "name": "ZCTA5 96819",
+          "land_part_m2": 56584220
+        },
+        {
+          "zcta": "96820",
+          "name": "ZCTA5 96820",
+          "land_part_m2": 157255
+        },
+        {
+          "zcta": "96821",
+          "name": "ZCTA5 96821",
+          "land_part_m2": 32814
+        },
+        {
+          "zcta": "96822",
+          "name": "ZCTA5 96822",
+          "land_part_m2": 20804472
+        },
+        {
+          "zcta": "96826",
+          "name": "ZCTA5 96826",
+          "land_part_m2": 2778172
+        },
+        {
+          "zcta": "96848",
+          "name": "ZCTA5 96848",
+          "land_part_m2": 183042
+        },
+        {
+          "zcta": "96850",
+          "name": "ZCTA5 96850",
+          "land_part_m2": 57607
+        },
+        {
+          "zcta": "96858",
+          "name": "ZCTA5 96858",
+          "land_part_m2": 42348
+        },
+        {
+          "zcta": "96859",
+          "name": "ZCTA5 96859",
+          "land_part_m2": 101205
+        }
+      ]
+    },
+    {
+      "name": "Volcano CDP",
+      "geoid": "1572350",
+      "zctas": [
+        {
+          "zcta": "96785",
+          "name": "ZCTA5 96785",
+          "land_part_m2": 69136986
+        }
+      ]
+    },
+    {
+      "name": "Volcano Golf Course CDP",
+      "geoid": "1572468",
+      "zctas": [
+        {
+          "zcta": "96785",
+          "name": "ZCTA5 96785",
+          "land_part_m2": 2402236
+        }
+      ]
+    },
+    {
+      "name": "Wahiawa CDP",
+      "geoid": "1572650",
+      "zctas": [
+        {
+          "zcta": "96786",
+          "name": "ZCTA5 96786",
+          "land_part_m2": 5928998
+        }
+      ]
+    },
+    {
+      "name": "Waiahole-Waikane CDP",
+      "geoid": "1572957",
+      "zctas": [
+        {
+          "zcta": "96744",
+          "name": "ZCTA5 96744",
+          "land_part_m2": 17640224
+        }
+      ]
+    },
+    {
+      "name": "Waialua CDP",
+      "geoid": "1574000",
+      "zctas": [
+        {
+          "zcta": "96791",
+          "name": "ZCTA5 96791",
+          "land_part_m2": 5675152
+        }
+      ]
+    },
+    {
+      "name": "Waianae CDP",
+      "geoid": "1574450",
+      "zctas": [
+        {
+          "zcta": "96792",
+          "name": "ZCTA5 96792",
+          "land_part_m2": 13979275
+        }
+      ]
+    },
+    {
+      "name": "Waihee-Waiehu CDP",
+      "geoid": "1575510",
+      "zctas": [
+        {
+          "zcta": "96793",
+          "name": "ZCTA5 96793",
+          "land_part_m2": 11043768
+        }
+      ]
+    },
+    {
+      "name": "Waikapu CDP",
+      "geoid": "1575950",
+      "zctas": [
+        {
+          "zcta": "96793",
+          "name": "ZCTA5 96793",
+          "land_part_m2": 28540281
+        }
+      ]
+    },
+    {
+      "name": "Waikele CDP",
+      "geoid": "1576250",
+      "zctas": [
+        {
+          "zcta": "96797",
+          "name": "ZCTA5 96797",
+          "land_part_m2": 2849982
+        }
+      ]
+    },
+    {
+      "name": "Waikoloa Beach Resort CDP",
+      "geoid": "1576584",
+      "zctas": [
+        {
+          "zcta": "96738",
+          "name": "ZCTA5 96738",
+          "land_part_m2": 10666325
+        },
+        {
+          "zcta": "96743",
+          "name": "ZCTA5 96743",
+          "land_part_m2": 7697044
+        }
+      ]
+    },
+    {
+      "name": "Waikoloa Village CDP",
+      "geoid": "1576600",
+      "zctas": [
+        {
+          "zcta": "96738",
+          "name": "ZCTA5 96738",
+          "land_part_m2": 40823408
+        }
+      ]
+    },
+    {
+      "name": "Wailea CDP",
+      "geoid": "1576925",
+      "zctas": [
+        {
+          "zcta": "96753",
+          "name": "ZCTA5 96753",
+          "land_part_m2": 15055249
+        },
+        {
+          "zcta": "96790",
+          "name": "ZCTA5 96790",
+          "land_part_m2": 4225333
+        }
+      ]
+    },
+    {
+      "name": "Wailua CDP",
+      "geoid": "1577000",
+      "zctas": [
+        {
+          "zcta": "96746",
+          "name": "ZCTA5 96746",
+          "land_part_m2": 3977164
+        }
+      ]
+    },
+    {
+      "name": "Wailua Homesteads CDP",
+      "geoid": "1577225",
+      "zctas": [
+        {
+          "zcta": "96746",
+          "name": "ZCTA5 96746",
+          "land_part_m2": 18922819
+        }
+      ]
+    },
+    {
+      "name": "Wailuku CDP",
+      "geoid": "1577450",
+      "zctas": [
+        {
+          "zcta": "96732",
+          "name": "ZCTA5 96732",
+          "land_part_m2": 108089
+        },
+        {
+          "zcta": "96793",
+          "name": "ZCTA5 96793",
+          "land_part_m2": 13529025
+        }
+      ]
+    },
+    {
+      "name": "Waimalu CDP",
+      "geoid": "1577750",
+      "zctas": [
+        {
+          "zcta": "96701",
+          "name": "ZCTA5 96701",
+          "land_part_m2": 4742225
+        }
+      ]
+    },
+    {
+      "name": "Waimanalo Beach CDP",
+      "geoid": "1578200",
+      "zctas": [
+        {
+          "zcta": "00000",
+          "name": "ZCTA 00000",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96795",
+          "name": "ZCTA5 96795",
+          "land_part_m2": 5115446
+        }
+      ]
+    },
+    {
+      "name": "Waimanalo CDP",
+      "geoid": "1578050",
+      "zctas": [
+        {
+          "zcta": "96795",
+          "name": "ZCTA5 96795",
+          "land_part_m2": 11287821
+        }
+      ]
+    },
+    {
+      "name": "Waimea CDP",
+      "geoid": "1578500",
+      "zctas": [
+        {
+          "zcta": "96743",
+          "name": "ZCTA5 96743",
+          "land_part_m2": 102006288
+        }
+      ]
+    },
+    {
+      "name": "Waimea CDP",
+      "geoid": "1578800",
+      "zctas": [
+        {
+          "zcta": "96796",
+          "name": "ZCTA5 96796",
+          "land_part_m2": 4796259
+        }
+      ]
+    },
+    {
+      "name": "Wainaku CDP",
+      "geoid": "1578950",
+      "zctas": [
+        {
+          "zcta": "96720",
+          "name": "ZCTA5 96720",
+          "land_part_m2": 3420673
+        }
+      ]
+    },
+    {
+      "name": "Wainiha CDP",
+      "geoid": "1579250",
+      "zctas": [
+        {
+          "zcta": "96714",
+          "name": "ZCTA5 96714",
+          "land_part_m2": 6383623
+        }
+      ]
+    },
+    {
+      "name": "Waiohinu CDP",
+      "geoid": "1579550",
+      "zctas": [
+        {
+          "zcta": "96772",
+          "name": "ZCTA5 96772",
+          "land_part_m2": 3459619
+        }
+      ]
+    },
+    {
+      "name": "Waipahu CDP",
+      "geoid": "1579700",
+      "zctas": [
+        {
+          "zcta": "96706",
+          "name": "ZCTA5 96706",
+          "land_part_m2": 0
+        },
+        {
+          "zcta": "96797",
+          "name": "ZCTA5 96797",
+          "land_part_m2": 6936011
+        }
+      ]
+    },
+    {
+      "name": "Waipio Acres CDP",
+      "geoid": "1580000",
+      "zctas": [
+        {
+          "zcta": "96789",
+          "name": "ZCTA5 96789",
+          "land_part_m2": 2538117
+        }
+      ]
+    },
+    {
+      "name": "Waipio CDP",
+      "geoid": "1579860",
+      "zctas": [
+        {
+          "zcta": "96797",
+          "name": "ZCTA5 96797",
+          "land_part_m2": 3228710
+        }
+      ]
+    },
+    {
+      "name": "West Loch Estate CDP",
+      "geoid": "1580470",
+      "zctas": [
+        {
+          "zcta": "96706",
+          "name": "ZCTA5 96706",
+          "land_part_m2": 1707369
+        }
+      ]
+    },
+    {
+      "name": "Wheeler AFB CDP",
+      "geoid": "1580600",
+      "zctas": [
+        {
+          "zcta": "96786",
+          "name": "ZCTA5 96786",
+          "land_part_m2": 6008799
+        }
+      ]
+    },
+    {
+      "name": "Whitmore Village CDP",
+      "geoid": "1580900",
+      "zctas": [
+        {
+          "zcta": "96786",
+          "name": "ZCTA5 96786",
+          "land_part_m2": 2358072
+        }
+      ]
+    }
+  ]
+}

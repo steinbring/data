@@ -1,0 +1,310 @@
+{
+  "state": {
+    "name": "District of Columbia",
+    "code": "DC",
+    "fips": "11"
+  },
+  "source": {
+    "name": "U.S. Census Bureau - 2020 ZCTA5 to 2020 Place relationship file",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/tab20_zcta520_place20_natl.txt"
+  },
+  "generated_local_date": "2026-01-21",
+  "notes": [
+    "This file contains Census 'Places' (municipalities) and Census ZCTAs that intersect each place.",
+    "A ZCTA can overlap multiple places; the same ZCTA may appear in multiple municipalities.",
+    "land_part_m2 is the land overlap area between the place and ZCTA for that row."
+  ],
+  "municipalities": [
+    {
+      "name": "Washington city",
+      "geoid": "1150000",
+      "zctas": [
+        {
+          "zcta": "20001",
+          "name": "ZCTA5 20001",
+          "land_part_m2": 5302364
+        },
+        {
+          "zcta": "20002",
+          "name": "ZCTA5 20002",
+          "land_part_m2": 13304026
+        },
+        {
+          "zcta": "20003",
+          "name": "ZCTA5 20003",
+          "land_part_m2": 5886069
+        },
+        {
+          "zcta": "20004",
+          "name": "ZCTA5 20004",
+          "land_part_m2": 502411
+        },
+        {
+          "zcta": "20005",
+          "name": "ZCTA5 20005",
+          "land_part_m2": 1122747
+        },
+        {
+          "zcta": "20006",
+          "name": "ZCTA5 20006",
+          "land_part_m2": 913570
+        },
+        {
+          "zcta": "20007",
+          "name": "ZCTA5 20007",
+          "land_part_m2": 8002561
+        },
+        {
+          "zcta": "20008",
+          "name": "ZCTA5 20008",
+          "land_part_m2": 8000959
+        },
+        {
+          "zcta": "20009",
+          "name": "ZCTA5 20009",
+          "land_part_m2": 3413770
+        },
+        {
+          "zcta": "20010",
+          "name": "ZCTA5 20010",
+          "land_part_m2": 2576977
+        },
+        {
+          "zcta": "20011",
+          "name": "ZCTA5 20011",
+          "land_part_m2": 13890227
+        },
+        {
+          "zcta": "20012",
+          "name": "ZCTA5 20012",
+          "land_part_m2": 5342542
+        },
+        {
+          "zcta": "20015",
+          "name": "ZCTA5 20015",
+          "land_part_m2": 9002096
+        },
+        {
+          "zcta": "20016",
+          "name": "ZCTA5 20016",
+          "land_part_m2": 11476999
+        },
+        {
+          "zcta": "20017",
+          "name": "ZCTA5 20017",
+          "land_part_m2": 5754106
+        },
+        {
+          "zcta": "20018",
+          "name": "ZCTA5 20018",
+          "land_part_m2": 7816875
+        },
+        {
+          "zcta": "20019",
+          "name": "ZCTA5 20019",
+          "land_part_m2": 15892441
+        },
+        {
+          "zcta": "20020",
+          "name": "ZCTA5 20020",
+          "land_part_m2": 11910718
+        },
+        {
+          "zcta": "20024",
+          "name": "ZCTA5 20024",
+          "land_part_m2": 5681759
+        },
+        {
+          "zcta": "20032",
+          "name": "ZCTA5 20032",
+          "land_part_m2": 13590932
+        },
+        {
+          "zcta": "20036",
+          "name": "ZCTA5 20036",
+          "land_part_m2": 840828
+        },
+        {
+          "zcta": "20037",
+          "name": "ZCTA5 20037",
+          "land_part_m2": 1896195
+        },
+        {
+          "zcta": "20045",
+          "name": "ZCTA5 20045",
+          "land_part_m2": 27766
+        },
+        {
+          "zcta": "20052",
+          "name": "ZCTA5 20052",
+          "land_part_m2": 116245
+        },
+        {
+          "zcta": "20057",
+          "name": "ZCTA5 20057",
+          "land_part_m2": 405066
+        },
+        {
+          "zcta": "20059",
+          "name": "ZCTA5 20059",
+          "land_part_m2": 279660
+        },
+        {
+          "zcta": "20064",
+          "name": "ZCTA5 20064",
+          "land_part_m2": 500887
+        },
+        {
+          "zcta": "20204",
+          "name": "ZCTA5 20204",
+          "land_part_m2": 14638
+        },
+        {
+          "zcta": "20220",
+          "name": "ZCTA5 20220",
+          "land_part_m2": 45321
+        },
+        {
+          "zcta": "20230",
+          "name": "ZCTA5 20230",
+          "land_part_m2": 238781
+        },
+        {
+          "zcta": "20240",
+          "name": "ZCTA5 20240",
+          "land_part_m2": 31673
+        },
+        {
+          "zcta": "20245",
+          "name": "ZCTA5 20245",
+          "land_part_m2": 48187
+        },
+        {
+          "zcta": "20250",
+          "name": "ZCTA5 20250",
+          "land_part_m2": 68747
+        },
+        {
+          "zcta": "20260",
+          "name": "ZCTA5 20260",
+          "land_part_m2": 51082
+        },
+        {
+          "zcta": "20317",
+          "name": "ZCTA5 20317",
+          "land_part_m2": 907674
+        },
+        {
+          "zcta": "20319",
+          "name": "ZCTA5 20319",
+          "land_part_m2": 355839
+        },
+        {
+          "zcta": "20373",
+          "name": "ZCTA5 20373",
+          "land_part_m2": 1306949
+        },
+        {
+          "zcta": "20388",
+          "name": "ZCTA5 20388",
+          "land_part_m2": 86518
+        },
+        {
+          "zcta": "20390",
+          "name": "ZCTA5 20390",
+          "land_part_m2": 10935
+        },
+        {
+          "zcta": "20408",
+          "name": "ZCTA5 20408",
+          "land_part_m2": 29893
+        },
+        {
+          "zcta": "20415",
+          "name": "ZCTA5 20415",
+          "land_part_m2": 29468
+        },
+        {
+          "zcta": "20418",
+          "name": "ZCTA5 20418",
+          "land_part_m2": 29418
+        },
+        {
+          "zcta": "20422",
+          "name": "ZCTA5 20422",
+          "land_part_m2": 302590
+        },
+        {
+          "zcta": "20427",
+          "name": "ZCTA5 20427",
+          "land_part_m2": 16368
+        },
+        {
+          "zcta": "20431",
+          "name": "ZCTA5 20431",
+          "land_part_m2": 17440
+        },
+        {
+          "zcta": "20510",
+          "name": "ZCTA5 20510",
+          "land_part_m2": 30810
+        },
+        {
+          "zcta": "20515",
+          "name": "ZCTA5 20515",
+          "land_part_m2": 93977
+        },
+        {
+          "zcta": "20520",
+          "name": "ZCTA5 20520",
+          "land_part_m2": 79165
+        },
+        {
+          "zcta": "20530",
+          "name": "ZCTA5 20530",
+          "land_part_m2": 40305
+        },
+        {
+          "zcta": "20535",
+          "name": "ZCTA5 20535",
+          "land_part_m2": 38469
+        },
+        {
+          "zcta": "20540",
+          "name": "ZCTA5 20540",
+          "land_part_m2": 86892
+        },
+        {
+          "zcta": "20542",
+          "name": "ZCTA5 20542",
+          "land_part_m2": 34579
+        },
+        {
+          "zcta": "20551",
+          "name": "ZCTA5 20551",
+          "land_part_m2": 23513
+        },
+        {
+          "zcta": "20560",
+          "name": "ZCTA5 20560",
+          "land_part_m2": 291914
+        },
+        {
+          "zcta": "20565",
+          "name": "ZCTA5 20565",
+          "land_part_m2": 375913
+        },
+        {
+          "zcta": "20566",
+          "name": "ZCTA5 20566",
+          "land_part_m2": 153135
+        },
+        {
+          "zcta": "20591",
+          "name": "ZCTA5 20591",
+          "land_part_m2": 25135
+        }
+      ]
+    }
+  ]
+}
